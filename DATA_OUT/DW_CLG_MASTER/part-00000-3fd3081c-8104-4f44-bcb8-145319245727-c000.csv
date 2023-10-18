@@ -1,0 +1,1245 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Sardar Raja College of Engineering - [SRCE], Tirunelveli",4.3,50000,1200000,TN,TNSa4
+"Sudharsan Engineering College - [SEC], Pudukkottai",4.4,55000,2000000,TN,TNSu4
+"Nandha College of Technology - [NCT], Erode",5.1,50000,800000,TN,TNNa5
+"KSR College of Engineering, Namakkal",5.4,60000,500000,TN,TNKS5
+"Arulmigu Meenakshi Amman College of Engineering - [AMACE], Kanchipuram",5.4,160000,1800000,TN,TNAr5
+"Anna University of Technology, Madurai",5.5,43810,600000,TN,TNAn5
+"Krishnasamy College of Engineering and Technology - [KCET], Cuddalore",5.7,50000,500000,TN,TNKr5
+"Alpha College of Engineering, Chennai",5.7,50000,1450000,TN,TNAl5
+"Bharathidasan Engineering College - [BEC], Vellore",5.7,55000,280000,TN,TNBh5
+"Tamilnadu College of Engineering - [TNCE], Coimbatore",5.7,200000,466000,TN,TNTa5
+"The Kavery College of Engineering - [KCE], Salem",6.0,60000,220000,TN,TNTh6
+"Pavai College of Technology - [PCT], Namakkal",6.2,40000,360000,TN,TNPa6
+"V V College of Engineering, Tirunelveli",6.4,30000,360000,TN,TNV 6
+"Velalar College of Engineering and Technology -[VCET], Erode",6.5,50000,411000,TN,TNVe6
+"Arunai Engineering College - [AEC], Tiruvannamalai",6.5,50000,850000,TN,TNAr6
+"Excel College of Engineering and Technology, Namakkal",6.5,55000,350000,TN,TNEx6
+"Hindusthan Institute of Technology - [HITECH], Coimbatore",6.6,125000,400000,TN,TNHi6
+"Dhanalakshmi College of Engineering - [DCE], Chennai",6.6,200000,600000,TN,TNDh6
+"Hindustan Institute of Technology and Science - [HITS], Chennai",6.6,229500,5300000,TN,TNHi6
+"Anna University of Technology, Tirunelveli",6.7,43810,1600000,TN,TNAn6
+"Arignar Anna Institute of Science and Technology, Chennai",6.7,55000,1650000,TN,TNAr6
+"Al Ameen Engineering College, Erode",6.8,25000,816000,TN,TNAl6
+"Cheran College of Engineering, Karur",6.8,50000,450000,TN,TNCh6
+"Mohamed Sathak Engineering College - [MSEC], Ramanathapuram",6.8,60000,800000,TN,TNMo6
+"Indian Institute of Handloom Technology - [IIHT], Salem",6.9,,520000,TN,TNIn6
+"SSM College of Engineering - [SSMCE], Namakkal",6.9,30000,394000,TN,TNSS6
+"Jawahar Engineering College, Chennai",6.9,50000,240000,TN,TNJa6
+"Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",6.9,55000,1400000,TN,TNVe6
+"Akshaya College of Engineering and Technology-[ACET], Coimbatore",6.9,65000,300000,TN,TNAk6
+"Ranganathan Engineering College - [REC], Coimbatore",7.0,60000,1200000,TN,TNRa7
+"Mahendra Institute of Technology - [MIT], Namakkal",7.0,200000,400000,TN,TNMa7
+"Rajalakshmi Engineering College - [REC], Chennai",7.1,50000,4400000,TN,TNRa7
+"Mookambigai College of Engineering, Pudukkottai",7.1,50000,230000,TN,TNMo7
+"Government College of Engineering - [GCES] Srirangam, Tiruchirappalli",7.1,50000,1200000,TN,TNGo7
+"RRASE College of Engineering, Chennai",7.1,50000,200000,TN,TNRR7
+"Sri Lakshmi Ammal Engineering College - [SLAEC], Chennai",7.1,50000,360000,TN,TNSr7
+"CK College of Engineering and Technology - [CKCET], Cuddalore",7.1,50000,325000,TN,TNCK7
+"Pallavan College of Engineering - [PCE], Kanchipuram",7.1,55000,385000,TN,TNPa7
+"A.V.C College of Engineering - [AVCCE], Nagapattinam",7.1,55500,5000000,TN,TNA.7
+"Shivani Engineering College - [SEC], Tiruchirappalli",7.1,56500,1000000,TN,TNSh7
+"AVS Engineering College - [AVSEC], Salem",7.1,70000,7000000,TN,TNAV7
+"Park College of Engineering and Technology - [PCET], Coimbatore",7.1,87000,350000,TN,TNPa7
+"Jayam College of Engineering and Technology - [JCET], Dharmapuri",7.1,200000,2000000,TN,TNJa7
+"Agni College of Technology, Chennai",7.2,50000,1032000,TN,TNAg7
+"Anand Institute of Higher Technology - [AIHT], Chennai",7.2,50000,1250000,TN,TNAn7
+"Selvam College of Technology - [SCT], Namakkal",7.2,50000,240000,TN,TNSe7
+"PET Engineering College, Tirunelveli",7.2,50000,550000,TN,TNPE7
+"RVS College of Engineering and Technology, Coimbatore",7.2,50000,750000,TN,TNRV7
+"Sri Ramanujar Engineering College - [SREC], Chennai",7.2,50000,600000,TN,TNSr7
+"DMI College of Engineering - [DMICE], Chennai",7.2,60000,4000000,TN,TNDM7
+"P.B. College of Engineering - [PBCE], Chennai",7.2,60000,1000000,TN,TNP.7
+"Info Institute of Engineering - [IIE], Coimbatore",7.2,60000,350000,TN,TNIn7
+"Kamaraj College of Engineering and Technology - [KCET], Virudhunagar",7.2,77000,4100000,TN,TNKa7
+"Meenakshi Sundararajan Engineering College - [MSEC], Chennai",7.2,87000,400000,TN,TNMe7
+"Adhi College of Engineering and Technology - [ACET], Kanchipuram",7.2,200000,510000,TN,TNAd7
+"Sri Ramakrishna Institute of Technology - [SRIT], Coimbatore",7.3,50000,2000000,TN,TNSr7
+"Dhanalakshmi Srinivasan Engineering College - [DSEC], Perambalur",7.3,50000,443000,TN,TNDh7
+"Government College of Engineering, Bargur - [GCE], Krishnagiri",7.3,50000,1260000,TN,TNGo7
+"Ponnaiyah Ramajayam Institute of Science and Technology University - [PRIST University], Thanjavur",7.3,51000,4615000,TN,TNPo7
+"Aalim Muhammed Salegh College of Engineering - [AALIMEC], Chennai",7.3,55000,7200000,TN,TNAa7
+"Sri Shanmugha College of Engineering and Technology - [SSCET], Salem",7.3,55000,1000000,TN,TNSr7
+"Jeppiaar Engineering College, Chennai",7.3,60000,5760000,TN,TNJe7
+"Mahendra Engineering College, Namakkal",7.3,70000,480000,TN,TNMa7
+"Sri Muthukumaran Institute of Technology - [SMIT], Chennai",7.3,70000,1800000,TN,TNSr7
+"Einstein College of Engineering, Tirunelveli",7.3,200000,1200000,TN,TNEi7
+"Karpaga Vinayaga College of Engineering and Technology - [KVCET], Chennai",7.3,200000,2850000,TN,TNKa7
+"SRM Engineering College, Kanchipuram",7.3,260000,819000,TN,TNSR7
+"Academy of Maritime Education and Training University - [AMET], Chennai",7.4,,3800000,TN,TNAc7
+"Government College of Engineering - [GCE], Salem",7.4,15820,350000,TN,TNGo7
+"Excel Engineering College, Namakkal",7.4,35000,1200000,TN,TNEx7
+"PPG Institute of Technology - [PPGIT], Coimbatore",7.4,40000,108000,TN,TNPP7
+"Annai Mathammal Sheela Engineering College, Namakkal",7.4,45000,450000,TN,TNAn7
+"Global Institute of Engineering and Technology - [GIT], Vellore",7.4,50000,850000,TN,TNGl7
+"KLN College of Information Technology - [KLNCIT], Sivaganga",7.4,50000,480000,TN,TNKL7
+"SRM TRP Engineering College, Tiruchirappalli",7.4,50000,570000,TN,TNSR7
+"Sakthi Mariamman Engineering College - [SMEC], Chennai",7.4,50000,349000,TN,TNSa7
+"Jayaraj Annapackiam CSI College of Engineering - [JACSICE], Thoothukudi",7.4,50000,225000,TN,TNJa7
+"Coimbatore Institute of Engineering and Technology - [CIET], Coimbatore",7.4,55000,1225000,TN,TNCo7
+"Latha Mathavan Engineering College - [LMEC], Madurai",7.4,55000,1200000,TN,TNLa7
+"Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College, Chennai",7.4,60000,3800000,TN,TNVe7
+"Rajalakshmi Institute of Technology - [RIT], Chennai",7.4,85000,204609,TN,TNRa7
+"CSI College of Engineering - [CSICE], The Nilgiris",7.4,89400,450000,TN,TNCS7
+"University College of Engineering, Anna University - [UCEV], Viluppuram",7.5,43810,1000000,TN,TNUn7
+"JEPPIAAR SRR Engineering college, Chennai",7.5,45000,250000,TN,TNJE7
+"Nandha Engineering College - [NEC], Erode",7.5,50000,2700000,TN,TNNa7
+"Indra Ganesan College of Engineering - [IGCENG], Tiruchirappalli",7.5,50000,800000,TN,TNIn7
+"Salem College of Engineering and Technology - [SCET], Salem",7.5,50000,1100000,TN,TNSa7
+"Gnanamani College of Engineering - [GCE], Namakkal",7.5,50000,650000,TN,TNGn7
+"Annai Mira College of Engineering and Technology, Vellore",7.5,50000,320000,TN,TNAn7
+"Jaya Engineering College - [JEC], Chennai",7.5,55000,6300000,TN,TNJa7
+"Kongunadu College of Engineering and Technology - [KNCET], Tiruchirappalli",7.5,55000,2500000,TN,TNKo7
+"Vickram College of Engineering - [VCE], Sivaganga",7.5,55000,600000,TN,TNVi7
+"Alagappa College of Technology, Anna University - [ACT], Chennai",7.5,57160,545000,TN,TNAl7
+"Panimalar Institute of Technology-[PIT], Chennai",7.5,60000,600000,TN,TNPa7
+"Institute of Road and Transport Technology - [IRTTECH], Erode",7.5,66865,475000,TN,TNIn7
+"Sri Eshwar College of Engineering - [SECE], Coimbatore",7.5,90000,708000,TN,TNSr7
+"Hindusthan College of Engineering and Technology - [HICET], Coimbatore",7.5,100000,344000,TN,TNHi7
+"SASTRA University, Thanjavur",7.5,167000,4500000,TN,TNSA7
+"M. Kumarasamy College of Engineering - [MKCE], Karur",7.5,200000,320000,TN,TNM.7
+"Kalaignar karunanidhi Institute of Technology - [KIT], Coimbatore",7.5,200000,1200000,TN,TNKa7
+"EGS Pillay Engineering College, Nagapattinam",7.5,200000,3000000,TN,TNEG7
+"Cape Institute of Technology - [CAPE], Tirunelveli",7.6,25500,400000,TN,TNCa7
+"Sengunthar Engineering College, Namakkal",7.6,50000,350000,TN,TNSe7
+"Surya Engineering College, Erode",7.6,50000,900000,TN,TNSu7
+"KS Rangasamy College of Technology, Namakkal",7.6,50000,340000,TN,TNKS7
+"Muthayammal Engineering College - [MEC], Namakkal",7.6,60000,120000,TN,TNMu7
+"M.A.M College of Engineering - [MAMCE], Tiruchirappalli",7.6,60000,3200000,TN,TNM.7
+"The Kavery Engineering College - [TKEC], Salem",7.6,60000,1200000,TN,TNTh7
+"K Ramakrishnan College of Technology - [KRCT], Tiruchirappalli",7.6,65000,325000,TN,TNK 7
+"Dr. M.G.R. Educational and Research Institute, Chennai",7.6,80000,5015000,TN,TNDr7
+"Syed Ammal Engineering college, Ramanathapuram",7.6,200000,120000,TN,TNSy7
+"Mangayarkarasi College of Engineering - [MCE], Madurai",7.7,30000,320000,TN,TNMa7
+"SVS College of Engineering - [SVSCE], Coimbatore",7.7,45000,180000,TN,TNSV7
+"Jerusalem College of Engineering - [JCE], Chennai",7.7,50000,450000,TN,TNJe7
+"EASA College of Engineering and Technology - [ECET], Coimbatore",7.7,50000,300000,TN,TNEA7
+"Meenakshi College of Engineering, Chennai",7.7,50000,1340000,TN,TNMe7
+"Dhanalakshmi Srinivasan College of Engineering - [DSCE], Coimbatore",7.7,55000,2600000,TN,TNDh7
+"Misrimal Navajee Munoth Jain Engineering College - [MNMJEC], Chennai",7.7,55000,450000,TN,TNMi7
+"St Joseph College of Engineering, Chennai",7.7,60000,450000,TN,TNSt7
+"SKP Engineering College, Tiruvannamalai",7.7,65000,360000,TN,TNSK7
+"New Prince Shri Bhavani College of Engineering & Technology - [NPSBCET], Chennai",7.7,65000,1800000,TN,TNNe7
+"Bharath University - Bharath Institute of Higher Education and Research - [BIHER], Chennai",7.7,150000,600000,TN,TNBh7
+"Dr. NGP Institute of Technology, Coimbatore",7.7,200000,500000,TN,TNDr7
+"Amrita Vishwa Vidyapeetham, Coimbatore",7.7,300000,572000,TN,TNAm7
+"Infant Jesus College of Engineering - [IJCE], Thoothukudi",7.8,34000,250000,TN,TNIn7
+"Anna University, College of Engineering - [UCEK], Kanchipuram",7.8,43810,250000,TN,TNAn7
+"Paavai Engineering College (Autonomous), Namakkal",7.8,50000,8500000,TN,TNPa7
+"GKM College of Engineering and Technology - [GKMCET], Chennai",7.8,50000,590000,TN,TNGK7
+"Thangavelu Engineering College, Chennai",7.8,50000,1000000,TN,TNTh7
+"ARM College of Engineering and Technology - [ARMCET], Kanchipuram",7.8,50000,2500000,TN,TNAR7
+"KLN College of Engineering - [KLNCE], Sivaganga",7.8,60000,1945000,TN,TNKL7
+"Roever Engineering College-[REC], Perambalur",7.8,60000,450000,TN,TNRo7
+"Renganayagi Varatharaj College of Engineering - [RVCE], Virudhunagar",7.8,60000,530000,TN,TNRe7
+"Velammal Engineering College - [VEC], Chennai",7.8,65000,1400000,TN,TNVe7
+"Raja College of Engineering and Technology, Veerapanjan, Madurai",7.8,81000,1900000,TN,TNRa7
+"Vi Institute of Technology - [VIIT], Kanchipuram",7.8,200000,653000,TN,TNVi7
+"Velammal College of Engineering and Technology - [VCET], Madurai",7.8,200000,2100000,TN,TNVe7
+"Parisutham Institute of Technology and Science - [PITS], Thanjavur",7.8,200000,120000,TN,TNPa7
+"Vels Institute of Science, Technology & Advanced Studies, Chennai",7.8,287250,4160000,TN,TNVe7
+"Amrita School of Engineering - [ASE], Coimbatore",7.8,335000,460000,TN,TNAm7
+"United Institute of Technology - [UIT], Coimbatore",7.9,,700000,TN,TNUn7
+"Government College of Engineering - [GCE], Dharmapuri",7.9,7555,741000,TN,TNGo7
+"PSR Engineering College, Virudhunagar",7.9,14000,350000,TN,TNPS7
+"Coimbatore Institute of Technology - [CIT], Coimbatore",7.9,25800,5800000,TN,TNCo7
+"KCG College Of technology, Chennai",7.9,50000,1400000,TN,TNKC7
+"Prince Shri Venkateshwara Padmavathy Engineering College - [PSVPEC], Chennai",7.9,50000,1000000,TN,TNPr7
+"Vaigai College of Engineering- [VCE], Madurai",7.9,50000,350000,TN,TNVa7
+"CMS College of Engineering - [CMSCE], Namakkal",7.9,50000,4000000,TN,TNCM7
+"Sengunthar College of Engineering - [SCE], Namakkal",7.9,50000,380000,TN,TNSe7
+"SCAD Engineering College, Tirunelveli",7.9,50000,450000,TN,TNSC7
+"Easwari Engineering College - [EEC], Chennai",7.9,55000,300000,TN,TNEa7
+"S.A. Engineering College, Chennai",7.9,60000,2910000,TN,TNS.7
+"Aarupadai Veedu Institute of Technology - [AVIT], Kanchipuram",7.9,60000,450000,TN,TNAa7
+"Sathyabama Institute of Science and Technology, Chennai",7.9,80000,1535000,TN,TNSa7
+"SRM Valliammai Engineering college -[VEC], Kanchipuram",7.9,177000,3900000,TN,TNSR7
+"Vellore Institute of Technology - [VIT], Chennai",7.9,198000,1500000,TN,TNVe7
+"SNS College of Engineering - [SNSCE], Coimbatore",7.9,300000,2100000,TN,TNSN7
+"Adhiparasakthi College of Engineering Arcot - [APCE], Vellore",8.0,40000,718000,TN,TNAd8
+"Annai Teresa College of Engineering, Viluppuram",8.0,50000,1200000,TN,TNAn8
+"Erode Sengunthar Engineering College, Perundurai",8.0,55000,1450000,TN,TNEr8
+"Loyola Institute of Technology - [LIT], Chennai",8.0,55000,550000,TN,TNLo8
+"Sree Sastha Institute of Engineering and Technology, Chennai",8.0,55000,650000,TN,TNSr8
+"VSB College of Engineering Technical Campus, Coimbatore",8.0,55000,450000,TN,TNVS8
+"Suguna College of Engineering - [SCE], Coimbatore",8.0,60000,190000,TN,TNSu8
+"Mount Zion College of Engineering and Technology, Pudukkottai",8.0,60000,1000000,TN,TNMo8
+"Thirumalai Engineering College - [TEC], Kanchipuram",8.0,60000,520000,TN,TNTh8
+"Saranathan College of Engineering - [SCE], Tiruchirappalli",8.0,65000,700000,TN,TNSa8
+"Karpagam College of Engineering - [KCE], Coimbatore",8.0,75500,350000,TN,TNKa8
+"St. Peter's Institute of Higher Education and Research - [SPIHER], Chennai",8.0,100000,1453000,TN,TNSt8
+"Saveetha Engineering College - [SEC], Chennai",8.0,200000,3600000,TN,TNSa8
+"SKR Engineering College, Chennai",8.0,200000,3500000,TN,TNSK8
+"Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology - [Vel Tech], Chennai",8.0,250000,324409,TN,TNVe8
+"Government College of Technology - [GCT], Coimbatore",8.1,9180,6200000,TN,TNGo8
+"Government College Of Engineering Sengipatti, Thanjavur",8.1,9430,2100000,TN,TNGo8
+"Sri Krishna College of Engineering and Technology - [SKCET], Coimbatore",8.1,50000,1018000,TN,TNSr8
+"PERI Institute of Technology - [PERIT], Chennai",8.1,55000,4491000,TN,TNPE8
+"Chettinad College of Engineering and Technology - [CCET], Karur",8.1,55000,314000,TN,TNCh8
+"Trichy Engineering College - [TEC], Tiruchirappalli",8.1,60000,400000,TN,TNTr8
+"Kathir College of Engineering, Coimbatore",8.1,60000,1250000,TN,TNKa8
+"Indian Institute of Information Technology Design & Manufacturing - [IIITDM], Chennai",8.1,135100,2400000,TN,TNIn8
+"Sasurie College of Engineering - [SCE], Tiruppur",8.1,200000,350000,TN,TNSa8
+"Gojan School of Business and Technology - [GSBT], Chennai",8.1,200000,202345,TN,TNGo8
+"Asan Memorial College of Engineering and Technology - [AMCET], Kanchipuram",8.1,200000,145000,TN,TNAs8
+"Karunya Institute of Technology and Sciences - [Karunya Deemed University], Coimbatore",8.1,218500,2700000,TN,TNKa8
+"Indian Maritime University - [IMU], Chennai",8.1,225000,3425000,TN,TNIn8
+"SRM Institute of Science and Technology - [SRMIST], Chennai",8.1,250000,3000000,TN,TNSR8
+"Tamil Nadu Veterinary and Animal Sciences University - [TANUVAS], Chennai",8.2,21415,1826000,TN,TNTa8
+"Central Institute of Petrochemicals Engineering & Technology - [CIPET], Chennai",8.2,31950,1000000,TN,TNCe8
+"Madras Institute of Technology- [MIT], Chennai",8.2,46060,3251000,TN,TNMa8
+"Sri Sairam Engineering College, Chennai",8.2,50000,2500000,TN,TNSr8
+"Angel College of Engineering and Technology - [ACET], Tiruppur",8.2,50000,300000,TN,TNAn8
+"Sri Ramakrishna Engineering College - [SREC], Coimbatore",8.2,55000,19500000,TN,TNSr8
+"Sree Sowdambika College of Engineering - [SSCE], Virudhunagar",8.2,55000,280000,TN,TNSr8
+"Panimalar Engineering College, Chennai",8.2,60000,5500000,TN,TNPa8
+"KGISL Institute of Technology - [KITE], Coimbatore",8.2,87200,800000,TN,TNKG8
+"Christ the King Engineering College, Coimbatore",8.2,200000,960000,TN,TNCh8
+"Sri Sairam Institute of Technology - [SSIT], Chennai",8.2,202000,750000,TN,TNSr8
+"Thanthai Periyar Government Institute of Technology - [TPGIT], Vellore",8.3,6455,540000,TN,TNTh8
+"SCAD College of Engineering and Technology - [SCAD CET], Tirunelveli",8.3,50000,406000,TN,TNSC8
+"Kongu Engineering College - [KEC], Erode",8.3,55000,5820000,TN,TNKo8
+"Chennai Institute of Technology - [CIT], Chennai",8.3,55000,2200000,TN,TNCh8
+"St. Joseph College Of Engineering, Kanchipuram",8.3,60000,500000,TN,TNSt8
+"Jansons Institute of Technology - [JIT], Coimbatore",8.3,92500,300000,TN,TNJa8
+"Kumaraguru College of Technology - [KCT], Coimbatore",8.3,100200,650000,TN,TNKu8
+"Vellore Institute of Technology - [VIT University], Vellore",8.3,198000,1000000,TN,TNVe8
+"SSN College of Engineering - [SSNCE], Chennai",8.3,200000,10200000,TN,TNSS8
+"Madha Engineering College, Chennai",8.4,,240000,TN,TNMa8
+"College of Engineering, Anna University - [CEG], Chennai",8.4,31060,3037000,TN,TNCo8
+"Saveetha School of Engineering - [SSE], Chennai",8.4,45000,5300000,TN,TNSa8
+"VSB Engineering College - [VSBEC], Karur",8.4,45000,334000,TN,TNVS8
+"Sri Shakthi Institute of Engineering and Technology - [SIET], Coimbatore",8.4,50000,350000,TN,TNSr8
+"JCT College of Engineering and Technology, Coimbatore",8.4,50000,1000000,TN,TNJC8
+"Vinayaka Missions University - [VMU], Salem",8.4,60000,1700000,TN,TNVi8
+"B.S. Abdur Rahman Crescent Institute of Science & Technology - [BSAU], Chennai",8.4,85000,6400000,TN,TNB.8
+"NIT Trichy, Tiruchirappalli",8.4,178150,3000000,TN,TNNI8
+"Indian Institute of Information Technology - [IIIT], Tiruchirappalli",8.4,194750,4400000,TN,TNIn8
+"Sri Krishna College of Technology - [SKCT], Coimbatore",8.4,200000,1470000,TN,TNSr8
+"PSNA College of Engineering and Technology, Dindigul",8.4,200000,5200000,TN,TNPS8
+"K. Ramakrishnan College of Engineering -[KRCE], Tiruchirappalli",8.4,200000,1200000,TN,TNK.8
+"Loyola-ICAM College of Engineering and Technology - [LICET], Chennai",8.4,200000,434000,TN,TNLo8
+"SRM University Vadapalani Campus, Chennai",8.4,225000,1240000,TN,TNSR8
+"Francis Xavier Engineering College, Tirunelveli",8.5,,408000,TN,TNFr8
+"Periyar Maniammai Institute of Science and Technology - [PMIST], Thanjavur",8.5,44500,168000,TN,TNPe8
+"Sona College of Technology, Salem",8.5,55000,320000,TN,TNSo8
+"Thiagarajar College of Engineering - [TCE], Madurai",8.5,82000,5500000,TN,TNTh8
+"KPR Institute of Engineering & Technology - [KPRIET], Coimbatore",8.5,96900,223000,TN,TNKP8
+"SACS MAVMM Engineering College, Madurai",8.5,200000,300000,TN,TNSA8
+"Dhirajlal Gandhi College of Technology, Salem",8.6,50000,1800000,TN,TNDh8
+"M.A.M. College of Engineering and Technology - [MAMCET], Tiruchirappalli",8.6,50000,1510000,TN,TNM.8
+"St.Joseph's Institute of Technology - [SJIT], Chennai",8.6,200000,1350000,TN,TNSt8
+"SRM Institute of Science and Technology Ramapuram Campus, Chennai",8.6,210000,300000,TN,TNSR8
+"Thamirabharani Engineering College,, Tirunelveli",8.7,40000,350000,TN,TNTh8
+"Knowledge Institute of Technology - [KIOT], Salem",8.7,50000,743000,TN,TNKn8
+"Pandian Saraswathi Yadav Engineering College, Sivaganga",8.7,60000,600000,TN,TNPa8
+"PSG Institute of Technology and Applied Research - [PSG iTech], Coimbatore",8.7,89800,2100000,TN,TNPS8
+"IIT Madras - Indian Institute of Technology - [IITM], Chennai",8.7,209550,2148000,TN,TNII8
+"P.S.G College of Technology - [PSGCT], Coimbatore",8.8,55000,8205000,TN,TNP.8
+"Karpagam Institute of Technology, Coimbatore",9.0,50000,700000,TN,TNKa9
+"Krishnasamy College of Engineering and Technology - [KCET], Cuddalore",5.7,50000,500000,AP,APKr5
+"Anil Neerukonda Institute of Technology & Sciences - [ANITS], Visakhapatnam",5.8,76300,890000,AP,APAn5
+"G. Pullaiah College of Engineering and Technology - [GPCET], Kurnool",6.3,48000,1175000,AP,APG.6
+"Kalasalingam Institute of Technology - [KIT], Krishnankovil",6.4,200000,300000,AP,APKa6
+"Lenora College of Engineering, East Godavari",6.5,35000,400000,AP,APLe6
+"Godavari Institute of Engineering and Technology - [GIET] Rajahmundry, East Godavari",6.5,58700,303000,AP,APGo6
+"Lendi Institute of Engineering and Technology, Vizianagaram",6.5,59900,5023000,AP,APLe6
+"Vignan's Nirula Institute of Technology and Science for Women -[VNIW], Guntur",6.6,35000,180000,AP,APVi6
+"Usha Rama College of Engineering and Technology - [URCE], Krishna",6.8,55200,737000,AP,APUs6
+"Raghu Institute of Technology - [RIT], Visakhapatnam",6.8,61000,1200000,AP,APRa6
+"Sri Vasavi Institute of Engineering and Technology - [SVIET], Krishna",6.9,30200,1200000,AP,APSr6
+"Chalapathi Institute of Technology - [CIT], Guntur",7.0,35000,360000,AP,APCh7
+"Anantha Lakshmi Institute of Technology and Sciences - [ALITS], Anantapur",7.0,50200,400000,AP,APAn7
+"Kalasalingam Academy of Research and Education, Krishnankovil",7.0,120600,300000,AP,APKa7
+"GITAM School of Technology, Visakhapatnam",7.0,346000,1300000,AP,APGI7
+"Amrita Sai Institute of Science and Technology - [ASIST], Krishna",7.1,35000,1500000,AP,APAm7
+"Sri Mittapalli College of Engineering, Guntur",7.1,41600,550000,AP,APSr7
+"Sri Krishna Institute of Technology - [SKIT], Bangalore",7.1,45000,1000000,AP,APSr7
+"MVR College of Engineering and Technology - [MVRCET], Krishna",7.1,64800,170000,AP,APMV7
+"GIET Engineering College, Rajahmundhry, East Godavari",7.2,65000,610000,AP,APGI7
+"Government College of Engineering, Bargur - [GCE], Krishnagiri",7.3,50000,1260000,AP,APGo7
+"Sri Mittapalli Institute of Technology for Women - [SMITW], Guntur",7.3,52400,360000,AP,APSr7
+"Krishna Group of Institutions, Kanpur",7.3,65000,480000,AP,APKr7
+"Annamacharya Institute of Technology and Sciences, Kadapa",7.3,68700,3175000,AP,APAn7
+"Teegala Krishna Reddy Engineering College, Hyderabad",7.3,80000,1600000,AP,APTe7
+"GITAM, Visakhapatnam",7.3,245000,5263000,AP,APGI7
+"Srinivasa Ramanujan Institute of Technology - [SRIT], Anantapur",7.4,50200,720000,AP,APSr7
+"Prakasam Engineering College - [PEC], Prakasam",7.4,53850,360000,AP,APPr7
+"GIET College of Engineering, Rajahmundhry, East Godavari",7.4,58700,3300000,AP,APGI7
+"Maharaj Vijayaram Gajapathi Raj College of Engineering - [MVGRCE], Vizianagaram",7.4,67700,2035000,AP,APMa7
+"Jawaharlal Nehru Technological University - [JNTU], Anantapur",7.5,,470000,AP,APJa7
+"JNTUA College of Engineering, Anantapur",7.5,25000,1472000,AP,APJN7
+"BABA Institute of Technology and Sciences - [BITS-VIZAG], Visakhapatnam",7.5,30000,700000,AP,APBA7
+"Aditya Institute of Technology and Management -[AITAM] Tekkali, Srikakulam",7.5,72000,400000,AP,APAd7
+"Vemu Institute of Technology - [VEMU], Chittoor",7.6,35000,450000,AP,APVe7
+"Visakha Institute of Engineering & Technology - [VIET], Visakhapatnam",7.6,35000,350000,AP,APVi7
+"Vizag Institute of Technology - [VIZB], Visakhapatnam",7.6,50100,1500000,AP,APVi7
+"Vasireddy Venkatadri Institute of Technology - [VVIT], Guntur",7.6,55000,2216000,AP,APVa7
+"Bapatla Engineering College - [BEC], Guntur",7.6,61000,800000,AP,APBa7
+"Rajeev Gandhi Memorial College of Engineering and Technology Nandyal - [RGMCET], Kurnool",7.6,69100,645000,AP,APRa7
+"Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Kurnool",7.6,153380,576000,AP,APIn7
+"Andhra University, College of Engineering - [AUCE], Visakhapatnam",7.7,10000,1150000,AP,APAn7
+"MIC College of Technology, Krishna",7.7,36100,180000,AP,APMI7
+"KKR & KSR Institute of Technology and Sciences - [KITS], Guntur",7.7,37000,605000,AP,APKK7
+"Kandula Sreenivasa Reddy Memorial College of Engineering - [KSRMCE], Kadapa",7.7,56700,220000,AP,APKa7
+"Gayatri Vidya Parishad College of Engineering For Women - [GVPW], Visakhapatnam",7.7,97600,500000,AP,APGa7
+"Bonam Venkata Chalamayya Engineering College - [BVCEC], East Godavari",7.8,35000,350000,AP,APBo7
+"Malineni Lakshmaiah Womens Engineering College, Guntur",7.8,35000,465000,AP,APMa7
+"Chalapathi Institute of Engineering and Technology - [CIET], Guntur",7.8,52500,1200000,AP,APCh7
+"QIS Institute of Technology - [QISIT], Prakasam",7.8,53000,3000000,AP,APQI7
+"Krishna Engineering College - [KEC], Ghaziabad",7.8,99677,86000000,AP,APKr7
+"JNTUK University College of Engineering, Kakinada, East Godavari",7.9,10000,1030000,AP,APJN7
+"Sai Tirumala NVR Engineering College - [STNVR], Guntur",7.9,38900,700000,AP,APSa7
+"BIT Institute of Technology, Anantapur",7.9,50200,2000000,AP,APBI7
+"Sri Venkateswara College of Engineering and Technology - [SVCET], Chittoor",7.9,65000,2500000,AP,APSr7
+"Santhiram Engineering College Nandyal - [SREC], Kurnool",8.0,59500,370000,AP,APSa8
+"Pragati Engineering College, East Godavari",8.0,63000,4732000,AP,APPr8
+"Gayatri Vidya Parishad College of Engineering, Visakhapatnam",8.0,69000,900000,AP,APGa8
+"Aditya Engineering College - [AEC], East Godavari",8.0,72000,1300000,AP,APAd8
+"Sri Krishna College of Engineering and Technology - [SKCET], Coimbatore",8.1,50000,1018000,AP,APSr8
+"Raghu Engineering College - [REC], Visakhapatnam",8.1,69700,2400000,AP,APRa8
+"Lakireddy Bali Reddy College of Engineering - [LBRCE], Krishna",8.1,69700,4160000,AP,APLa8
+"Centurion University of Technology and Management - [CUTM], Vizianagaram",8.1,125000,1900000,AP,APCe8
+"RV Institute of Technology, Guntur",8.2,35000,400000,AP,APRV8
+"Sai Ganapathi Engineering College, Visakhapatnam",8.2,35000,1000000,AP,APSa8
+"RVR and JC College of Engineering, Guntur",8.2,73400,733000,AP,APRV8
+"VIT University - [VIT- AP], Guntur",8.2,198000,4600000,AP,APVI8
+"Sanketika Vidya Parishad Engineering College, Visakhapatnam",8.3,41000,240000,AP,APSa8
+"Kallam Haranadhareddy Institute of Technology - [KHIT], Guntur",8.3,50200,2500000,AP,APKa8
+"Narasaraopeta Engineering College - [NEC], Guntur",8.3,60400,1000000,AP,APNa8
+"Gudlavalleru Engineering College - [GEC], Krishna",8.3,65000,1200000,AP,APGu8
+"Vignan's Foundation for Science, Technology, and Research, Guntur",8.3,120000,1243000,AP,APVi8
+"Guntur Engineering College - [GEC], Guntur",8.4,35000,300000,AP,APGu8
+"Shri Krishna University - [SKU], Chhatarpur",8.4,46000,600000,AP,APSh8
+"G. Pulla Reddy Engineering College - [GPREC], Kurnool",8.4,80000,4200000,AP,APG.8
+"Sri Krishna College of Technology - [SKCT], Coimbatore",8.4,200000,1470000,AP,APSr8
+"K L University - [KLU], Guntur",8.4,240000,2500000,AP,APK 8
+"Sri Sivani College of Engineering - [SSCE], Srikakulam",8.6,35000,1000000,AP,APSr8
+"University College of Engineering, JNTUK, Vizianagaram",8.7,15300,360000,AP,APUn8
+"Vignan's Institute of Information Technology - [VIIT], Visakhapatnam",8.7,52000,500000,AP,APVi8
+"Pydah College of Engineering, Kakinada, East Godavari",8.7,106850,520000,AP,APPy8
+"Gates Institute of Technology-[GIT], Anantapur",8.9,41000,1000000,AP,APGa8
+"NETES Institute of Technology and Science - [NITS] Mirza, Kamrup",5.8,90000,300000,AS,ASNE5
+"Jorhat Institute of Science and Technology - [JIST], Jorhat",7.1,,350000,AS,ASJo7
+"Bineswar Brahma Engineering College- [BBEC], Kokrajhar",7.1,12800,650000,AS,ASBi7
+"Central Institute of Technology - [CIT], Kokrajhar",7.2,52000,1000000,AS,ASCe7
+"Jorhat Engineering College - [JEC], Jorhat",7.8,11000,1000000,AS,ASJo7
+"Supaul College of Engineering - [SCE], Supaul",6.0,,1400000,BR,BRSu6
+"Saharsa College of Engineering - [SCE], Saharsa",7.1,,450000,BR,BRSa7
+"PES College of Engineering - [PESCOE], Aurangabad",7.2,87054,450000,BR,BRPE7
+"Gaya College of Engineering, Gaya",7.2,100000,4060000,BR,BRGa7
+"GS Mandal's Marathwada Institute of Technology - [MIT], Aurangabad",7.2,101000,700000,BR,BRGS7
+"Jawaharlal Nehru Engineering College - [JNEC], Aurangabad",7.2,169000,1600000,BR,BRJa7
+"Nalanda Institute of Technology - [NIT], Bhubaneswar",7.3,86500,1500000,BR,BRNa7
+"Sityog Institute of Technology, Aurangabad",7.3,111000,1000000,BR,BRSi7
+"Birla Institute of Technology - [BIT], Patna",7.3,295000,900000,BR,BRBi7
+"Maharashtra Institute of Technology - [MIT], Aurangabad",7.5,101200,3100000,BR,BRMa7
+"Biju Patnaik University of Technology - [BPUT], Rourkela",7.5,235000,1600000,BR,BRBi7
+"Aryabhatta Knowledge University - [AKU], Patna",7.6,,2743000,BR,BRAr7
+"Aurangabad College of Engineering - [ACE], Aurangabad",7.6,60500,260000,BR,BRAu7
+"Bhagalpur College of Engineering - [BCE], Bhagalpur",7.6,112500,650000,BR,BRBh7
+"Government College of Engineering - [GECA], Aurangabad",7.7,65839,540000,BR,BRGo7
+"Gayatri Vidya Parishad College of Engineering For Women - [GVPW], Visakhapatnam",7.7,97600,500000,BR,BRGa7
+"Netaji Subhas Institute of Technology - [NSIT], Patna",7.7,108300,1200000,BR,BRNe7
+"National Institute of Electronics and Information Technology - [NIELIT], Aurangabad",7.8,83250,500000,BR,BRNa7
+"Amity University, Patna",7.8,159000,4000000,BR,BRAm7
+"Katihar Engineering College - [KEC], Katihar",7.9,,1240000,BR,BRKa7
+"Muzaffarpur Institute of Technology - [MIT], Muzaffarpur",7.9,100000,423000,BR,BRMu7
+"National Institute of Technology - [NITP], Patna",7.9,165700,4150000,BR,BRNa7
+"Saranathan College of Engineering - [SCE], Tiruchirappalli",8.0,65000,700000,BR,BRSa8
+"Gayatri Vidya Parishad College of Engineering, Visakhapatnam",8.0,69000,900000,BR,BRGa8
+"Bakhtiyarpur College of Engineering - [BCE], Patna",8.2,,4400000,BR,BRBa8
+"Darbhanga College of Engineering - [DCE], Darbhanga",8.2,29130,400000,BR,BRDa8
+"Government Engineering College - [GEC], Gopalganj",8.5,100000,560000,BR,BRGo8
+"IIT Patna - Indian Institute of Technology - [IITP], Patna",8.5,270250,12000000,BR,BRII8
+"Nalanda College of Engineering - [NCE], Chandi",8.7,12920,364000,BR,BRNa8
+"Shri Rawatpura Sarkar University - [SRU], Raipur",6.6,45200,2000000,CH,CHSh6
+"Dr. C.V. Raman University - [CVRU], Bilaspur",6.9,50700,1150000,CH,CHDr6
+"Dr. B.C. Roy Engineering College - [BCREC], Durgapur",7.1,108980,435000,CH,CHDr7
+"Bhilai Institute of Technology - [BIT], Durg",7.3,81400,1000000,CH,CHBh7
+"MATS University, Raipur",7.6,72000,450000,CH,CHMA7
+"Chouksey Engineering College - [CEC], Bilaspur",7.7,60000,480000,CH,CHCh7
+"Government Engineering College - [GEC], Raipur",7.7,82780,203000,CH,CHGo7
+"Amity University, Raipur",7.7,86000,1358000,CH,CHAm7
+"National Institute of Technology - [NIT], Raipur",7.7,140600,7400000,CH,CHNa7
+"Bhilai Institute of Technology - [BITR], Raipur",7.9,79214,870000,CH,CHBh7
+"OP Jindal University - [OPJU], Raigarh",7.9,135000,320000,CH,CHOP7
+"Raipur Institute of Technology - [RITEE], Raipur",7.9,304000,350000,CH,CHRa7
+"Columbia Institute of Engineering and Technology - [CIET], Raipur",8.0,,850000,CH,CHCo8
+"Govt Engineering College, Bilaspur",8.0,12725,1200000,CH,CHGo8
+"Lakhmi Chand Institute of Technology - [LCIT], Bilaspur",8.0,68000,797000,CH,CHLa8
+"Bengal College of Engineering and Technology - [BCET], Durgapur",8.0,86900,1500000,CH,CHBe8
+"Shri Shankaracharya Institute of Professional Management and Technology - [SSIPMT], Raipur",8.2,72230,240000,CH,CHSh8
+"Chhatrapati Shivaji Institute of Technology - [CSIT], Durg",8.3,75000,1200000,CH,CHCh8
+"International Institute of Information Technology - [IIIT] Naya Raipur, Raipur",8.4,180150,1000000,CH,CHIn8
+"Bengal College of Engineering - [BCE], Durgapur",8.6,98500,340000,CH,CHBe8
+"National Institute of Technology - [NIT], Durgapur",8.6,186100,4000000,CH,CHNa8
+"Chhattisgarh Engineering College - [CEC], Durg",8.8,60000,360000,CH,CHCh8
+"ICFAI University, Raipur",8.9,100000,800000,CH,CHIC8
+"Yadavrao Tasgaonkar Institute of Engineering and Technology - [YTIET], Raigarh",9.3,66000,2516000,CH,CHYa9
+"Delhi Institute of Engineering and Technology - [DIET], Meerut",5.4,55000,300000,DL,DLDe5
+"Amity School of Engineering & Technology - [ASET], New Delhi",6.7,,325000,DL,DLAm6
+"Dr. Akhilesh Das Gupta Institute of Technology & Management - [ADGITM], New Delhi",7.1,118800,3800000,DL,DLDr7
+"Delhi Technical Campus - [DTC], Greater Noida",7.1,124250,1000000,DL,DLDe7
+"National Institute of Technology - [NIT], New Delhi",7.3,178200,360000,DL,DLNa7
+"Maharaja Surajmal Institute of Technology - [MSIT], New Delhi",7.4,156300,630000,DL,DLMa7
+"SRMIST Delhi NCR Campus, Ghaziabad",7.4,221000,650000,DL,DLSR7
+"Netaji Subhas University of Technology - [NSUT], New Delhi",7.4,229000,4000000,DL,DLNe7
+"Bhagwan Parshuram Institute of Technology - [BPIT], New Delhi",7.5,97800,350000,DL,DLBh7
+"Bharati Vidyapeeth's College of Engineering - [BVCOE], New Delhi",7.5,130200,7000000,DL,DLBh7
+"Guru Tegh Bahadur Institute of Technology - [GTBIT], New Delhi",7.5,142800,1356000,DL,DLGu7
+"Maharaja Agrasen Institute of Technology - [MAIT], New Delhi",7.5,143200,3500000,DL,DLMa7
+"Guru Gobind Singh Indraprastha University - [GGSIPU], New Delhi",7.6,132000,3200000,DL,DLGu7
+"Indira Gandhi Delhi Technical University For Women -[IGDTUW], New Delhi",7.8,88000,1400000,DL,DLIn7
+"SRM University Delhi NCR, Sonepat",7.9,216000,2000000,DL,DLSR7
+"HMR Institute of Technology & Management - [HMRITM], New Delhi",8.0,115800,3200000,DL,DLHM8
+"Delhi Technical Campus - [DTC], Jhajjar",8.1,69500,1150000,DL,DLDe8
+"Ganga Group of Institutions - [GGI], New Delhi",8.1,78000,1100000,DL,DLGa8
+"Delhi Institute of Tool Engineering - [DITE], New Delhi",8.2,,500000,DL,DLDe8
+"Jamia Millia Islamia University-[JMI], New Delhi",8.2,16150,1701000,DL,DLJa8
+"Delhi Technological University - [DTU], New Delhi",8.2,219000,1750000,DL,DLDe8
+"GB Pant Delhi Skill and Entrepreneurship University, Okhla-I Campus, New Delhi",8.3,40000,2400000,DL,DLGB8
+"Delhi Engineering College, Faridabad",8.3,75000,400000,DL,DLDe8
+"University School of Information, Communication and Technology - [USICT], New Delhi",8.3,102000,450000,DL,DLUn8
+"Indraprastha Institute of Technology and Management - [IITM], New Delhi",8.3,125000,625000,DL,DLIn8
+"IIT Delhi - Indian Institute of Technology [IITD], New Delhi",8.7,254650,19800000,DL,DLII8
+"Indraprastha Institute of Information Technology - [IIITD], New Delhi",8.7,462000,2249000,DL,DLIn8
+"Goa College of Engineering - [GEC], Ponda",6.0,59500,510000,GA,GAGo6
+"National Institute of Technology - [NIT], South Goa",7.6,143200,500000,GA,GANa7
+"IIT Goa - Indian Institute of Technology - [IITG], Ponda",8.5,215800,660000,GA,GAII8
+"Birla Institute of Technology and Science - [BITS], South Goa",8.6,571575,3125000,GA,GABi8
+"Saffrony Institute of Technology & S.P.B. Patel Engineering College, Ahmedabad",4.7,81150,300000,GJ,GJSa4
+"Government Engineering College - [GEC], Rajkot",5.1,1500,2200000,GJ,GJGo5
+"Amiraj College of Engineering and Technology- [ACET], Ahmedabad",5.4,30000,300000,GJ,GJAm5
+"KJ Institute of Engineering and Technology - [KJIT], Vadodara",5.5,60000,540000,GJ,GJKJ5
+"Government Engineering College, Valsad",6.0,1500,500000,GJ,GJGo6
+"Parul Institute of Engineering and Technology - [PIET], Vadodara",6.0,90300,320000,GJ,GJPa6
+"Dr. Subhash University, Junagadh",6.3,77175,450000,GJ,GJDr6
+"Government Engineering College, Patan",6.6,1500,330000,GJ,GJGo6
+"Government Engineering College -[GEC], Gandhinagar",6.6,18000,500000,GJ,GJGo6
+"Anand International College of Engineering, Jaipur",6.6,85000,1000000,GJ,GJAn6
+"Drs. Kiran and Pallavi Patel Global University, Vadodara",6.7,117600,526000,GJ,GJDr6
+"Om Engineering College - [OEC], Junagadh",7.1,67000,1300000,GJ,GJOm7
+"Anand Institute of Higher Technology - [AIHT], Chennai",7.2,50000,1250000,GJ,GJAn7
+"L.J. Institute of Engineering and Technology - [LJIET], Ahmedabad",7.2,73000,1000000,GJ,GJL.7
+"Universal College of Engineering and Technology - [UCET], Gandhinagar",7.3,,480000,GJ,GJUn7
+"Ahmedabad Institute of Technology, Ahmedabad",7.3,71000,1500000,GJ,GJAh7
+"Institute of Infrastructure Technology Research and Management - [IITRAM], Ahmedabad",7.3,89500,850000,GJ,GJIn7
+"Shah and Anchor Kutchhi Engineering College - [SAKEC], Mumbai",7.3,133263,507000,GJ,GJSh7
+"Government Engineering College - [GEC], Bhavnagar",7.4,1500,1500000,GJ,GJGo7
+"Shantilal Shah Engineering College - [SSEC], Bhavnagar",7.4,2800,650000,GJ,GJSh7
+"Charotar University of Science and Technology - [CHARUSAT], Anand",7.4,128000,1000000,GJ,GJCh7
+"Adani Institute of Infrastructure Engineering - [AIIE], Ahmedabad",7.4,165000,420000,GJ,GJAd7
+"Madhuben & Bhanubhai Patel Institute of Technology - [MBPIT], Anand",7.5,71000,1240000,GJ,GJMa7
+"VVP Engineering College - [VVPEC], Rajkot",7.5,93000,400000,GJ,GJVV7
+"Sarvajanik College of Engineering and Technology - [SCET], Surat",7.5,118000,700000,GJ,GJSa7
+"Gujarat Power Engineering and Research Institute - [GPERI], Mehsana",7.6,40000,500000,GJ,GJGu7
+"Vadodara Institute of Engineering, Vadodara",7.6,61000,375000,GJ,GJVa7
+"Shree Swaminarayan Institute of Technology- [SSIT], Gandhinagar",7.6,61000,255108,GJ,GJSh7
+"Anand Engineering College - [AEC], Agra",7.6,117625,3600000,GJ,GJAn7
+"Central Institute of Petrochemicals Engineering & Technology - [CIPET], Ahmedabad",7.7,65000,1500000,GJ,GJCe7
+"Shri S'ad Vidya Mandal Institute of Technology - [SVMIT], Surat",7.7,70000,1000000,GJ,GJSh7
+"Laxmi Institute of Technology - [LIT], Valsad",7.7,72000,5800000,GJ,GJLa7
+"Silver Oak College of Engineering and Technology - [SOCET], Ahmedabad",7.7,78000,320000,GJ,GJSi7
+"Navrachana University - [NUV], Vadodara",7.7,114000,6000000,GJ,GJNa7
+"Rai University - [RU], Ahmedabad",7.8,71600,520000,GJ,GJRa7
+"SAL College of Engineering - [SCE], Ahmedabad",7.8,74000,580000,GJ,GJSA7
+"Indian Institute of Information Technology Vadodara - [IIIT-V], Gandhinagar",7.8,235720,512000,GJ,GJIn7
+"Indus University, Ahmedabad",7.9,101000,650000,GJ,GJIn7
+"LDRP Institute of Technology and Research - [LDRPITR], Gandhinagar",7.9,108000,2100000,GJ,GJLD7
+"Vishwakarma Government Engineering College - [VGEC], Ahmedabad",8.0,1500,700000,GJ,GJVi8
+"Noble Group of Institution - [NGI], Junagadh",8.0,55000,350000,GJ,GJNo8
+"Gandhinagar Institute of Technology - [GIT], Gandhinagar",8.0,62000,1000000,GJ,GJGa8
+"ITM Vocational University - [ITMVU], Vadodara",8.0,69500,4500000,GJ,GJIT8
+"Sardar Vallabhbhai Patel Institute of Technology - [SVIT] Vasad, Anand",8.0,74000,9000000,GJ,GJSa8
+"ITM SLS Baroda University, Vadodara",8.0,98000,1200000,GJ,GJIT8
+"Darshan University - [DU], Rajkot",8.0,160000,340000,GJ,GJDa8
+"Sardar Vallabhbhai National Institute of Technology - [SVNIT], Surat",8.0,169000,760000,GJ,GJSa8
+"Faculty of Technology and Engineering, Maharaja Sayajirao University of Baroda, Vadodara",8.1,7640,2580000,GJ,GJFa8
+"Hasmukh Goswami College of Engineering - [HGCE], Ahmedabad",8.1,61000,360000,GJ,GJHa8
+"GLS University, Ahmedabad",8.1,100000,5400000,GJ,GJGL8
+"GSFC University, Vadodara",8.1,116250,13000000,GJ,GJGS8
+"Parul University, Vadodara",8.1,137800,36700000,GJ,GJPa8
+"Pandit Deendayal Energy University - [PDEU], Gandhinagar",8.1,259000,1000000,GJ,GJPa8
+"L.D. College of Engineering - [LDCE], Ahmedabad",8.3,800,650000,GJ,GJL.8
+"Government Engineering College - [GEC], Banaskantha",8.3,1500,80000,GJ,GJGo8
+"RK University - [RKU], Rajkot",8.3,76500,1800000,GJ,GJRK8
+"Shree Swami Atmanand Saraswati Institute of Technology - [SSASIT], Surat",8.3,76500,1400000,GJ,GJSh8
+"Marwadi University - [MU], Rajkot",8.3,115000,1660000,GJ,GJMa8
+"Indian Institute of Information Technology - [IIIT], Surat",8.3,166000,11200000,GJ,GJIn8
+"Institute of Technology, Nirma University, Ahmedabad",8.3,221200,850000,GJ,GJIn8
+"Nirma University - [NU], Ahmedabad",8.3,221200,970000,GJ,GJNi8
+"CEPT University, Ahmedabad",8.3,348800,500000,GJ,GJCE8
+"Atmiya University, Rajkot",8.4,81000,4600000,GJ,GJAt8
+"Karnavati University - [KU], Gandhinagar",8.4,107000,4300000,GJ,GJKa8
+"Anant National University - [AnantU], Ahmedabad",8.4,290000,809000,GJ,GJAn8
+"Government Engineering College - [GEC], Bharuch",8.5,1500,268000,GJ,GJGo8
+"Balaji Engineering College, Junagadh",8.5,55000,850000,GJ,GJBa8
+"National Institute of Technology - [NITK], Surathkal",8.5,157280,1110000,GJ,GJNa8
+"Pandit Deendayal Energy University, School of Technology - [PDEU SOT], Gandhinagar",8.5,253000,400000,GJ,GJPa8
+"Sigma Institute of Engineering, Vadodara",8.6,60000,350000,GJ,GJSi8
+"Ganpat University - [GUNI], Mehsana",8.7,108000,1420000,GJ,GJGa8
+"Dhirubhai Ambani Institute of Information and Communication Technology - [DA-IICT], Gandhinagar",8.7,172000,700000,GJ,GJDh8
+"IIT Gandhinagar - Indian Institute of Technology - [IITG], Gandhinagar",8.7,229426,6800000,GJ,GJII8
+"Pacific School of Engineering - [PSE], Surat",9.0,52500,1202000,GJ,GJPa9
+"P.P. Savani University, Surat",9.0,111500,1450000,GJ,GJP.9
+"IEC University Baddi - [ICEU], Solan",6.5,118600,2800000,HP,HPIE6
+"Career Point University - [CPU], Hamirpur",6.8,105000,350000,HP,HPCa6
+"Indus International University - [IIU], Una",6.8,110000,2100000,HP,HPIn6
+"Dr. C.V. Raman University - [CVRU], Bilaspur",6.9,50700,1150000,HP,HPDr6
+"Green Hills Engineering College, Solan",7.2,80700,600000,HP,HPGr7
+"AP Goyal Shimla University, Shimla",7.5,141000,3000000,HP,HPAP7
+"University Institute of Information Technology, Himachal Pradesh University - [UIIT], Shimla",7.6,122010,750000,HP,HPUn7
+"Chouksey Engineering College - [CEC], Bilaspur",7.7,60000,480000,HP,HPCh7
+"Arni University, Kangra",7.7,105000,1100000,HP,HPAr7
+"Indian Institute of Information Technology - [IIIT], Una",7.7,245000,1200000,HP,HPIn7
+"Rajiv Gandhi govt. Engineering college -[RGGEC], Kangra",7.9,61070,4200000,HP,HPRa7
+"Govt Engineering College, Bilaspur",8.0,12725,1200000,HP,HPGo8
+"Lakhmi Chand Institute of Technology - [LCIT], Bilaspur",8.0,68000,797000,HP,HPLa8
+"Himachal Institute of Engineering and Technology - [HIET], Kangra",8.0,73000,790000,HP,HPHi8
+"Eternal University - [EU], Sirmaur",8.0,118000,1000000,HP,HPEt8
+"Jaypee University of Information Technology - [JUIT], Solan",8.0,241000,20200000,HP,HPJa8
+"Bahra University - [BU], Solan",8.1,115000,3500000,HP,HPBa8
+"National Institute of Technology - [NIT], Hamirpur",8.2,180200,1036000,HP,HPNa8
+"IIT Mandi- Indian Institute of Technology - [IITM], Mandi",8.3,234750,1700000,HP,HPII8
+"Maharaja Agrasen University - [MAU], Solan",8.5,120000,430000,HP,HPMa8
+"Maharishi Markandeshwar - [MMU], Solan",8.5,148500,4415000,HP,HPMa8
+"Shoolini University, Solan",8.5,235000,875000,HP,HPSh8
+"Rawal Institutions, Faridabad",6.6,70000,240000,HR,HRRa6
+"Galaxy Global Group of Institutions - [GGGI], Ambala",6.8,72130,900000,HR,HRGa6
+"Hindustan Institute of Technology and Management - [HITM], Ambala",6.8,75000,572000,HR,HRHi6
+"Technology Education and Research Integrated Institute - [TERII], Kurukshetra",6.9,79500,650000,HR,HRTe6
+"Panipat Institute of Engineering & Technology - [PIET], Panipat",6.9,154000,180000,HR,HRPa6
+"Geeta University, Panipat",6.9,170000,800000,HR,HRGe6
+"Samalkha Group of Institutions - [SGI], Panipat",7.3,79500,1000000,HR,HRSa7
+"Lingaya's Vidyapeeth, Faridabad",7.3,167000,650000,HR,HRLi7
+"University Institute of Engineering and Technology, Maharshi Dayanand University - [UIET], Rohtak",7.4,74288,350000,HR,HRUn7
+"Manav Rachna International Institute Of Research And Studies, Faculty of Engineering and Technology - [MRIIRSFET], Faridabad",7.4,196500,677000,HR,HRMa7
+"J.C. Bose University Of Science And Technology, YMCA, Faridabad",7.5,102942,1500000,HR,HRJ.7
+"Vaish College of Engineering, Rohtak",7.6,75540,1400000,HR,HRVa7
+"University Institute of Engineering and Technology - [UIET], Kurukshetra",7.6,104900,1800000,HR,HRUn7
+"Echelon Institute of Technology, Faridabad",7.8,88000,300000,HR,HREc7
+"Manav Rachna International Institute of Research and Studies - [MRIIRS], Faridabad",7.8,181500,3850000,HR,HRMa7
+"Al-Falah university - [AFU], Faridabad",7.9,85000,650000,HR,HRAl7
+"OP Jindal University - [OPJU], Raigarh",7.9,135000,320000,HR,HROP7
+"BRCM College of Engineering and Technology - [BRCMCET], Bhiwani",8.0,91400,1000000,HR,HRBR8
+"Gurugram University, Gurgaon",8.1,40000,3000000,HR,HRGu8
+"Delhi Technical Campus - [DTC], Jhajjar",8.1,69500,1150000,HR,HRDe8
+"Modern Vidya Niketan - [MVN University], Palwal",8.2,128000,945000,HR,HRMo8
+"National Institute of Technology - [NIT], Kurukshetra",8.2,159500,2140000,HR,HRNa8
+"Delhi Engineering College, Faridabad",8.3,75000,400000,HR,HRDe8
+"Geeta Engineering College - [GEC], Panipat",8.4,91000,450000,HR,HRGe8
+"Manav Rachna University - [MRU], Faridabad",8.4,274500,300000,HR,HRMa8
+"NIILM University, Kaithal",8.5,65000,500000,HR,HRNI8
+"CBS Group of Institutions, Jhajjar",8.5,69800,1200000,HR,HRCB8
+"Government College of Engineering and Technology - [GCET], Jammu",6.5,42920,730000,JK,JKGo6
+"National Institute of Technology - [NIT], Srinagar",7.3,164500,900000,JK,JKNa7
+"Model Institute of Engineering and Technology - [MIET], Jammu",7.8,96500,5430000,JK,JKMo7
+"Silicon Institute of Technology - [SIT], Sambalpur",7.8,460000,480000,JK,JKSi7
+"Islamic University of Science and Technology - [IUST], Pulwama",8.5,66200,1200000,JK,JKIs8
+"IIT Jammu - Indian Institute of Technology - [IITJ], Jammu",8.7,279190,2100000,JK,JKII8
+"SSM College of Engineering and Technology - [SSM], Baramulla",8.8,49000,1500000,JK,JKSS8
+"RTC Institute of Technology - [RTCIT], Ranchi",7.0,74000,462000,JR,JRRT7
+"Birla Institute of Technology - [BIT Mesra], Ranchi",7.3,303500,2500000,JR,JRBi7
+"Sarala Birla University - [SBU], Ranchi",7.3,522200,1000000,JR,JRSa7
+"Dumkal Institute of Engineering & Technology- [DIET], Murshidabad",7.4,59500,300000,JR,JRDu7
+"Cambridge Institute of Technology - [CIT], Ranchi",7.4,78000,1200000,JR,JRCa7
+"Usha Martin University - [UMU], Ranchi",7.4,187000,2030000,JR,JRUs7
+"Govind Ballabh Pant Engineering College - [GBPEC], Garhwal",7.5,69015,500000,JR,JRGo7
+"Jharkhand Rai University - [JRU], Ranchi",7.7,85000,900000,JR,JRJh7
+"THDC Institute of Hydro Power Engineering and Technology, Garhwal",7.8,73500,1200000,JR,JRTH7
+"Amity University, Ranchi",7.8,135000,480000,JR,JRAm7
+"Birsa Institute of Technology - [BIT] Sindri, Dhanbad",7.9,20332,1031000,JR,JRBi7
+"Sai Nath University, Ranchi",7.9,88000,400000,JR,JRSa7
+"Ramgarh Engineering College - [REC], Ramgarh",8.0,,1020000,JR,JRRa8
+"RKDF University, Ranchi",8.0,90000,2800000,JR,JRRK8
+"YBN University - [YBN], Ranchi",8.1,69600,3200000,JR,JRYB8
+"Indian Institute of Information Technology - [IIIT], Ranchi",8.1,214000,693000,JR,JRIn8
+"Radha Govind University - [RGU], Ramgarh",8.2,60000,550000,JR,JRRa8
+"National Institute of Foundry & Forge Technology - [NIFFT], Ranchi",8.3,47450,1495000,JR,JRNa8
+"Birla Institute of Technology Extension Centre - [BIT], Deoghar",8.4,404700,5100000,JR,JRBi8
+"ISM Dhanbad - Indian Institute of Technology - [IITISM], Dhanbad",8.5,240250,4000000,JR,JRIS8
+"Moodalakatte Institute of Technology - [MITK], Udupi",6.4,70000,192000,KA,KAMo6
+"Guru Nanak Dev Engineering College - [GNDEC ], Bidar",7.3,81000,2500000,KA,KAGu7
+"Coorg Institute of Technology - [CIT], Kodagu",7.3,90340,1200000,KA,KACo7
+"Government Engineering College - [GECH], Hassan",7.6,76360,600000,KA,KAGo7
+"Bapuji Institute of Engineering and Technology - [BIET], Davanagere",7.6,93000,1000000,KA,KABa7
+"Bahubali College of Engineering - [BCE], Hassan",7.7,87220,300000,KA,KABa7
+"GM Institute of Technology - [GMIT], Davanagere",7.7,130000,240000,KA,KAGM7
+"Indian Institute of information technology -[IIIT], Raichur",7.7,200000,8500000,KA,KAIn7
+"Indian Institute of Information Technology - [IIITD], Dharwad",7.8,355000,5300000,KA,KAIn7
+"Adichunchanagiri University - [ACU], Mandya",7.9,56930,1000000,KA,KAAd7
+"PES College of Engineering - [PESCE], Mandya",8.0,76800,450000,KA,KAPE8
+"NMAM Institute of Technology - [NMAMIT], Udupi",8.0,100000,4300000,KA,KANM8
+"Rajeev Institute of Technology - [RIT], Hassan",8.0,235000,320000,KA,KARa8
+"Malnad College of Engineering - [MCE], Hassan",8.0,238000,2000000,KA,KAMa8
+"Tontadarya College of Engineering, Gadag",8.1,143748,420000,KA,KATo8
+"BGS Institute of Technology - [BGSIT], Mandya",8.3,200000,550000,KA,KABG8
+"SDM College of Engineering and Technology - [SDMCET], Dharwad",8.3,350000,200000,KA,KASD8
+"Amrita Vishwa Vidyapeetham Bengaluru Campus, Bangalore",8.5,100000,850000,KA,KAAm8
+"IIT Dharwad - Indian Institute of Technology - [IITD], Dharwad",8.8,241500,2038000,KA,KAII8
+"Ahalia School of Engineering and Technology - [ASET], Palakkad",4.7,78000,400000,KL,KLAh4
+"Sarabhai Institute of Science & Technology - [SIST] Vellanad, Thiruvananthapuram",4.8,50000,440000,KL,KLSa4
+"College of Engineering Muttathara, Thiruvananthapuram",5.4,56705,1140000,KL,KLCo5
+"University of Kerala, University College Of Engineering Kariavattom, Thiruvananthapuram",5.5,36750,436000,KL,KLUn5
+"ILM College of Engineering and Technology - [ILMCET], Ernakulam",5.6,274000,235000,KL,KLIL5
+"College of Engineering - [CEAL] Attingal, Thiruvananthapuram",6.1,42952,450000,KL,KLCo6
+"Trinity College of Engineering, Thiruvananthapuram",6.4,40000,4600000,KL,KLTr6
+"Lourdes Matha College of Science and Technology, Thiruvananthapuram",6.4,100400,300000,KL,KLLo6
+"College of Engineering and Management - [CEM] Punnapara, Alappuzha",6.5,35000,240000,KL,KLCo6
+"Calicut University Institute of Engineering Technology - [CUIET], Malappuram",6.7,42600,250000,KL,KLCa6
+"Sree Narayana Guru Institute of Science and Technology - [SNGIST], Ernakulam",6.7,50000,1350000,KL,KLSr6
+"Mangalam College of Engineering Ettumanoor - [MLM], Kottayam",6.7,75000,939795,KL,KLMa6
+"Thangal Kunju Musaliar Institute of Technology - [TKM], Kollam",6.7,91350,450000,KL,KLTh6
+"Government Engineering College - [GECI], Idukki",6.8,19800,2500000,KL,KLGo6
+"Sri Vellappally Natesan College of Engineering - [SVNCE] Mavelikara, Alappuzha",6.8,50000,300000,KL,KLSr6
+"Royal College of Engineering and Technology - [RCET], Thrissur",6.9,50000,320000,KL,KLRo6
+"Muslim Association College of Engineering - [MACE], Thiruvananthapuram",6.9,65000,210000,KL,KLMu6
+"ACE College of Engineering, Thiruvananthapuram",6.9,75000,360000,KL,KLAC6
+"NSS College of Engineering - [NSSCE], Palakkad",7.1,8739,9700000,KL,KLNS7
+"Travancore Engineering College - [TEC] Oyoor, Kollam",7.1,50000,1000000,KL,KLTr7
+"Vimal Jyothi Engineering College - [VJEC], Kannur",7.1,75000,1000000,KL,KLVi7
+"Rajiv Gandhi Institute of Technology - [RIT], Kottayam",7.2,22000,460000,KL,KLRa7
+"John Cox Memorial CSI Institute of Technology Kannammoola, Thiruvananthapuram",7.2,65000,4200000,KL,KLJo7
+"College of Engineering - [CEK] Kidangoor, Kottayam",7.3,35000,500000,KL,KLCo7
+"College of Engineering - [CEM] Munnar, Idukki",7.3,85650,424448,KL,KLCo7
+"Thejus Engineering College, Thrissur",7.3,88400,1000000,KL,KLTh7
+"College of Engineering Perumon, Kollam",7.4,35000,800000,KL,KLCo7
+"Malabar College of Engineering and Technology - [MCET], Thrissur",7.4,50000,300000,KL,KLMa7
+"Nehru College of Engineering and Research Centre - [NCERC], Thrissur",7.4,50000,720000,KL,KLNe7
+"L.B.S. College of Engineering - [LBSCEK], Kasaragod",7.4,57620,620000,KL,KLL.7
+"Sree Narayana Gurukulam College of Engineering - [SNGCE], Ernakulam",7.4,72020,1208000,KL,KLSr7
+"APJ Abdul Kalam Technological University - [KTU], Thiruvananthapuram",7.5,,520000,KL,KLAP7
+"Government Engineering College - [GECK], Kozhikode",7.5,13710,4100000,KL,KLGo7
+"Heera College of Engineering and Technology - [HCET] Nedumangad, Thiruvananthapuram",7.5,45000,220000,KL,KLHe7
+"Mohandas College of Engineering and Technology - [MCET], Thiruvananthapuram",7.5,50000,216316,KL,KLMo7
+"Vidya Academy of Science and Technology - [VAST], Thrissur",7.5,108611,300000,KL,KLVi7
+"Government Engineering College - [GECSKP] Sreekrishnapuram , Palakkad",7.6,8225,420000,KL,KLGo7
+"College of Engineering - [COE] Kallooppara, Pathanamthitta",7.6,35000,1200000,KL,KLCo7
+"College of Engineering Trikaripur, Kasaragod",7.6,43805,400000,KL,KLCo7
+"Vedavyasa Institute of Technology, Malappuram",7.6,124000,576000,KL,KLVe7
+"Sree Buddha College of Engineering Pattoor - [SBCE], Alappuzha",7.7,75000,5600000,KL,KLSr7
+"Sreepathy Institute of Management and Technology - [SIMAT] Vavannor, Palakkad",7.7,75000,240000,KL,KLSr7
+"Viswajyothi College of Engineering and Technology - [VJCET], Ernakulam",7.7,96500,400000,KL,KLVi7
+"Rajadhani Institute of Engineering and Technology - [RIET] Attinga, Thiruvananthapuram",7.7,120000,340000,KL,KLRa7
+"Jawaharlal College of Engineering and Technology - [JCET] Ottapalam, Palakkad",7.7,300000,280000,KL,KLJa7
+"College of Engineering Kottarakkara, Kollam",7.8,36932,1200000,KL,KLCo7
+"College of Engineering Thalassery, Kannur",7.8,38250,3200000,KL,KLCo7
+"Holy Grace Academy of Engineering - [HGAE], Thrissur",7.8,60000,230000,KL,KLHo7
+"Marian Engineering College - [MEC], Thiruvananthapuram",7.8,97750,2200000,KL,KLMa7
+"Sahrdaya College of Engineering - [SCE] Kodakara, Thrissur",7.9,35000,350000,KL,KLSa7
+"College of Engineering Adoor - [CEA], Pathanamthitta",7.9,53328,550000,KL,KLCo7
+"Sree Chitra Thirunal College of Engineering - [SCTCE], Thiruvananthapuram",7.9,62668,860000,KL,KLSr7
+"SCMS School of Engineering and Technology [SSET], Ernakulam",7.9,72225,1300000,KL,KLSC7
+"St. Joseph's College of Engineering and Technology - [SJCET] Palai, Kottayam",7.9,100400,550000,KL,KLSt7
+"Hindustan College of Engineering - [HCE], Kollam",8.0,50000,1400000,KL,KLHi8
+"Toc H Institute of Science and Technology - [TIST], Ernakulam",8.0,60000,4333000,KL,KLTo8
+"Christ College of Engineering - [CCEIJK] Irinjalakuda, Thrissur",8.0,96000,180000,KL,KLCh8
+"MEA Engineering College- [MEAEC], Malappuram",8.1,75000,300000,KL,KLME8
+"Government College of Engineering - [GCE], Kannur",8.2,7600,400000,KL,KLGo8
+"College of Engineering- [CEC] Cherthala, Alappuzha",8.2,35000,1200000,KL,KLCo8
+"College of Engineering Pathanapuram, Pathanamthitta",8.2,53450,1000000,KL,KLCo8
+"College of Engineering Aranmula, Pathanamthitta",8.2,56355,1500000,KL,KLCo8
+"Federal Institute of Science and Technology - [FISAT], Ernakulam",8.2,75100,851000,KL,KLFe8
+"Cochin University of Science and Technology, School of Engineering -[SOE] Thrikkakara, Ernakulam",8.2,86040,1041000,KL,KLCo8
+"Amrita Vishwa Vidyapeetham Amritapuri Campus, Kollam",8.2,100000,1719000,KL,KLAm8
+"TKM College of Engineering - [TKMCE], Kollam",8.3,8410,550000,KL,KLTK8
+"Rajadhani Institute of Science and Technology - [RIST], Palakkad",8.3,35000,454000,KL,KLRa8
+"College of Engineering Poonjar, Kottayam",8.3,35000,800000,KL,KLCo8
+"Saintgits College of Engineering, Kottayam",8.3,75000,350000,KL,KLSa8
+"Cochin University College of Engineering Kuttanad - [CUCEK], Alappuzha",8.3,88890,450000,KL,KLCo8
+"Indian Institute of Information Technology [IIIT], Kottayam",8.3,230450,700000,KL,KLIn8
+"KVASU, College of Dairy Science and Technology Mannuthy - [CDST], Thrissur",8.4,,1200000,KL,KLKV8
+"College of Engineering, Thiruvananthapuram",8.4,50000,6400000,KL,KLCo8
+"Indian Institute of Space Science and Technology - [IIST], Thiruvananthapuram",8.4,144900,2088000,KL,KLIn8
+"Government Engineering College - [GEC] Barton Hill, Thiruvananthapuram",8.5,18425,320000,KL,KLGo8
+"Government Engineering College - [GECT], Thrissur",8.5,22150,7200000,KL,KLGo8
+"College of Engineering Vadakara - [CEV], Kozhikode",8.5,55105,350000,KL,KLCo8
+"IIT Palakkad - Indian Institute of Technology - [IITPKD], Palakkad",8.7,223900,550000,KL,KLII8
+"KMCT College of Engineering, Kozhikode",8.8,75000,720000,KL,KLKM8
+"Mallabhum Institute of Technology - [MIT], Bishnupur",7.2,88750,450000,MANI,MAMa7
+"North-Eastern Hill University - [NEHU], Shillong",7.5,49600,842000,MEG,MENo7
+"National Institute of Technology - [NIT] Meghalaya, Shillong",7.5,155150,18000000,MEG,MENa7
+"William Carey University - [WCU], Shillong",7.9,81000,4500000,MEG,MEWi7
+"Amrutvahini College of Engineering - [AVCOE], Ahmednagar",5.5,120000,200000,MH,MHAm5
+"AISSMS Institute of Information Technology, Pune",6.1,118751,4800000,MH,MHAI6
+"ABMSP's Anantrao Pawar College of Engineering & Research - [APCOER], Pune",6.5,67000,600000,MH,MHAB6
+"Nagpur Institute of Technology - [NIT], Nagpur",6.5,107000,2400000,MH,MHNa6
+"Jayawantrao Sawant College of Engineering- [JSCOE], Pune",6.5,112500,4840000,MH,MHJa6
+"Sinhgad College of Engineering - [SCOE] Vadgaon Ambegaon, Pune",6.5,138060,1200000,MH,MHSi6
+"Arvind Gavali College of Engineering - [AGCE], Satara",6.6,72500,470000,MH,MHAr6
+"PDEA College of Engineering Manjari, Pune",6.6,90000,1200000,MH,MHPD6
+"MET Bhujbal Knowledge City, Nashik",6.7,100000,1200000,MH,MHME6
+"Indira College of Engineering & Management - [ICEM], Pune",6.7,104000,1600000,MH,MHIn6
+"SKN Sinhgad Institute of Technology and Science -[SKNSITS] Lonavala, Pune",6.7,125170,340000,MH,MHSK6
+"Siddhant College of Engineering - [SCOE] Sudumbare, Pune",6.8,65000,300000,MH,MHSi6
+"Brahmdevdada Mane Institute of Technology - [BMIT], Solapur",6.9,98000,1130000,MH,MHBr6
+"Rajarshi Shahu College of Engineering - [RSCOE] Tathawade, Pune",6.9,113000,150000,MH,MHRa6
+"Government College of Engineering - [GCE], Chandrapur",7.0,25293,290000,MH,MHGo7
+"Pune Vidhyarthi Griha's College of Engineering and Technology - [PVGCOET], Pune",7.0,115397,500000,MH,MHPu7
+"Theem College of Engineering - [TCOE], Palghar",7.1,64000,4400000,MH,MHTh7
+"Jawaharlal Darda Institute of Engineering and Technology - [JDIET], Yavatmal",7.1,80000,6100000,MH,MHJa7
+"A. P. Shah Institute of Technology - [APSIT], Thane",7.1,137706,1833000,MH,MHA.7
+"Government College of Engineering - [GCOEA], Amravati",7.2,85160,450000,MH,MHGo7
+"PES College of Engineering - [PESCOE], Aurangabad",7.2,87054,450000,MH,MHPE7
+"Finolex Academy of Management and Technology - [FAMT], Ratnagiri",7.2,92000,425000,MH,MHFi7
+"GS Mandal's Marathwada Institute of Technology - [MIT], Aurangabad",7.2,101000,700000,MH,MHGS7
+"JD College of Engineering and Management, Nagpur",7.2,103000,950000,MH,MHJD7
+"MVPS's Karmaveer Adv. Baburao Ganpatrao Thakare College of Engineering, Nashik",7.2,107285,3000000,MH,MHMV7
+"Pravara Rural Engineering College - [PREC] Loni, Ahmednagar",7.2,113000,310000,MH,MHPr7
+"Jawaharlal Nehru Engineering College - [JNEC], Aurangabad",7.2,169000,1600000,MH,MHJa7
+"Walchand Institute of Technology - [WIT], Solapur",7.3,38848,200000,MH,MHWa7
+"Alamuri Ratnamala Institute of Engineering and Technology - [ARMIET], Thane",7.3,88500,1000000,MH,MHAl7
+"Sityog Institute of Technology, Aurangabad",7.3,111000,1000000,MH,MHSi7
+"DY Patil College of Engineering and Technology - [DYPCET], Kolhapur",7.3,114085,350000,MH,MHDY7
+"H.V.P.Mandal's College of Engineering & Technology, Amravati",7.4,80300,240000,MH,MHH.7
+"Wainganga College of Engineering and Management - [WCEM], Nagpur",7.4,87000,400000,MH,MHWa7
+"Shree LR Tiwari College of Engineering - [SLRTCE], Thane",7.4,90000,380000,MH,MHSh7
+"Jhulelal Institute of Technology - [JIT], Nagpur",7.4,93500,450000,MH,MHJh7
+"Nutan Maharashtra Institute of Engineering and Technology - [NMIET] Talegaon, Pune",7.4,97340,7700000,MH,MHNu7
+"Shivajirao S Jondhale College of Engineering - [SSJCE], Thane",7.4,97380,450000,MH,MHSh7
+"Dhole Patil College of Engineering - [DPCOE], Pune",7.4,104424,270000,MH,MHDh7
+"JSPM Narhe Technical Campus - [JSPM NTC] Narhe, Pune",7.4,360000,540000,MH,MHJS7
+"Sinhgad Academy of Engineering - [SAE] Kondhawa, Pune",7.5,97000,300000,MH,MHSi7
+"Rajiv Gandhi College of Engineering and Research - [RGCER], Nagpur",7.5,100000,1000000,MH,MHRa7
+"Maharashtra Institute of Technology - [MIT], Aurangabad",7.5,101200,3100000,MH,MHMa7
+"KDK College of Engineering, Nagpur",7.5,107000,800000,MH,MHKD7
+"Sanjivani College of Engineering Kopargaon, Ahmednagar",7.5,151002,1200000,MH,MHSa7
+"MIT Academy of Engineering - [MITAOE], Pune",7.5,175737,1152000,MH,MHMI7
+"Ajeenkya DY Patil University - [ADYPU], Pune",7.5,230000,1000000,MH,MHAj7
+"Aurangabad College of Engineering - [ACE], Aurangabad",7.6,60500,260000,MH,MHAu7
+"Gharda Institute of Technology-[GIT], Ratnagiri",7.6,69549,2936000,MH,MHGh7
+"Sandip University, Nashik",7.6,75000,4400000,MH,MHSa7
+"Sir Visvesvaraya Institute Of Technology - [SVIT] Chincholi, Nashik",7.6,91867,1250000,MH,MHSi7
+"RMD Sinhgad School of Engineering -[RMDSSOE], Pune",7.6,96000,600000,MH,MHRM7
+"Zeal Education Society's Zeal College of Engineering and Research - [ZCOER], Pune",7.6,110000,350000,MH,MHZe7
+"International Institute of Information Technology - [I²IT], Pune",7.6,120079,1500000,MH,MHIn7
+"Vidyavardhini's College of Engineering and Technology - [VCET], Palghar",7.6,121934,360000,MH,MHVi7
+"Indian Institute of Information Technology - [IIIT], Nagpur",7.6,247000,1800000,MH,MHIn7
+"Government College of Engineering - [GECA], Aurangabad",7.7,65839,540000,MH,MHGo7
+"Bharati Vidyapeeth College of Engineering - [BVCOE], Kolhapur",7.7,82301,3300000,MH,MHBh7
+"Government College of Engineering - [GCOE], Jalgaon",7.7,82956,1850000,MH,MHGo7
+"Bapurao Deshmukh College of Engineering - [BDCE], Wardha",7.7,107000,250000,MH,MHBa7
+"Priyadarshini Institute of Engineering and Technology - [PIET], Nagpur",7.7,108000,850000,MH,MHPr7
+"D. Y. Patil College of Engineering, Pune",7.7,123998,150000,MH,MHD.7
+"Rajarambapu Institute of Technology - [RIT], Sangli",7.7,140000,750000,MH,MHRa7
+"Bharati Vidyapeeth Deemed University - [BVDU], Pune",7.7,157500,2130000,MH,MHBh7
+"Genba Sopanrao Moze College of Engineering Balewadi, Pune",7.8,65000,580000,MH,MHGe7
+"National Institute of Electronics and Information Technology - [NIELIT], Aurangabad",7.8,83250,500000,MH,MHNa7
+"Dr DY Patil Vidyapeeth - [DPU], Pune",7.8,170000,500000,MH,MHDr7
+"MIT School of Food Technology - [MITSoFT], Pune",7.8,175700,250000,MH,MHMI7
+"Vishwakarma Institute of Technology, Pune",7.8,192044,6010000,MH,MHVi7
+"MIT World Peace University - [MIT-WPU], Pune",7.8,310000,1800000,MH,MHMI7
+"Shri Guru Gobind Singhji Institute of Engineering and Technology - [SGGSIE&T], Nanded",7.9,66793,208000,MH,MHSh7
+"Sapkal Knowledge Hub - [SKH], Nashik",7.9,77377,220000,MH,MHSa7
+"Sipna's College of Engineering and Technology, Amravati",7.9,90000,412000,MH,MHSi7
+"Pune Institute of Computer Technology- [PICT], Pune",7.9,92000,420000,MH,MHPu7
+"Smt Kashibai Navale College of Engineering - [SKNCOE] Vadgaon, Pune",7.9,98000,1380000,MH,MHSm7
+"Modern Education Society's College of Engineering - [MESCOE], Pune",7.9,109050,400000,MH,MHMo7
+"Vishwakarma Institute of Information Technology - [VIIT], Pune",7.9,164894,7200000,MH,MHVi7
+"MIT-WPU Faculty of Engineering, Pune",7.9,310000,2000000,MH,MHMI7
+"Government College of Engineering - [GCOEN], Nagpur",8.0,27875,650000,MH,MHGo8
+"Nanasaheb Mahadik College of Engineering - [NMCE], Sangli",8.0,65000,3722000,MH,MHNa8
+"Sinhgad Institute of Technology and Science -[SITS] Narhe, Pune",8.0,98000,275000,MH,MHSi8
+"Progressive Education Society's Modern College of Engineering - [MCOE], Pune",8.0,104986,420000,MH,MHPr8
+"Laxminarayan Institute of Technology - [LIT], Nagpur",8.0,115000,350000,MH,MHLa8
+"Bharati Vidyapeeth College of Engineering For Women, Pune",8.0,126966,550000,MH,MHBh8
+"K.K. Wagh Institute of Engineering Education & Research - [KKWIEER], Nashik",8.0,138225,800000,MH,MHK.8
+"Pimpri Chinchwad College of Engineering - [PCCOE], Pune",8.0,146086,7250000,MH,MHPi8
+"Indian Institute of Information Technology - [IIIT], Pune",8.0,235700,4350000,MH,MHIn8
+"Aditya Engineering College - [AEC], Beed",8.1,120000,1200000,MH,MHAd8
+"Visvesvaraya National Institute of Technology - [VNIT], Nagpur",8.1,149200,4608000,MH,MHVi8
+"Shri Ramdeobaba College of Engineering and Management - [RCOEM], Nagpur",8.1,165500,5200000,MH,MHSh8
+"DKTE Society's Textile and Engineering Institute - [DKTE], Kolhapur",8.2,106000,575000,MH,MHDK8
+"AISSMS College of Engineering - [AISSMSCOE], Pune",8.2,136000,1300000,MH,MHAI8
+"Yeshwantrao Chavan College of Engineering - [YCCE], Nagpur",8.2,163801,4200000,MH,MHYe8
+"Keystone School Of Engineering, Pune",8.2,320000,125000,MH,MHKe8
+"Walchand College of Engineering - [WCE], Sangli",8.3,84935,400000,MH,MHWa8
+"Institute of Bioinformatics and Biotechnology - [IBB], Pune",8.3,85787,400000,MH,MHIn8
+"MKSSS's Cummins College of Engineering for Women, Pune",8.3,207265,3050000,MH,MHMK8
+"Symbiosis Institute of Technology - [SIT], Pune",8.3,280000,3200000,MH,MHSy8
+"K. C. College of Engineering And Management Studies And Research, Thane",8.3,390000,1200000,MH,MHK.8
+"Vidya Pratishthan's Kamalnayan Bajaj Institute of Engineering and Technology - [VPKBIET] Baramati, Pune",8.4,96000,500000,MH,MHVi8
+"Ballarpur Institute of Technology - [BIT], Chandrapur",8.5,85000,1500000,MH,MHBa8
+"Bajaj Institute of Technology - [BIT], Wardha",8.5,96000,450000,MH,MHBa8
+"GH Raisoni College of Engineering - [GHRCE], Nagpur",8.5,161330,1200000,MH,MHGH8
+"College of Engineering - [COEP], Pune",8.6,40500,1729000,MH,MHCo8
+"Sharad Institute of Technology College of Engineering, Kolhapur",8.6,83000,410000,MH,MHSh8
+"Tulsiramji GaikwadPatil College of Engineering and Technology - [TGPCET], Nagpur",8.6,90000,360000,MH,MHTu8
+"Priyadarshini College of Engineering - [PCE], Nagpur",8.6,113000,4000000,MH,MHPr8
+"Kavikulguru Institute of Technology and Science - [KITS], Nagpur",8.7,103000,460000,MH,MHKa8
+"St. John College of Engineering and Management - [SJCEM], Palghar",8.9,94000,300000,MH,MHSt8
+"Army Institute of Technology - [AIT], Pune",8.9,250520,3920000,MH,MHAr8
+"Padmabhooshan Vasantdada Patil Institute of Technology - [PVPIT] Bavdhan, Pune",9.6,110275,800000,MH,MHPa9
+"National Institute of Technology - [NIT], Aizawl",7.0,150200,350000,MIZ,MINa7
+"Sushila Devi Bansal College, Indore",5.0,30000,280000,MP,MPSu5
+"Mittal Institute of Technology - [MIT], Bhopal",5.3,50000,500000,MP,MPMi5
+"Dharmsinh Desai University - [DDU], Nadiad",5.9,152000,300000,MP,MPDh5
+"Sam College of Engineering and Technology - [SAMCET], Bhopal",6.1,55000,1000000,MP,MPSa6
+"Dayananda Sagar Institutions - [DSI], Bangalore",6.2,246180,474000,MP,MPDa6
+"Swami Vivekanand University, Sagar",6.4,44000,6000000,MP,MPSw6
+"Ujjain Engineering College - [UEC], Ujjain",6.8,25151,2600000,MP,MPUj6
+"Rustamji Institute of Technology - [RJIT], Gwalior",6.8,81136,1200000,MP,MPRu6
+"Vindhya Institute of Technology and Science - [VITS], Satna",6.9,53000,1000000,MP,MPVi6
+"University Institute of Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya - [UIT- RGPV], Bhopal",7.0,23920,12500000,MP,MPUn7
+"Vikrant Group of Institutions - [VGI], Indore",7.0,45000,775000,MP,MPVi7
+"Patel College of Science and Technology - [PCST], Bhopal",7.0,56000,450000,MP,MPPa7
+"Mahakal Institute of Technology - [MIT], Ujjain",7.0,57000,1900000,MP,MPMa7
+"Bhopal Institute of Technology & Science - [BITS], Bhopal",7.1,55000,500000,MP,MPBh7
+"Technocrats Institute of Technology - [TIT] (Excellence), Bhopal",7.1,74400,1600000,MP,MPTe7
+"Jayam College of Engineering and Technology - [JCET], Dharmapuri",7.1,200000,2000000,MP,MPJa7
+"Jabalpur Engineering College - [JEC], Jabalpur",7.2,22300,1200000,MP,MPJa7
+"Jawaharlal Nehru College of Technology - [JNCT], Rewa",7.2,48000,1800000,MP,MPJa7
+"Malwa Institute of Science and Technology - [MIST], Indore",7.2,53500,1200000,MP,MPMa7
+"Jai Narain College of Technology & Science - [JNCTS], Bhopal",7.2,55000,1814000,MP,MPJa7
+"Gyan Ganga Institute of Technology and Sciences - [GGITS], Jabalpur",7.2,70000,360000,MP,MPGy7
+"Samrat Ashok Technological Institute - [S.A.T.I], Vidisha",7.2,71300,1200000,MP,MPSa7
+"Oriental University - [OU], Indore",7.3,35000,240000,MP,MPOr7
+"Bhabha Engineering Research Institute - [BERI], Bhopal",7.3,44000,2900000,MP,MPBh7
+"AKS University - [AKSU], Satna",7.3,60000,508000,MP,MPAK7
+"Truba College of Science and Technology - [TCST], Bhopal",7.3,60000,480000,MP,MPTr7
+"Mandsaur Institute of Technology- [MIT], Indore",7.3,68400,425000,MP,MPMa7
+"Indian Institute of Information Technology -[IIIT], Bhopal",7.3,224500,650000,MP,MPIn7
+"Gyan Ganga College of Technology - [GGCT], Jabalpur",7.4,70000,350000,MP,MPGy7
+"Shri Govindram Seksaria Institute of Technology and Science- [SGSITS], Indore",7.4,75550,800000,MP,MPSh7
+"Madhav Institute of Technology and Science - [MITS], Gwalior",7.4,104070,3200000,MP,MPMa7
+"Nowgong Engineering College, Chhatarpur",7.5,25080,166000,MP,MPNo7
+"Oriental Institute of Science and Technology - [OIST], Bhopal",7.5,96000,2200000,MP,MPOr7
+"Medi-Caps University, Indore",7.5,110000,340000,MP,MPMe7
+"Sanghvi Institute of Management and Science - [SIMS], Indore",7.6,40000,350000,MP,MPSa7
+"Gwalior Engineering College - [GEC], Gwalior",7.6,45600,576000,MP,MPGw7
+"RKDF University, Bhopal",7.6,55000,5387000,MP,MPRK7
+"Indore Institute of Science and Technology - [IIST], Indore",7.6,60000,250000,MP,MPIn7
+"Bhopal Institute of Technology - [BIT], Bhopal",7.7,55000,450000,MP,MPBh7
+"IES College of Technology - [ICOT], Bhopal",7.7,55000,500000,MP,MPIE7
+"Bansal Institute of Science and Technology - [BIST], Bhopal",7.7,55000,240000,MP,MPBa7
+"Institute of Engineering and Technology, Devi Ahilya University - [IET -DAVV], Indore",7.7,82961,675000,MP,MPIn7
+"Dayananda Sagar University - [DSU], Bangalore",7.7,119793,2500000,MP,MPDa7
+"Rabindranath Tagore University - [RNTU], Bhopal",7.8,45000,4400000,MP,MPRa7
+"Trinity Institute of Technology and Research, Bhopal",7.8,53000,480000,MP,MPTr7
+"Patel College of Science and Technology - [PCST], Indore",7.8,54000,1200000,MP,MPPa7
+"Takshshila Institute of Engineering and Technology - [TIET], Jabalpur",7.8,58000,450000,MP,MPTa7
+"Acropolis Institute of Technology & Research - [AITR], Indore",7.8,73600,800000,MP,MPAc7
+"People's University, Bhopal",7.8,80000,250000,MP,MPPe7
+"Jaypee University of Engineering and Technology - [JUET], Guna",7.8,189450,340000,MP,MPJa7
+"Indian Institute of Information Technology - [IIITD], Dharwad",7.8,355000,5300000,MP,MPIn7
+"Government College of Engineering - [GCE], Dharmapuri",7.9,7555,741000,MP,MPGo7
+"Lakshmi Narain College of Technology - [LNCT], Jabalpur",7.9,48600,2100000,MP,MPLa7
+"Sarvepalli Radhakrishnan University - [SRK], Bhopal",7.9,50000,450000,MP,MPSa7
+"SAGE University, Indore",7.9,60000,3600000,MP,MPSA7
+"Oriental Institute of Science and Technology - [OIST], Jabalpur",7.9,60000,1000000,MP,MPOr7
+"Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM], Gwalior",7.9,187250,5175000,MP,MPAt7
+"Symbiosis University of Applied Sciences- [SUAS], Indore",7.9,260000,163728,MP,MPSy7
+"Bhabha University - [BU], Bhopal",8.0,44000,200000,MP,MPBh8
+"Dayananda Sagar Academy of Technology and Management - [DSATM], Bangalore",8.0,97306,2500000,MP,MPDa8
+"Jagran Lakecity University - [JLU], Bhopal",8.0,105000,2700000,MP,MPJa8
+"Lakshmi Narain College of Technology - [LNCT], Bhopal",8.0,119400,4500000,MP,MPLa8
+"Maulana Azad National Institute of Technology - [MANIT], Bhopal",8.0,154000,750000,MP,MPMa8
+"Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur",8.0,158940,450000,MP,MPIn8
+"VIT Bhopal University, Bhopal",8.0,201000,2100000,MP,MPVI8
+"ITM University, Gwalior",8.0,207000,5500000,MP,MPIT8
+"Institute Technology & Management - [ITM], Gwalior",8.1,77000,646000,MP,MPIn8
+"Dayananda Sagar College of Engineering - [DSCE], Bangalore",8.1,91796,4500000,MP,MPDa8
+"Shivajirao Kadam Group of Colleges, Indore",8.2,70000,250000,MP,MPSh8
+"Technocrats Institute of Technology - [TIT], Bhopal",8.2,100000,600000,MP,MPTe8
+"Amity University, Gwalior",8.2,208000,2400000,MP,MPAm8
+"Swami Vivekanand College of Engineering - [SVCE], Indore",8.3,58500,1000000,MP,MPSw8
+"Malwa Institute of Technology - [MIT], Indore",8.3,64200,480000,MP,MPMa8
+"LNCT University - [LNCTU], Bhopal",8.3,80000,1410000,MP,MPLN8
+"SDM College of Engineering and Technology - [SDMCET], Dharwad",8.3,350000,200000,MP,MPSD8
+"Shri Krishna University - [SKU], Chhatarpur",8.4,46000,600000,MP,MPSh8
+"Sardar Patel University - [SPUBGT], Balaghat",8.4,51500,350000,MP,MPSa8
+"Acropolis Group of Institutions, Indore",8.4,73600,860000,MP,MPAc8
+"SAGE University, Bhopal",8.4,90000,2000000,MP,MPSA8
+"Sagar Institute of Science and Technology - [SISTec] - Sagar Group of Institutions, Bhopal",8.4,340000,500000,MP,MPSa8
+"Madhyanchal Professional University - [MPU], Bhopal",8.5,40000,1800000,MP,MPMa8
+"IIT Indore - Indian Institute of Technology - [IITI], Indore",8.5,233900,430000,MP,MPII8
+"Renaissance University - [RU], Indore",8.6,80000,1200000,MP,MPRe8
+"Rewa Engineering College - [REC], Rewa",8.7,49800,538000,MP,MPRe8
+"Chameli Devi Group of Institution, Indore",8.8,35000,220000,MP,MPCh8
+"IES University, Bhopal",8.8,55000,360000,MP,MPIE8
+"IIT Dharwad - Indian Institute of Technology - [IITD], Dharwad",8.8,241500,2038000,MP,MPII8
+"Avantika University, Ujjain",9.1,228000,1914000,MP,MPAv9
+"Sagar Institute of Research & Technology Excellence -[SIRTE], Bhopal",9.2,60000,350000,MP,MPSa9
+"National Institute of Technology - [NIT], Dimapur",7.3,138150,240000,NAG,NANa7
+"Monad University, Hapur",7.8,151000,782000,NAG,NAMo7
+"SVKM's Narsee Monjee Institute of Management Studies - [NMIMS University], Navi Mumbai",8.0,275000,475000,NAG,NASV8
+"St.Joseph University, Dimapur",8.5,123000,1000000,NAG,NASt8
+"Adarsha College of Engineering - [ACE], Angul",6.1,374000,140000,OR,ORAd6
+"Sri Sri University - [SSU], Cuttack",7.1,160000,7500000,OR,ORSr7
+"Bhadrak Institute of Engineering and Technology - [BIET], Bhadrak",7.6,94000,1650000,OR,ORBh7
+"Kalam Institute of Technology - [KIT], Ganjam",7.6,212000,2100000,OR,ORKa7
+"ABIT Group of Institutions - [ABIT], Cuttack",7.8,81600,358000,OR,ORAB7
+"Silicon Institute of Technology - [SIT], Sambalpur",7.8,460000,480000,OR,ORSi7
+"Indira Gandhi Institute of Technology- [IGIT], Dhenkanal",8.0,64400,350000,OR,ORIn8
+"Seemanta Engineering College, Mayurbhanj",8.4,220000,1000000,OR,ORSe8
+"CT Group of Institutions, Jalandhar",6.4,89080,420000,PB,PBCT6
+"Sri Sai Group Of Institutes - [SSGI], Pathankot",6.8,76770,1650000,PB,PBSr6
+"Sant Baba Bhag Singh University - [SBBSU], Jalandhar",7.1,103300,1600000,PB,PBSa7
+"Giani Zail Singh Campus College of Engineering and Technology - [GZSCCET], Bathinda",7.1,104100,1200000,PB,PBGi7
+"DAV Institute of Engineering and Technology - [DAVIET], Jalandhar",7.3,80750,1000000,PB,PBDA7
+"I.K. Gujral Punjab Technical University - [IKG-PTU], Jalandhar",7.4,96100,4400000,PB,PBI.7
+"Amritsar Group of Colleges - [AGC], Amritsar",7.4,403024,1900000,PB,PBAm7
+"Sant Longowal Institute of Engineering and Technology - [SLIET], Sangrur",7.6,81000,2485000,PB,PBSa7
+"Guru Nanak Dev Engineering College - [GNDEC], Ludhiana",7.6,98689,1800000,PB,PBGu7
+"Chitkara Institute of Engineering and Technology - [CIET], Patiala",7.6,174000,2700000,PB,PBCh7
+"P.U. Swami Sarvanand Giri Regional Centre - [PUSSGRC], Hoshiarpur",7.7,87755,300000,PB,PBP.7
+"Guru Kashi University, Bathinda",7.7,92680,480000,PB,PBGu7
+"Global Group of Institutes, Amritsar",7.7,104000,1500000,PB,PBGl7
+"Thapar Institute of Engineering and Technology - [Thapar University], Patiala",7.7,413600,2545000,PB,PBTh7
+"Rayat Bahra Hoshiarpur Campus, Hoshiarpur",7.8,98000,250000,PB,PBRa7
+"Akal University - [AU], Bathinda",7.9,92000,250000,PB,PBAk7
+"CT University - [CTU], Ludhiana",7.9,154700,384000,PB,PBCT7
+"Dr BR Ambedkar National Institute of Technology - [NIT], Jalandhar",7.9,164000,450000,PB,PBDr7
+"Chitkara University - [CU], Patiala",7.9,164000,1400000,PB,PBCh7
+"DAV University, Jalandhar",8.0,136000,5700000,PB,PBDA8
+"PCTE Group of Institutes, Ludhiana",8.1,,2512000,PB,PBPC8
+"Baba Banda Singh Bahadur Engineering College - [BBSBEC], Fatehgarh Sahib",8.1,90000,2800000,PB,PBBa8
+"Amritsar College of Engineering and Technology - [ACET], Amritsar",8.1,403024,350000,PB,PBAm8
+"Lovely Professional University - [LPU], Jalandhar",8.2,240000,3305000,PB,PBLo8
+"Maharaja Ranjit Singh Punjab Technical University, Bathinda",8.3,89600,1500000,PB,PBMa8
+"Sri Guru Granth Sahib World University - [SGGSWU], Fatehgarh Sahib",8.3,104000,340000,PB,PBSr8
+"Shaheed Bhagat Singh State University - [SBSU], Firozpur",8.4,114434,2516000,PB,PBSh8
+"Poornima Institute of Engineering and Technology - [PIET], Jaipur",5.5,89250,360000,RJ,RJPo5
+"Aravali Institute of Technical Studies - [AITS], Udaipur",5.8,70000,750000,RJ,RJAr5
+"Geetanjali Institute of Technical Studies - [GITS], Udaipur",5.9,70500,400000,RJ,RJGe5
+"Maharishi Arvind Institute of Engineering & Technology - [MAIET], Jaipur",6.0,70000,500000,RJ,RJMa6
+"Anand International College of Engineering, Jaipur",6.6,85000,1000000,RJ,RJAn6
+"Laxmi Devi Institute of Engineering and Technology - [LIET], Alwar",6.7,77000,570000,RJ,RJLa6
+"Singhania University, Jhunjhunu",7.0,42000,626000,RJ,RJSi7
+"SS College of Engineering, Udaipur",7.0,77000,500000,RJ,RJSS7
+"Modern Institute of Technology and Research Centre -[MITRC], Alwar",7.1,77750,1200000,RJ,RJMo7
+"Jaipur Institute of Technology Group of Institution, Jaipur",7.1,84500,900000,RJ,RJJa7
+"Vivekananda Institute of Technology - [VIT], Jaipur",7.1,88000,711000,RJ,RJVi7
+"Suresh Gyan Vihar University - [SGVU], Jaipur",7.1,120000,1395000,RJ,RJSu7
+"Global Institute of Technology - [GIT], Jaipur",7.2,96043,3600000,RJ,RJGl7
+"Raj Engineering College- [REC], Jodhpur",7.3,40000,1500000,RJ,RJRa7
+"Government Engineering College, Ajmer",7.3,70500,325000,RJ,RJGo7
+"Northern Institute of Engineering Technical Campus - [NIET], Alwar",7.3,77000,365000,RJ,RJNo7
+"College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology - [CTAE], Udaipur",7.3,315000,500000,RJ,RJCo7
+"Pratap University - [PU], Jaipur",7.3,387000,1400000,RJ,RJPr7
+"Shyam University, Dausa",7.4,80000,700000,RJ,RJSh7
+"Government Engineering College - [ECB], Bikaner",7.5,60000,250000,RJ,RJGo7
+"Compucom Institute of Information Technology and Management - [CIITM], Jaipur",7.5,77400,360000,RJ,RJCo7
+"Apex University - [AU], Jaipur",7.5,120000,1200000,RJ,RJAp7
+"Sir Padampat Singhania University - [SPSU], Udaipur",7.5,170000,2950000,RJ,RJSi7
+"Government Engineering College, Jhalawar",7.6,60100,1363000,RJ,RJGo7
+"SunRise University - [SRU], Alwar",7.6,62200,2000000,RJ,RJSu7
+"OPJS University, Churu",7.6,64200,3000000,RJ,RJOP7
+"Yagyavalkya Institute of Technology - [YIT], Jaipur",7.6,92515,516000,RJ,RJYa7
+"Arya College of Engineering and IT - [ACEIT], Jaipur",7.6,96104,360000,RJ,RJAr7
+"Maulana Azad University, Jodhpur",7.7,60500,1200000,RJ,RJMa7
+"Pacific University, Udaipur",7.7,80000,530000,RJ,RJPa7
+"Rajasthan Institute of Engineering and Technology - [RIET], Jaipur",7.7,85000,460000,RJ,RJRa7
+"Career Point University - [CPU], Kota",7.7,140000,400000,RJ,RJCa7
+"Poornima College of Engineering, Jaipur",7.7,170000,1500000,RJ,RJPo7
+"Madhav University - [MU], Sirohi",7.8,35000,360000,RJ,RJMa7
+"Maharana Pratap University of Agriculture and Technology - [MPUAT], Udaipur",7.8,86000,4500000,RJ,RJMa7
+"Arya College of Engineering, Jaipur",7.8,96104,1000000,RJ,RJAr7
+"Swami Keshvanand Institute of Technology, Management and Gramothan - [SKIT], Jaipur",7.8,108300,1200000,RJ,RJSw7
+"Indian Institute of Information Technology - [IIIT-K], Kota",7.8,230925,1200000,RJ,RJIn7
+"Marudhar Engineering College - [MEC], Bikaner",7.9,87500,500000,RJ,RJMa7
+"Jaipur Engineering College and Research Centre, Jaipur",7.9,92000,5893000,RJ,RJJa7
+"Sangam University - [SU], Bhilwara",7.9,100000,2700000,RJ,RJSa7
+"Jagdishprasad Jhabarmal Tibrewala University - [JJTU], Jhunjhunu",8.0,56000,380000,RJ,RJJa8
+"Institute of Engineering and Technology - [IETR], Alwar",8.0,84500,900000,RJ,RJIn8
+"RNB Global University - [RNBGU], Bikaner",8.0,115000,6378000,RJ,RJRN8
+"Poornima University - [PU], Jaipur",8.0,127500,2100000,RJ,RJPo8
+"The LNM Institute of Information Technology - [LNMIIT], Jaipur",8.0,374800,480000,RJ,RJTh8
+"Jagannath University, Jaipur",8.1,100000,4550000,RJ,RJJa8
+"Jaipur National University - [JNU], Jaipur",8.1,122000,507000,RJ,RJJa8
+"Amity University, Jaipur",8.1,152000,3200000,RJ,RJAm8
+"JECRC University - [JU], Jaipur",8.1,220000,1400000,RJ,RJJE8
+"JK Lakshmipat University - [JKLU], Jaipur",8.1,275000,5600000,RJ,RJJK8
+"Bhagwant University, Ajmer",8.2,84500,1300000,RJ,RJBh8
+"Jaipur Engineering College - [JEC], Jaipur",8.2,85000,1950000,RJ,RJJa8
+"Rajasthan College of Engineering for Women - [RCEW], Jaipur",8.2,87498,360000,RJ,RJRa8
+"University of Engineering and Management - [UEM], Jaipur",8.2,100000,1500000,RJ,RJUn8
+"ICFAI University, Jaipur",8.3,120000,300000,RJ,RJIC8
+"Manipal University - [MUJ], Jaipur",8.3,334000,2900000,RJ,RJMa8
+"Malaviya National Institute of Technology - [MNIT], Jaipur",8.4,177665,2300000,RJ,RJMa8
+"Birla Institute of Technology - [BIT], Jaipur",8.4,292000,450000,RJ,RJBi8
+"MBM Engineering College - [MBM], Jodhpur",8.4,315000,370000,RJ,RJMB8
+"Bikaner Technical University - [BTU], Bikaner",8.4,398000,400000,RJ,RJBi8
+"Banasthali Vidyapith, Jaipur",8.5,139000,609000,RJ,RJBa8
+"Asians Institute of Technology, Jaipur",8.5,146800,2700000,RJ,RJAs8
+"Mody University, Sikar",8.5,266000,24000000,RJ,RJMo8
+"Jayoti Vidyapeeth Women's University - [JVWU], Jaipur",8.6,80000,450000,RJ,RJJa8
+"University of Technology - [UOT], Jaipur",8.6,90000,1350000,RJ,RJUn8
+"Vivekananda Global University - [VGU], Jaipur",8.6,125000,3500000,RJ,RJVi8
+"NIMS University, Jaipur",8.6,150000,505406,RJ,RJNI8
+"IIT Jodhpur - Indian Institute of Technology - [IITJ], Jodhpur",9.1,251800,8800000,RJ,RJII9
+"SRM University Sikkim, Gangtok",8.1,225000,360000,SK,SKSR8
+"ICFAI University, West Tripura",8.0,130000,600000,TR,TRIC8
+"Maturi Venkata Subba Rao Engineering College - [MVSREC], Hyderabad",5.7,131500,250000,TS,TSMa5
+"DRK Institute of Science and Technology - [DRKIST], Hyderabad",5.9,55000,1000000,TS,TSDR5
+"Vaageswari College of Engineering, Karimnagar",6.4,55000,480000,TS,TSVa6
+"Sreyas Institute of Engineering and Technology - [SIET], Hyderabad",6.4,106000,2100000,TS,TSSr6
+"Sridevi Women's Engineering College - [SWEC], Hyderabad",6.4,110000,1000000,TS,TSSr6
+"Ellenki College of Engineering and Technology - [ECET], Hyderabad",6.6,60000,1260000,TS,TSEl6
+"St.Mary's Engineering College - [SMEC], Hyderabad",6.8,45000,2100000,TS,TSSt6
+"Kshatriya College of Engineering - [KCEA], Nizamabad",6.8,55000,600000,TS,TSKs6
+"G Narayanamma Institute of Technology and Science - [GNITS], Hyderabad",6.8,122000,1000000,TS,TSG 6
+"Holy Mary Institute of Technology and Science -[HITS], Hyderabad",6.9,66000,1000000,TS,TSHo6
+"JNTUH College of Engineering, Hyderabad",6.9,73000,350000,TS,TSJN6
+"St. Mary’s Group of Institutions, Hyderabad",7.0,1250,144000,TS,TSSt7
+"Nalla Narasimha Reddy Education Society's Group of Institutions - [NNRG], Hyderabad",7.0,91500,500000,TS,TSNa7
+"Sri Indu College of Engineering and Technology - [SICET] Ibrahimpatnam, Hyderabad",7.0,93000,2875000,TS,TSSr7
+"Jyothishmathi Institute of Technology and Science - [JITS], Karimnagar",7.1,65000,240000,TS,TSJy7
+"Sri Indu Institute of Engineering & Technology - [SIIET], Hyderabad",7.1,93000,416000,TS,TSSr7
+"CMR Institute of Technology - [CMRIT], Hyderabad",7.1,110000,300000,TS,TSCM7
+"BVRIT Hyderabad College of Engineering for Women - [BVRITH], Hyderabad",7.2,90000,2400000,TS,TSBV7
+"Scient Institute of Technology, Ibrahimpatnam, Hyderabad",7.3,58000,311666,TS,TSSc7
+"Teegala Krishna Reddy Engineering College, Hyderabad",7.3,80000,1600000,TS,TSTe7
+"Stanley College of Engineering and Technology for Women - [SCETW], Hyderabad",7.3,81000,2600000,TS,TSSt7
+"Vidya Jyothi Institute of Technology - [VJIT], Hyderabad",7.3,115000,4100000,TS,TSVi7
+"Shadan College of Engineering & Technology - [SCET], Hyderabad",7.4,45000,1000000,TS,TSSh7
+"Indur Institute of Engineering and Technology - [INDURIET], Siddipet",7.4,50000,500000,TS,TSIn7
+"ISL Engineering College - [ISLEC], Hyderabad",7.4,65000,4000000,TS,TSIS7
+"Joginpally BR Engineering College -[JBREC] Yenkapally, Hyderabad",7.4,87000,1000000,TS,TSJo7
+"Nalla Malla Reddy Engineering College - [NMREC], Hyderabad",7.4,95000,360000,TS,TSNa7
+"Matrusri Engineering College, Hyderabad",7.4,100000,4800000,TS,TSMa7
+"KG Reddy College of Engineering and Technology - [KGRCET], Hyderabad",7.4,100000,360000,TS,TSKG7
+"Malla Reddy Engineering College - [MREC], Hyderabad",7.4,103000,1005400,TS,TSMa7
+"CMR Technical Campus - [CMRTC], Hyderabad",7.4,105000,450000,TS,TSCM7
+"Sree Chaitanya College of Engineering - [SCCE], Karimnagar",7.5,55000,1200000,TS,TSSr7
+"Neil Gogte Institute of Technology - [NGIT], Hyderabad",7.5,90000,2500000,TS,TSNe7
+"Malla Reddy College of Engineering and Technology- [MRCET], Hyderabad",7.5,100000,2100000,TS,TSMa7
+"Guru Nanak Institutions Technical Campus - [GNITC], Hyderabad",7.5,107000,1248000,TS,TSGu7
+"Jawaharlal Nehru Technological University - [JNTUH], Hyderabad",7.5,119213,1097000,TS,TSJa7
+"Sana Engineering College - [SEC], Suryapet",7.6,,1000000,TS,TSSa7
+"TKR College of Engineering and Technology - [TKRCET], Hyderabad",7.6,70000,630000,TS,TSTK7
+"AVN Institute of Engineering and Technology - [AVNIET], Ibrahimpatnam, Hyderabad",7.6,95000,1800000,TS,TSAV7
+"CMR Group of Institutions, Hyderabad",7.6,95000,1200000,TS,TSCM7
+"ACE Engineering College - [ACEEC], Hyderabad",7.6,110000,650000,TS,TSAC7
+"Anurag University, Hyderabad",7.6,250000,2400000,TS,TSAn7
+"AAR Mahaveer Engineering College, Hyderabad",7.7,48000,1000000,TS,TSAA7
+"Aurora's Technological and Research Institute - [ATRI], Hyderabad",7.7,72000,720000,TS,TSAu7
+"Sphoorthy Engineering College - [SPHN], Hyderabad",7.7,95000,1400000,TS,TSSp7
+"Marri Laxman Reddy Institute of Technology & Management - [MLRITM], Hyderabad",7.7,100000,360000,TS,TSMa7
+"Sreenidhi Institute of Science and Technology - [SNIST], Hyderabad",7.7,130000,2194000,TS,TSSr7
+"Malla Reddy Institute of Technology and Science - [MRITS], Hyderabad",7.8,48000,235000,TS,TSMa7
+"Swarna Bharathi Institute of Science and Technology - [SBIT], Khammam",7.8,66700,150000,TS,TSSw7
+"Deccan College of Engineering and Technology - [DCET], Hyderabad",7.8,72000,186000,TS,TSDe7
+"Bhoj Reddy Engineering College for Women, Hyderabad",7.8,75000,1020000,TS,TSBh7
+"St Martin's Engineering College - [SMEC], Hyderabad",7.8,100000,620000,TS,TSSt7
+"Geethanjali College of Engineering and Technology - [GCET] Keesara, Hyderabad",7.8,120000,1466000,TS,TSGe7
+"Vasavi College of Engineering, Hyderabad",7.8,130000,4043000,TS,TSVa7
+"Hyderabad Institute of Technology and Management - [HITAM], Hyderabad",7.9,103000,2050000,TS,TSHy7
+"Mahatma Gandhi Institute of Technology - [MGIT], Hyderabad",7.9,145976,5500000,TS,TSMa7
+"JNTUH College of Engineering Manthani - [JNTUHCEM], Karimnagar",8.0,35000,211000,TS,TSJN8
+"Gokaraju Rangaraju Institute of Engineering and Technology - [GRIET], Hyderabad",8.0,138500,30000000,TS,TSGo8
+"K L University - [KLH], Hyderabad",8.0,265000,630000,TS,TSK 8
+"JNTUH College of Engineering Sultanpur - [JNTUHCES], Sangareddy",8.1,40500,920000,TS,TSJN8
+"Keshav Memorial Institute of Technology - [KMIT], Hyderabad",8.1,111500,560000,TS,TSKe8
+"Vardhaman College of Engineering - [VCE], Hyderabad",8.1,140000,2800000,TS,TSVa8
+"Mahaveer Institute of Science and Technology- [MIST], Hyderabad",8.2,66000,280000,TS,TSMa8
+"Institute of Aeronautical Engineering - [IARE], Hyderabad",8.2,101000,1957000,TS,TSIn8
+"MLR Institute of Technology - [MLRIT], Hyderabad",8.2,110000,1500000,TS,TSML8
+"Chaitanya Bharathi Institute of Technology - [CBIT], Hyderabad",8.2,186733,850000,TS,TSCh8
+"Kamala Institute of Technology & Science- [KITS], Karimnagar",8.3,80000,350000,TS,TSKa8
+"Muffakham Jah College of Engineering & Technology - [MJCET], Hyderabad",8.3,110000,560000,TS,TSMu8
+"GITAM, Hyderabad",8.3,329500,5800000,TS,TSGI8
+"International Institute of Information Technology - [IIIT], Hyderabad",8.3,360000,2523000,TS,TSIn8
+"Woxsen University, Hyderabad",8.3,372500,20000000,TS,TSWo8
+"University College of Engineering, Osmania University - [UCE], Hyderabad",8.4,35000,4600000,TS,TSUn8
+"Sai Spurthi Institute of Technology - [SSIT], Khammam",8.4,62000,320000,TS,TSSa8
+"Siddhartha Institute of Technology and Sciences - [SITS], Hyderabad",8.5,63000,325000,TS,TSSi8
+"BV Raju Institute of Technology - [BVRIT], Hyderabad",8.5,120000,1900000,TS,TSBV8
+"Vallurupalli Nageswara Rao Vignana Jyothi Institute of Engineering and Technology - [VNR VJIET], Hyderabad",8.5,131000,766000,TS,TSVa8
+"ICFAI Foundation for Higher Education - [IFHE], Hyderabad",8.5,280000,570000,TS,TSIC8
+"Mahindra University, Hyderabad",8.5,470000,2700000,TS,TSMa8
+"IIT Hyderabad - Indian Institute of Technology - [IITH], Hyderabad",8.6,241550,430000,TS,TSII8
+"CMR Engineering College - [CMREC], Hyderabad",8.7,75000,490000,TS,TSCM8
+"Malla Reddy College of Engineering for Women - [MRCEW], Hyderabad",8.8,60000,11200000,TS,TSMa8
+"Birla Institute of Technology and Science - [BITS], Hyderabad",9.0,571575,3200000,TS,TSBi9
+"Maya Group of Colleges, Dehradun",5.6,95800,420000,UK,UKMa5
+"Haridwar University, Roorkee",6.6,137000,500000,UK,UKHa6
+"Graphic Era Hill University - [GEHU], Dehradun",7.4,275600,4000000,UK,UKGr7
+"Institute of Technology Gopeshwar - [ITG], Chamoli",7.5,70800,500000,UK,UKIn7
+"Shivalik College of Engineering - [SCE], Dehradun",7.5,103900,350000,UK,UKSh7
+"BFIT Group of Institutions - [BFIT], Dehradun",7.6,70000,310000,UK,UKBF7
+"Women Institute of Technology - [WIT], Dehradun",7.6,75500,350000,UK,UKWo7
+"Uttaranchal University, Dehradun",7.6,244000,4331000,UK,UKUt7
+"Swami Rama Himalayan University - [SRHU], Dehradun",7.6,244000,775000,UK,UKSw7
+"Bipin Tripathi Kumaon Institute of Technology, Almora",7.8,71150,400000,UK,UKBi7
+"DIT University - [DIT], Dehradun",7.8,200000,4500000,UK,UKDI7
+"Himgiri Zee University - [HZU], Dehradun",7.9,95000,4500000,UK,UKHi7
+"Nanhi Pari Seemant Engineering Institute - [NPSEI], Pithoragarh",8.1,60400,1000000,UK,UKNa8
+"University of Petroleum and Energy Studies - [UPES], Dehradun",8.1,352000,950000,UK,UKUn8
+"Dev Bhoomi Uttarakhand University - [DBUU], Dehradun",8.2,150000,500000,UK,UKDe8
+"Graphic Era University, School of Engineering and Technology - [GEU], Dehradun",8.2,236400,15100000,UK,UKGr8
+"Tula's Institute, Dehradun",8.3,110600,1800000,UK,UKTu8
+"Graphic Era University - [GEU], Dehradun",8.3,323400,750000,UK,UKGr8
+"ICFAI University, Dehradun",8.3,480000,3200000,UK,UKIC8
+"JB Institute of Technology - [JBIT], Dehradun",9.1,92000,1400000,UK,UKJB9
+"Delhi Institute of Engineering and Technology - [DIET], Meerut",5.4,55000,300000,UP,UPDe5
+"HI-Tech Institute of Engineering and Technology - [HIET], Ghaziabad",5.6,103000,1200000,UP,UPHI5
+"Azad Institute of Engineering and Technology - [AIET], Lucknow",6.2,56000,1150000,UP,UPAz6
+"IIMT University - [IIMTU], Meerut",6.2,73000,3726000,UP,UPII6
+"Shambhunath Institute of Engineering and Technology - [SIET], Allahabad",6.2,79400,1000000,UP,UPSh6
+"Institute of Technology & Management - [ITM], Aligarh",6.6,55000,320000,UP,UPIn6
+"Nitra Technical Campus - [NTC], Ghaziabad",6.6,83500,400000,UP,UPNi6
+"RV Institute of Technology - [RVIT], Bijnor",6.7,230800,250000,UP,UPRV6
+"Surya Group of Institutions - [SGI], Lucknow",6.8,62500,750000,UP,UPSu6
+"Career Point University - [CPU], Hamirpur",6.8,105000,350000,UP,UPCa6
+"Meerut International Institute of Technology - [MIIT], Meerut",6.9,65500,420000,UP,UPMe6
+"United Group of Institutions - [UGI], Allahabad",6.9,118025,1665000,UP,UPUn6
+"Raj Kumar Goel Institute of Technology - [RKGIT], Ghaziabad",7.0,135000,452500,UP,UPRa7
+"Inderprastha Engineering College - [IPEC], Ghaziabad",7.0,136056,960000,UP,UPIn7
+"Saroj Institute of Technology and Management - [SITM], Lucknow",7.0,240000,5800000,UP,UPSa7
+"Buddha Institute of Technology- [BIT], Gorakhpur",7.1,68057,504000,UP,UPBu7
+"Babu Banarasi Das Institute of Technology - [BBDIT], Ghaziabad",7.1,80000,450000,UP,UPBa7
+"Raja Balwant Singh Engineering Technical Campus - [FETRBS], Agra",7.1,81865,2300000,UP,UPRa7
+"Bansal Institute of Engineering and Technology - [BIET], Lucknow",7.1,94904,300000,UP,UPBa7
+"Bharat Institute of Technology - [BIT], Meerut",7.1,95000,250000,UP,UPBh7
+"Shri Ram Group of Colleges - [SRGC], Muzaffarnagar",7.1,104900,1100000,UP,UPSh7
+"CIPET- Institute Of Plastics Technology - [IPT], Lucknow",7.1,200000,1000000,UP,UPCI7
+"SP Memorial Institute of Technology - [SPMIT], Allahabad",7.1,220000,90000,UP,UPSP7
+"Jahangirabad Institute of Technology, Barabanki",7.2,50000,350000,UP,UPJa7
+"Rajkiya Engineering College - [REC], Ambedkar Nagar",7.2,57300,280000,UP,UPRa7
+"Rajkiya Engineering College - [REC], Sonbhadra",7.2,57300,600000,UP,UPRa7
+"Bundelkhand Institute of Engineering & Technology - [BIET], Jhansi",7.2,61800,309000,UP,UPBu7
+"Institute of Engineering & Technology, Agra",7.3,78000,1750000,UP,UPIn7
+"SRM, Institute of Technology, Lucknow",7.3,117500,5400000,UP,UPSR7
+"ABES Institute of Technology - [ABESIT], Ghaziabad",7.3,128100,300000,UP,UPAB7
+"Sri Rammurty Smarak College of Engineering & Technology, Bareilly",7.3,139282,300000,UP,UPSr7
+"ANA Group of Institutions, Bareilly",7.3,252000,220000,UP,UPAN7
+"Institute of Engineering and Rural Technology - [IERT], Allahabad",7.4,71200,320000,UP,UPIn7
+"Meerut Institute of Technology - [MIT], Meerut",7.4,87500,240000,UP,UPMe7
+"SRMIST Delhi NCR Campus, Ghaziabad",7.4,221000,650000,UP,UPSR7
+"Mahaveer Institute of Engineering & Technology - [MIET], Meerut",7.5,,813000,UP,UPMa7
+"Institute of Engineering and Technology - [IET], Lucknow",7.5,89775,2500000,UP,UPIn7
+"IFTM University, Moradabad",7.5,107000,830000,UP,UPIF7
+"Vidya College of Engineering - [VCE], Meerut",7.5,108000,520000,UP,UPVi7
+"Babu Banarasi Das Institute of Technology & Management - [BBDITM], Lucknow",7.5,116803,737217,UP,UPBa7
+"Mangalayatan University - [MU], Aligarh",7.5,130000,1709000,UP,UPMa7
+"Maharaja Agrasen Institute of Technology - [MAIT], New Delhi",7.5,143200,3500000,UP,UPMa7
+"RD Engineering College, Ghaziabad",7.5,182500,380000,UP,UPRD7
+"Aligarh College of Engineering and Technology - [ACET], Aligarh",7.5,380000,518000,UP,UPAl7
+"Bhartiya Shiksha Parishad - [BSP], Lucknow",7.6,17250,700000,UP,UPBh7
+"Rajkiya Engineering College - [RECK], Kannauj",7.6,60500,750000,UP,UPRa7
+"Glocal University, Saharanpur",7.6,95000,4600000,UP,UPGl7
+"Ambalika Institute of Management and Technology - [AIMT], Lucknow",7.6,105709,1250000,UP,UPAm7
+"Anand Engineering College - [AEC], Agra",7.6,117625,3600000,UP,UPAn7
+"Sanskriti University - [SU], Mathura",7.6,130000,360000,UP,UPSa7
+"IMS Engineering College - [IMSEC], Ghaziabad",7.6,135169,603000,UP,UPIM7
+"Lucknow Institute of Technology - [LIT], Lucknow",7.6,220000,1080000,UP,UPLu7
+"Kamla Nehru Institute of Technology - [KNIT], Sultanpur",7.6,337000,395777,UP,UPKa7
+"Maulana Azad University, Jodhpur",7.7,60500,1200000,UP,UPMa7
+"Rajkiya Engineering College -[RECM], Mainpuri",7.7,60500,250000,UP,UPRa7
+"Maulana Abul Kalam Azad University of Technology - [MAKAUT], Kolkata",7.7,70300,450000,UP,UPMa7
+"Maharishi University of Information Technology - [MUIT], Lucknow",7.7,80000,450000,UP,UPMa7
+"Ajay Kumar Garg Engineering College - [AKGEC], Ghaziabad",7.7,141856,700000,UP,UPAj7
+"Zakir Hussain College of Engineering and Technology - [ZHCET], Aligarh",7.8,18040,300000,UP,UPZa7
+"Venkateshwara Group of Institutions, Meerut",7.8,75000,1200000,UP,UPVe7
+"College of Engineering and Rural Technology - [CERT], Meerut",7.8,85565,240000,UP,UPCo7
+"Krishna Engineering College - [KEC], Ghaziabad",7.8,99677,86000000,UP,UPKr7
+"Babu Banarasi Das Northern India Institute of Technology - [BBDNIIT], Lucknow",7.8,105503,250000,UP,UPBa7
+"Babu Banarasi Das University - [BBDU], Lucknow",7.8,125000,2586000,UP,UPBa7
+"J.K. Institute of Applied Physics and Technology, Allahabad",7.9,35910,3200000,UP,UPJ.7
+"Rajshree Institute of Management and Technology - [RIMT], Bareilly",7.9,51400,1200000,UP,UPRa7
+"Institute of Technology and Management - [ITM], Gorakhpur",7.9,55000,480000,UP,UPIn7
+"Bundelkhand University, Institute of Engineering and Technology, Jhansi",7.9,67200,543000,UP,UPBu7
+"Goel Institute of Technology & Management - [GITM], Lucknow",7.9,78589,314000,UP,UPGo7
+"Mohammad Ali Jauhar University, Rampur",7.9,85700,1176000,UP,UPMo7
+"Bhagwati Institute of Technology and Science, Ghaziabad",7.9,95865,3400000,UP,UPBh7
+"ABSS Institute of Technology, Meerut",7.9,113460,1270000,UP,UPAB7
+"KIET Group of Institutions - [KIET], Ghaziabad",7.9,138499,2400000,UP,UPKI7
+"Meerut Institute of Engineering and Technology - [MIET], Meerut",7.9,408000,458000,UP,UPMe7
+"Eshan Group of Institution, Agra",8.0,72000,450000,UP,UPEs8
+"SR Group of Institutions - [SRGI], Jhansi",8.0,73100,900000,UP,UPSR8
+"Rakshpal Bahadur College of Engineering & Technology - [RBCET], Bareilly",8.0,75000,314000,UP,UPRa8
+"Sanskar Educational Group - [SEG], Ghaziabad",8.0,90000,480000,UP,UPSa8
+"ABES Engineering College, Ghaziabad",8.0,136600,14000000,UP,UPAB8
+"Integral University, Lucknow",8.0,140000,3700000,UP,UPIn8
+"Maulana Azad National Institute of Technology - [MANIT], Bhopal",8.0,154000,750000,UP,UPMa8
+"JNTUH College of Engineering Sultanpur - [JNTUHCES], Sangareddy",8.1,40500,920000,UP,UPJN8
+"Institute of Technology & Management - [ITM], Lucknow",8.1,67400,550000,UP,UPIn8
+"Moradabad Institute of Technology - [MIT], Moradabad",8.1,114575,5100000,UP,UPMo8
+"Jaypee University Anoopshahr, Bulandshahr",8.1,155000,1000000,UP,UPJa8
+"IAMR Group of Institutions - [IAMR], Ghaziabad",8.1,280000,425000,UP,UPIA8
+"Dayalbagh Educational Institute Faculty of Engineering, Agra",8.2,51300,1146000,UP,UPDa8
+"Sunder Deep Group of Institutions - [SDGI], Ghaziabad",8.2,60000,700000,UP,UPSu8
+"Shobhit University, Meerut",8.2,110000,2700000,UP,UPSh8
+"Shri Ramswaroop Memorial University - [SRMU], Lucknow",8.2,137000,900000,UP,UPSh8
+"National Institute of Technology - [NIT], Hamirpur",8.2,180200,1036000,UP,UPNa8
+"Aligarh Muslim University - [AMU], Aligarh",8.2,269445,6000000,UP,UPAl8
+"R.R. Group of Institutions - [RRGI], Lucknow",8.3,79700,850000,UP,UPR.8
+"Invertis University, Bareilly",8.3,100000,450000,UP,UPIn8
+"Shri Venkateshwara University - [SVU], Amroha",8.3,125000,180000,UP,UPSh8
+"Devprayag Institute of Technical Studies - [DITS], Allahabad",8.4,80500,450000,UP,UPDe8
+"Raj Kumar Goel Engineering College - [RKGEC], Ghaziabad",8.4,110000,840000,UP,UPRa8
+"United Institute of Technology - [UIT], Allahabad",8.4,112025,260000,UP,UPUn8
+"GLA University, Mathura",8.4,171000,4650000,UP,UPGL8
+"MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT], Allahabad",8.5,84666,4500000,UP,UPMN8
+"Feroze Gandhi Institute of Engineering and Technology - [FGIET], Rae Bareli",8.5,87709,700000,UP,UPFe8
+"Maharaja Agrasen University - [MAU], Solan",8.5,120000,430000,UP,UPMa8
+"Indian Institute of Information Technology - [IIITL], Lucknow",8.5,269700,782000,UP,UPIn8
+"Rajiv Gandhi Institute of Petroleum Technology - [RGIPT], Amethi",8.5,271600,823000,UP,UPRa8
+"Vidya Knowledge Park - [VKP], Meerut",8.7,102850,500000,UP,UPVi8
+"Indian Institute of Information Technology - [IIIT], Allahabad",8.7,104000,5475000,UP,UPIn8
+"Camellia Institute of Technology and Management - [CITM], Hooghly",5.0,101000,350000,WB,WBCa5
+"Dharmsinh Desai University - [DDU], Nadiad",5.9,152000,300000,WB,WBDh5
+"Neotia Institute of Technology Management and Science - [NITMAS], Kolkata",6.3,130200,1800000,WB,WBNe6
+"Techno International New Town - [TINT], Kolkata",6.3,144800,400000,WB,WBTe6
+"Camellia Institute of Technology - [CIT], Kolkata",6.4,101500,130000,WB,WBCa6
+"Greater Kolkata College of Engineering & Management - [GKCEM], Baruipur",6.5,85000,350000,WB,WBGr6
+"Adamas Institute of Technology - [AIT], Kolkata",6.6,109600,600000,WB,WBAd6
+"BP Poddar Institute of Management and Technology, Kolkata",6.7,115200,200000,WB,WBBP6
+"Birbhum Institute of Engineering and Technology - [BIET], Birbhum",6.8,70700,320000,WB,WBBi6
+"Future Institute of Engineering and Management - [FIEM], Kolkata",6.8,80000,1800000,WB,WBFu6
+"Ideal Institute of Engineering - [IIE], Nadia",7.0,86800,675000,WB,WBId7
+"Government College of Engineering and Ceramic Technology - [GCECT], Kolkata",7.1,17950,330000,WB,WBGo7
+"Dr. Sudhir Chandra Sur Institute of Technology & Sports Complex - [SURTECH], Kolkata",7.2,436403,300000,WB,WBDr7
+"Om Dayal Group of Institutions, Kolkata",7.3,86500,1200000,WB,WBOm7
+"Swami Vivekananda Institute of Science and Technology - [SVIST], Kolkata",7.3,99000,240000,WB,WBSw7
+"Meghnad Saha Institute of Technology - [MSIT], Kolkata",7.3,144800,700000,WB,WBMe7
+"Seacom Engineering College, Howrah",7.3,250000,453000,WB,WBSe7
+"Dumkal Institute of Engineering & Technology- [DIET], Murshidabad",7.4,59500,300000,WB,WBDu7
+"Abacus Institute of Engineering and Management, Hooghly",7.4,80500,1400000,WB,WBAb7
+"Techno India University, Kolkata",7.4,89200,750000,WB,WBTe7
+"Bankura Unnayani Institute of Engineering - [BUIE], Bankura",7.4,94750,320000,WB,WBBa7
+"Pailan College of Management and Technology - [PCMT], Kolkata",7.4,97500,420000,WB,WBPa7
+"Surendra Institute of Engineering and Management - [SIEM], Darjeeling",7.4,106000,600000,WB,WBSu7
+"Supreme Knowledge Foundation Group of Institutions - [SKFGI], Hooghly",7.4,113700,450000,WB,WBSu7
+"Ramkrishna Mahato Government Engineering College, Purulia",7.5,12220,1000000,WB,WBRa7
+"JIS University, Kolkata",7.5,118600,350000,WB,WBJI7
+"Ghani Khan Choudhury Institute Of Engineering and Technology -[GKCIET], Malda",7.6,27170,400000,WB,WBGh7
+"Elitte College of Engineering - [ECE], Kolkata",7.6,79000,1800000,WB,WBEl7
+"Bengal Institute of Technology - [BIT], Kolkata",7.6,347000,1300000,WB,WBBe7
+"Maulana Abul Kalam Azad University of Technology - [MAKAUT], Kolkata",7.7,70300,450000,WB,WBMa7
+"Dream Institute of Technology, Kolkata",7.7,112000,570000,WB,WBDr7
+"Budge Budge Institute of Technology - [BBIT], Kolkata",7.7,114650,3200000,WB,WBBu7
+"Adamas University, Kolkata",7.7,190000,1200000,WB,WBAd7
+"Siliguri Institute of Technology - [SIT], Darjeeling",7.7,393000,1000000,WB,WBSi7
+"Coochbehar Government Engineering College, Cooch Behar",7.8,6000,343292,WB,WBCo7
+"Modern Institute of Engineering and Technology - [MIET], Hooghly",7.8,88000,800000,WB,WBMo7
+"Kalyani Government Engineering College - [KGEC], Nadia",7.9,16155,8000000,WB,WBKa7
+"Jalpaiguri Government Engineering College - [JGEC], Jalpaiguri",7.9,24893,350000,WB,WBJa7
+"Calcutta Institute of Technology - [CIT], Howrah",7.9,86500,5700000,WB,WBCa7
+"Heritage Institute of Technology - [HIT], Kolkata",7.9,116200,5422000,WB,WBHe7
+"Netaji Subhash Engineering College - [NSEC], Kolkata",7.9,144800,600000,WB,WBNe7
+"Guru Nanak Institute of Technology - [GNIT], Kolkata",7.9,145959,375000,WB,WBGu7
+"University of Engineering and Management - [UEM], Kolkata",7.9,171200,800000,WB,WBUn7
+"Techno Main Salt Lake, Kolkata",7.9,483800,4300000,WB,WBTe7
+"Techno International - Batanagar, South 24 Parganas",8.0,108800,320000,WB,WBTe8
+"RCC Institute of Information Technology - [RCCIIT], Kolkata",8.0,133200,1000000,WB,WBRC8
+"Narula Institute of Technology - [NIT Agarpara], Kolkata",8.0,141994,1187000,WB,WBNa8
+"Institute of Engineering and Management - [IEM], Kolkata",8.0,178400,5130000,WB,WBIn8
+"Saroj Mohan Institute of Technology - [SMIT], Hooghly",8.0,295000,380000,WB,WBSa8
+"Presidency University, Kolkata",8.1,,680000,WB,WBPr8
+"Seacom Skills University - [SSU], Birbhum",8.1,82000,9100000,WB,WBSe8
+"St. Thomas College of Engineering and Technology - [STCET], Kolkata",8.1,112200,550000,WB,WBSt8
+"Indian Institute of Engineering Science and Technology - [IIEST] Shibpur, Howrah",8.1,142000,500000,WB,WBIn8
+"The Neotia University - [TNU], Kolkata",8.1,146000,3450000,WB,WBTh8
+"Indian Maritime University - [IMU], Kolkata",8.1,225000,4564000,WB,WBIn8
+"Brainware University, Kolkata",8.1,464600,2400000,WB,WBBr8
+"Amity University, Kolkata",8.2,188000,1800000,WB,WBAm8
+"MCKV Institute of Engineering - [MCKVIE], Kolkata",8.2,400000,1500000,WB,WBMC8
+"Hooghly Engineering and Technology College - [HETC], Hooghly",8.3,105600,300000,WB,WBHo8
+"Camellia School of Engineering and Technology - [CSET], Kolkata",8.4,63000,1200000,WB,WBCa8
+"Sister Nivedita University - [SNU], Kolkata",8.4,149500,1800000,WB,WBSi8
+"Jadavpur University - [JU], Kolkata",8.5,10000,1100000,WB,WBJa8
+"St. Mary's Technical Campus, Kolkata",8.5,60000,1000000,WB,WBSt8
+"JIS College of Engineering - [JISCE], Kolkata",8.5,408000,3600000,WB,WBJI8

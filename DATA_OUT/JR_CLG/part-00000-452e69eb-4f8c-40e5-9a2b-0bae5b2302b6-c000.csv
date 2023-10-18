@@ -1,0 +1,21 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"RTC Institute of Technology - [RTCIT], Ranchi",7.0,74000,462000,JR,JRRT7
+"Birla Institute of Technology - [BIT Mesra], Ranchi",7.3,303500,2500000,JR,JRBi7
+"Sarala Birla University - [SBU], Ranchi",7.3,522200,1000000,JR,JRSa7
+"Dumkal Institute of Engineering & Technology- [DIET], Murshidabad",7.4,59500,300000,JR,JRDu7
+"Cambridge Institute of Technology - [CIT], Ranchi",7.4,78000,1200000,JR,JRCa7
+"Usha Martin University - [UMU], Ranchi",7.4,187000,2030000,JR,JRUs7
+"Govind Ballabh Pant Engineering College - [GBPEC], Garhwal",7.5,69015,500000,JR,JRGo7
+"Jharkhand Rai University - [JRU], Ranchi",7.7,85000,900000,JR,JRJh7
+"THDC Institute of Hydro Power Engineering and Technology, Garhwal",7.8,73500,1200000,JR,JRTH7
+"Amity University, Ranchi",7.8,135000,480000,JR,JRAm7
+"Birsa Institute of Technology - [BIT] Sindri, Dhanbad",7.9,20332,1031000,JR,JRBi7
+"Sai Nath University, Ranchi",7.9,88000,400000,JR,JRSa7
+"Ramgarh Engineering College - [REC], Ramgarh",8.0,,1020000,JR,JRRa8
+"RKDF University, Ranchi",8.0,90000,2800000,JR,JRRK8
+"YBN University - [YBN], Ranchi",8.1,69600,3200000,JR,JRYB8
+"Indian Institute of Information Technology - [IIIT], Ranchi",8.1,214000,693000,JR,JRIn8
+"Radha Govind University - [RGU], Ramgarh",8.2,60000,550000,JR,JRRa8
+"National Institute of Foundry & Forge Technology - [NIFFT], Ranchi",8.3,47450,1495000,JR,JRNa8
+"Birla Institute of Technology Extension Centre - [BIT], Deoghar",8.4,404700,5100000,JR,JRBi8
+"ISM Dhanbad - Indian Institute of Technology - [IITISM], Dhanbad",8.5,240250,4000000,JR,JRIS8

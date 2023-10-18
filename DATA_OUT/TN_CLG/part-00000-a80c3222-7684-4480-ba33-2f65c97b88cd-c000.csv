@@ -1,0 +1,239 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Sardar Raja College of Engineering - [SRCE], Tirunelveli",4.3,50000,1200000,TN,TNSa4
+"Sudharsan Engineering College - [SEC], Pudukkottai",4.4,55000,2000000,TN,TNSu4
+"Nandha College of Technology - [NCT], Erode",5.1,50000,800000,TN,TNNa5
+"KSR College of Engineering, Namakkal",5.4,60000,500000,TN,TNKS5
+"Arulmigu Meenakshi Amman College of Engineering - [AMACE], Kanchipuram",5.4,160000,1800000,TN,TNAr5
+"Anna University of Technology, Madurai",5.5,43810,600000,TN,TNAn5
+"Krishnasamy College of Engineering and Technology - [KCET], Cuddalore",5.7,50000,500000,TN,TNKr5
+"Alpha College of Engineering, Chennai",5.7,50000,1450000,TN,TNAl5
+"Bharathidasan Engineering College - [BEC], Vellore",5.7,55000,280000,TN,TNBh5
+"Tamilnadu College of Engineering - [TNCE], Coimbatore",5.7,200000,466000,TN,TNTa5
+"The Kavery College of Engineering - [KCE], Salem",6.0,60000,220000,TN,TNTh6
+"Pavai College of Technology - [PCT], Namakkal",6.2,40000,360000,TN,TNPa6
+"V V College of Engineering, Tirunelveli",6.4,30000,360000,TN,TNV 6
+"Velalar College of Engineering and Technology -[VCET], Erode",6.5,50000,411000,TN,TNVe6
+"Arunai Engineering College - [AEC], Tiruvannamalai",6.5,50000,850000,TN,TNAr6
+"Excel College of Engineering and Technology, Namakkal",6.5,55000,350000,TN,TNEx6
+"Hindusthan Institute of Technology - [HITECH], Coimbatore",6.6,125000,400000,TN,TNHi6
+"Dhanalakshmi College of Engineering - [DCE], Chennai",6.6,200000,600000,TN,TNDh6
+"Hindustan Institute of Technology and Science - [HITS], Chennai",6.6,229500,5300000,TN,TNHi6
+"Anna University of Technology, Tirunelveli",6.7,43810,1600000,TN,TNAn6
+"Arignar Anna Institute of Science and Technology, Chennai",6.7,55000,1650000,TN,TNAr6
+"Al Ameen Engineering College, Erode",6.8,25000,816000,TN,TNAl6
+"Cheran College of Engineering, Karur",6.8,50000,450000,TN,TNCh6
+"Mohamed Sathak Engineering College - [MSEC], Ramanathapuram",6.8,60000,800000,TN,TNMo6
+"Indian Institute of Handloom Technology - [IIHT], Salem",6.9,,520000,TN,TNIn6
+"SSM College of Engineering - [SSMCE], Namakkal",6.9,30000,394000,TN,TNSS6
+"Jawahar Engineering College, Chennai",6.9,50000,240000,TN,TNJa6
+"Vel Tech Multi Tech Dr. Rangarajan Dr. Sakunthala Engineering College, Chennai",6.9,55000,1400000,TN,TNVe6
+"Akshaya College of Engineering and Technology-[ACET], Coimbatore",6.9,65000,300000,TN,TNAk6
+"Ranganathan Engineering College - [REC], Coimbatore",7.0,60000,1200000,TN,TNRa7
+"Mahendra Institute of Technology - [MIT], Namakkal",7.0,200000,400000,TN,TNMa7
+"Rajalakshmi Engineering College - [REC], Chennai",7.1,50000,4400000,TN,TNRa7
+"Mookambigai College of Engineering, Pudukkottai",7.1,50000,230000,TN,TNMo7
+"Government College of Engineering - [GCES] Srirangam, Tiruchirappalli",7.1,50000,1200000,TN,TNGo7
+"RRASE College of Engineering, Chennai",7.1,50000,200000,TN,TNRR7
+"Sri Lakshmi Ammal Engineering College - [SLAEC], Chennai",7.1,50000,360000,TN,TNSr7
+"CK College of Engineering and Technology - [CKCET], Cuddalore",7.1,50000,325000,TN,TNCK7
+"Pallavan College of Engineering - [PCE], Kanchipuram",7.1,55000,385000,TN,TNPa7
+"A.V.C College of Engineering - [AVCCE], Nagapattinam",7.1,55500,5000000,TN,TNA.7
+"Shivani Engineering College - [SEC], Tiruchirappalli",7.1,56500,1000000,TN,TNSh7
+"AVS Engineering College - [AVSEC], Salem",7.1,70000,7000000,TN,TNAV7
+"Park College of Engineering and Technology - [PCET], Coimbatore",7.1,87000,350000,TN,TNPa7
+"Jayam College of Engineering and Technology - [JCET], Dharmapuri",7.1,200000,2000000,TN,TNJa7
+"Agni College of Technology, Chennai",7.2,50000,1032000,TN,TNAg7
+"Anand Institute of Higher Technology - [AIHT], Chennai",7.2,50000,1250000,TN,TNAn7
+"Selvam College of Technology - [SCT], Namakkal",7.2,50000,240000,TN,TNSe7
+"PET Engineering College, Tirunelveli",7.2,50000,550000,TN,TNPE7
+"RVS College of Engineering and Technology, Coimbatore",7.2,50000,750000,TN,TNRV7
+"Sri Ramanujar Engineering College - [SREC], Chennai",7.2,50000,600000,TN,TNSr7
+"DMI College of Engineering - [DMICE], Chennai",7.2,60000,4000000,TN,TNDM7
+"P.B. College of Engineering - [PBCE], Chennai",7.2,60000,1000000,TN,TNP.7
+"Info Institute of Engineering - [IIE], Coimbatore",7.2,60000,350000,TN,TNIn7
+"Kamaraj College of Engineering and Technology - [KCET], Virudhunagar",7.2,77000,4100000,TN,TNKa7
+"Meenakshi Sundararajan Engineering College - [MSEC], Chennai",7.2,87000,400000,TN,TNMe7
+"Adhi College of Engineering and Technology - [ACET], Kanchipuram",7.2,200000,510000,TN,TNAd7
+"Sri Ramakrishna Institute of Technology - [SRIT], Coimbatore",7.3,50000,2000000,TN,TNSr7
+"Dhanalakshmi Srinivasan Engineering College - [DSEC], Perambalur",7.3,50000,443000,TN,TNDh7
+"Government College of Engineering, Bargur - [GCE], Krishnagiri",7.3,50000,1260000,TN,TNGo7
+"Ponnaiyah Ramajayam Institute of Science and Technology University - [PRIST University], Thanjavur",7.3,51000,4615000,TN,TNPo7
+"Aalim Muhammed Salegh College of Engineering - [AALIMEC], Chennai",7.3,55000,7200000,TN,TNAa7
+"Sri Shanmugha College of Engineering and Technology - [SSCET], Salem",7.3,55000,1000000,TN,TNSr7
+"Jeppiaar Engineering College, Chennai",7.3,60000,5760000,TN,TNJe7
+"Mahendra Engineering College, Namakkal",7.3,70000,480000,TN,TNMa7
+"Sri Muthukumaran Institute of Technology - [SMIT], Chennai",7.3,70000,1800000,TN,TNSr7
+"Einstein College of Engineering, Tirunelveli",7.3,200000,1200000,TN,TNEi7
+"Karpaga Vinayaga College of Engineering and Technology - [KVCET], Chennai",7.3,200000,2850000,TN,TNKa7
+"SRM Engineering College, Kanchipuram",7.3,260000,819000,TN,TNSR7
+"Academy of Maritime Education and Training University - [AMET], Chennai",7.4,,3800000,TN,TNAc7
+"Government College of Engineering - [GCE], Salem",7.4,15820,350000,TN,TNGo7
+"Excel Engineering College, Namakkal",7.4,35000,1200000,TN,TNEx7
+"PPG Institute of Technology - [PPGIT], Coimbatore",7.4,40000,108000,TN,TNPP7
+"Annai Mathammal Sheela Engineering College, Namakkal",7.4,45000,450000,TN,TNAn7
+"Global Institute of Engineering and Technology - [GIT], Vellore",7.4,50000,850000,TN,TNGl7
+"KLN College of Information Technology - [KLNCIT], Sivaganga",7.4,50000,480000,TN,TNKL7
+"SRM TRP Engineering College, Tiruchirappalli",7.4,50000,570000,TN,TNSR7
+"Sakthi Mariamman Engineering College - [SMEC], Chennai",7.4,50000,349000,TN,TNSa7
+"Jayaraj Annapackiam CSI College of Engineering - [JACSICE], Thoothukudi",7.4,50000,225000,TN,TNJa7
+"Coimbatore Institute of Engineering and Technology - [CIET], Coimbatore",7.4,55000,1225000,TN,TNCo7
+"Latha Mathavan Engineering College - [LMEC], Madurai",7.4,55000,1200000,TN,TNLa7
+"Vel Tech High Tech Dr.Rangarajan Dr.Sakunthala Engineering College, Chennai",7.4,60000,3800000,TN,TNVe7
+"Rajalakshmi Institute of Technology - [RIT], Chennai",7.4,85000,204609,TN,TNRa7
+"CSI College of Engineering - [CSICE], The Nilgiris",7.4,89400,450000,TN,TNCS7
+"University College of Engineering, Anna University - [UCEV], Viluppuram",7.5,43810,1000000,TN,TNUn7
+"JEPPIAAR SRR Engineering college, Chennai",7.5,45000,250000,TN,TNJE7
+"Nandha Engineering College - [NEC], Erode",7.5,50000,2700000,TN,TNNa7
+"Indra Ganesan College of Engineering - [IGCENG], Tiruchirappalli",7.5,50000,800000,TN,TNIn7
+"Salem College of Engineering and Technology - [SCET], Salem",7.5,50000,1100000,TN,TNSa7
+"Gnanamani College of Engineering - [GCE], Namakkal",7.5,50000,650000,TN,TNGn7
+"Annai Mira College of Engineering and Technology, Vellore",7.5,50000,320000,TN,TNAn7
+"Jaya Engineering College - [JEC], Chennai",7.5,55000,6300000,TN,TNJa7
+"Kongunadu College of Engineering and Technology - [KNCET], Tiruchirappalli",7.5,55000,2500000,TN,TNKo7
+"Vickram College of Engineering - [VCE], Sivaganga",7.5,55000,600000,TN,TNVi7
+"Alagappa College of Technology, Anna University - [ACT], Chennai",7.5,57160,545000,TN,TNAl7
+"Panimalar Institute of Technology-[PIT], Chennai",7.5,60000,600000,TN,TNPa7
+"Institute of Road and Transport Technology - [IRTTECH], Erode",7.5,66865,475000,TN,TNIn7
+"Sri Eshwar College of Engineering - [SECE], Coimbatore",7.5,90000,708000,TN,TNSr7
+"Hindusthan College of Engineering and Technology - [HICET], Coimbatore",7.5,100000,344000,TN,TNHi7
+"SASTRA University, Thanjavur",7.5,167000,4500000,TN,TNSA7
+"M. Kumarasamy College of Engineering - [MKCE], Karur",7.5,200000,320000,TN,TNM.7
+"Kalaignar karunanidhi Institute of Technology - [KIT], Coimbatore",7.5,200000,1200000,TN,TNKa7
+"EGS Pillay Engineering College, Nagapattinam",7.5,200000,3000000,TN,TNEG7
+"Cape Institute of Technology - [CAPE], Tirunelveli",7.6,25500,400000,TN,TNCa7
+"Sengunthar Engineering College, Namakkal",7.6,50000,350000,TN,TNSe7
+"Surya Engineering College, Erode",7.6,50000,900000,TN,TNSu7
+"KS Rangasamy College of Technology, Namakkal",7.6,50000,340000,TN,TNKS7
+"Muthayammal Engineering College - [MEC], Namakkal",7.6,60000,120000,TN,TNMu7
+"M.A.M College of Engineering - [MAMCE], Tiruchirappalli",7.6,60000,3200000,TN,TNM.7
+"The Kavery Engineering College - [TKEC], Salem",7.6,60000,1200000,TN,TNTh7
+"K Ramakrishnan College of Technology - [KRCT], Tiruchirappalli",7.6,65000,325000,TN,TNK 7
+"Dr. M.G.R. Educational and Research Institute, Chennai",7.6,80000,5015000,TN,TNDr7
+"Syed Ammal Engineering college, Ramanathapuram",7.6,200000,120000,TN,TNSy7
+"Mangayarkarasi College of Engineering - [MCE], Madurai",7.7,30000,320000,TN,TNMa7
+"SVS College of Engineering - [SVSCE], Coimbatore",7.7,45000,180000,TN,TNSV7
+"Jerusalem College of Engineering - [JCE], Chennai",7.7,50000,450000,TN,TNJe7
+"EASA College of Engineering and Technology - [ECET], Coimbatore",7.7,50000,300000,TN,TNEA7
+"Meenakshi College of Engineering, Chennai",7.7,50000,1340000,TN,TNMe7
+"Dhanalakshmi Srinivasan College of Engineering - [DSCE], Coimbatore",7.7,55000,2600000,TN,TNDh7
+"Misrimal Navajee Munoth Jain Engineering College - [MNMJEC], Chennai",7.7,55000,450000,TN,TNMi7
+"St Joseph College of Engineering, Chennai",7.7,60000,450000,TN,TNSt7
+"SKP Engineering College, Tiruvannamalai",7.7,65000,360000,TN,TNSK7
+"New Prince Shri Bhavani College of Engineering & Technology - [NPSBCET], Chennai",7.7,65000,1800000,TN,TNNe7
+"Bharath University - Bharath Institute of Higher Education and Research - [BIHER], Chennai",7.7,150000,600000,TN,TNBh7
+"Dr. NGP Institute of Technology, Coimbatore",7.7,200000,500000,TN,TNDr7
+"Amrita Vishwa Vidyapeetham, Coimbatore",7.7,300000,572000,TN,TNAm7
+"Infant Jesus College of Engineering - [IJCE], Thoothukudi",7.8,34000,250000,TN,TNIn7
+"Anna University, College of Engineering - [UCEK], Kanchipuram",7.8,43810,250000,TN,TNAn7
+"Paavai Engineering College (Autonomous), Namakkal",7.8,50000,8500000,TN,TNPa7
+"GKM College of Engineering and Technology - [GKMCET], Chennai",7.8,50000,590000,TN,TNGK7
+"Thangavelu Engineering College, Chennai",7.8,50000,1000000,TN,TNTh7
+"ARM College of Engineering and Technology - [ARMCET], Kanchipuram",7.8,50000,2500000,TN,TNAR7
+"KLN College of Engineering - [KLNCE], Sivaganga",7.8,60000,1945000,TN,TNKL7
+"Roever Engineering College-[REC], Perambalur",7.8,60000,450000,TN,TNRo7
+"Renganayagi Varatharaj College of Engineering - [RVCE], Virudhunagar",7.8,60000,530000,TN,TNRe7
+"Velammal Engineering College - [VEC], Chennai",7.8,65000,1400000,TN,TNVe7
+"Raja College of Engineering and Technology, Veerapanjan, Madurai",7.8,81000,1900000,TN,TNRa7
+"Vi Institute of Technology - [VIIT], Kanchipuram",7.8,200000,653000,TN,TNVi7
+"Velammal College of Engineering and Technology - [VCET], Madurai",7.8,200000,2100000,TN,TNVe7
+"Parisutham Institute of Technology and Science - [PITS], Thanjavur",7.8,200000,120000,TN,TNPa7
+"Vels Institute of Science, Technology & Advanced Studies, Chennai",7.8,287250,4160000,TN,TNVe7
+"Amrita School of Engineering - [ASE], Coimbatore",7.8,335000,460000,TN,TNAm7
+"United Institute of Technology - [UIT], Coimbatore",7.9,,700000,TN,TNUn7
+"Government College of Engineering - [GCE], Dharmapuri",7.9,7555,741000,TN,TNGo7
+"PSR Engineering College, Virudhunagar",7.9,14000,350000,TN,TNPS7
+"Coimbatore Institute of Technology - [CIT], Coimbatore",7.9,25800,5800000,TN,TNCo7
+"KCG College Of technology, Chennai",7.9,50000,1400000,TN,TNKC7
+"Prince Shri Venkateshwara Padmavathy Engineering College - [PSVPEC], Chennai",7.9,50000,1000000,TN,TNPr7
+"Vaigai College of Engineering- [VCE], Madurai",7.9,50000,350000,TN,TNVa7
+"CMS College of Engineering - [CMSCE], Namakkal",7.9,50000,4000000,TN,TNCM7
+"Sengunthar College of Engineering - [SCE], Namakkal",7.9,50000,380000,TN,TNSe7
+"SCAD Engineering College, Tirunelveli",7.9,50000,450000,TN,TNSC7
+"Easwari Engineering College - [EEC], Chennai",7.9,55000,300000,TN,TNEa7
+"S.A. Engineering College, Chennai",7.9,60000,2910000,TN,TNS.7
+"Aarupadai Veedu Institute of Technology - [AVIT], Kanchipuram",7.9,60000,450000,TN,TNAa7
+"Sathyabama Institute of Science and Technology, Chennai",7.9,80000,1535000,TN,TNSa7
+"SRM Valliammai Engineering college -[VEC], Kanchipuram",7.9,177000,3900000,TN,TNSR7
+"Vellore Institute of Technology - [VIT], Chennai",7.9,198000,1500000,TN,TNVe7
+"SNS College of Engineering - [SNSCE], Coimbatore",7.9,300000,2100000,TN,TNSN7
+"Adhiparasakthi College of Engineering Arcot - [APCE], Vellore",8.0,40000,718000,TN,TNAd8
+"Annai Teresa College of Engineering, Viluppuram",8.0,50000,1200000,TN,TNAn8
+"Erode Sengunthar Engineering College, Perundurai",8.0,55000,1450000,TN,TNEr8
+"Loyola Institute of Technology - [LIT], Chennai",8.0,55000,550000,TN,TNLo8
+"Sree Sastha Institute of Engineering and Technology, Chennai",8.0,55000,650000,TN,TNSr8
+"VSB College of Engineering Technical Campus, Coimbatore",8.0,55000,450000,TN,TNVS8
+"Suguna College of Engineering - [SCE], Coimbatore",8.0,60000,190000,TN,TNSu8
+"Mount Zion College of Engineering and Technology, Pudukkottai",8.0,60000,1000000,TN,TNMo8
+"Thirumalai Engineering College - [TEC], Kanchipuram",8.0,60000,520000,TN,TNTh8
+"Saranathan College of Engineering - [SCE], Tiruchirappalli",8.0,65000,700000,TN,TNSa8
+"Karpagam College of Engineering - [KCE], Coimbatore",8.0,75500,350000,TN,TNKa8
+"St. Peter's Institute of Higher Education and Research - [SPIHER], Chennai",8.0,100000,1453000,TN,TNSt8
+"Saveetha Engineering College - [SEC], Chennai",8.0,200000,3600000,TN,TNSa8
+"SKR Engineering College, Chennai",8.0,200000,3500000,TN,TNSK8
+"Vel Tech Rangarajan Dr. Sagunthala R and D Institute of Science and Technology - [Vel Tech], Chennai",8.0,250000,324409,TN,TNVe8
+"Government College of Technology - [GCT], Coimbatore",8.1,9180,6200000,TN,TNGo8
+"Government College Of Engineering Sengipatti, Thanjavur",8.1,9430,2100000,TN,TNGo8
+"Sri Krishna College of Engineering and Technology - [SKCET], Coimbatore",8.1,50000,1018000,TN,TNSr8
+"PERI Institute of Technology - [PERIT], Chennai",8.1,55000,4491000,TN,TNPE8
+"Chettinad College of Engineering and Technology - [CCET], Karur",8.1,55000,314000,TN,TNCh8
+"Trichy Engineering College - [TEC], Tiruchirappalli",8.1,60000,400000,TN,TNTr8
+"Kathir College of Engineering, Coimbatore",8.1,60000,1250000,TN,TNKa8
+"Indian Institute of Information Technology Design & Manufacturing - [IIITDM], Chennai",8.1,135100,2400000,TN,TNIn8
+"Sasurie College of Engineering - [SCE], Tiruppur",8.1,200000,350000,TN,TNSa8
+"Gojan School of Business and Technology - [GSBT], Chennai",8.1,200000,202345,TN,TNGo8
+"Asan Memorial College of Engineering and Technology - [AMCET], Kanchipuram",8.1,200000,145000,TN,TNAs8
+"Karunya Institute of Technology and Sciences - [Karunya Deemed University], Coimbatore",8.1,218500,2700000,TN,TNKa8
+"Indian Maritime University - [IMU], Chennai",8.1,225000,3425000,TN,TNIn8
+"SRM Institute of Science and Technology - [SRMIST], Chennai",8.1,250000,3000000,TN,TNSR8
+"Tamil Nadu Veterinary and Animal Sciences University - [TANUVAS], Chennai",8.2,21415,1826000,TN,TNTa8
+"Central Institute of Petrochemicals Engineering & Technology - [CIPET], Chennai",8.2,31950,1000000,TN,TNCe8
+"Madras Institute of Technology- [MIT], Chennai",8.2,46060,3251000,TN,TNMa8
+"Sri Sairam Engineering College, Chennai",8.2,50000,2500000,TN,TNSr8
+"Angel College of Engineering and Technology - [ACET], Tiruppur",8.2,50000,300000,TN,TNAn8
+"Sri Ramakrishna Engineering College - [SREC], Coimbatore",8.2,55000,19500000,TN,TNSr8
+"Sree Sowdambika College of Engineering - [SSCE], Virudhunagar",8.2,55000,280000,TN,TNSr8
+"Panimalar Engineering College, Chennai",8.2,60000,5500000,TN,TNPa8
+"KGISL Institute of Technology - [KITE], Coimbatore",8.2,87200,800000,TN,TNKG8
+"Christ the King Engineering College, Coimbatore",8.2,200000,960000,TN,TNCh8
+"Sri Sairam Institute of Technology - [SSIT], Chennai",8.2,202000,750000,TN,TNSr8
+"Thanthai Periyar Government Institute of Technology - [TPGIT], Vellore",8.3,6455,540000,TN,TNTh8
+"SCAD College of Engineering and Technology - [SCAD CET], Tirunelveli",8.3,50000,406000,TN,TNSC8
+"Kongu Engineering College - [KEC], Erode",8.3,55000,5820000,TN,TNKo8
+"Chennai Institute of Technology - [CIT], Chennai",8.3,55000,2200000,TN,TNCh8
+"St. Joseph College Of Engineering, Kanchipuram",8.3,60000,500000,TN,TNSt8
+"Jansons Institute of Technology - [JIT], Coimbatore",8.3,92500,300000,TN,TNJa8
+"Kumaraguru College of Technology - [KCT], Coimbatore",8.3,100200,650000,TN,TNKu8
+"Vellore Institute of Technology - [VIT University], Vellore",8.3,198000,1000000,TN,TNVe8
+"SSN College of Engineering - [SSNCE], Chennai",8.3,200000,10200000,TN,TNSS8
+"Madha Engineering College, Chennai",8.4,,240000,TN,TNMa8
+"College of Engineering, Anna University - [CEG], Chennai",8.4,31060,3037000,TN,TNCo8
+"Saveetha School of Engineering - [SSE], Chennai",8.4,45000,5300000,TN,TNSa8
+"VSB Engineering College - [VSBEC], Karur",8.4,45000,334000,TN,TNVS8
+"Sri Shakthi Institute of Engineering and Technology - [SIET], Coimbatore",8.4,50000,350000,TN,TNSr8
+"JCT College of Engineering and Technology, Coimbatore",8.4,50000,1000000,TN,TNJC8
+"Vinayaka Missions University - [VMU], Salem",8.4,60000,1700000,TN,TNVi8
+"B.S. Abdur Rahman Crescent Institute of Science & Technology - [BSAU], Chennai",8.4,85000,6400000,TN,TNB.8
+"NIT Trichy, Tiruchirappalli",8.4,178150,3000000,TN,TNNI8
+"Indian Institute of Information Technology - [IIIT], Tiruchirappalli",8.4,194750,4400000,TN,TNIn8
+"Sri Krishna College of Technology - [SKCT], Coimbatore",8.4,200000,1470000,TN,TNSr8
+"PSNA College of Engineering and Technology, Dindigul",8.4,200000,5200000,TN,TNPS8
+"K. Ramakrishnan College of Engineering -[KRCE], Tiruchirappalli",8.4,200000,1200000,TN,TNK.8
+"Loyola-ICAM College of Engineering and Technology - [LICET], Chennai",8.4,200000,434000,TN,TNLo8
+"SRM University Vadapalani Campus, Chennai",8.4,225000,1240000,TN,TNSR8
+"Francis Xavier Engineering College, Tirunelveli",8.5,,408000,TN,TNFr8
+"Periyar Maniammai Institute of Science and Technology - [PMIST], Thanjavur",8.5,44500,168000,TN,TNPe8
+"Sona College of Technology, Salem",8.5,55000,320000,TN,TNSo8
+"Thiagarajar College of Engineering - [TCE], Madurai",8.5,82000,5500000,TN,TNTh8
+"KPR Institute of Engineering & Technology - [KPRIET], Coimbatore",8.5,96900,223000,TN,TNKP8
+"SACS MAVMM Engineering College, Madurai",8.5,200000,300000,TN,TNSA8
+"Dhirajlal Gandhi College of Technology, Salem",8.6,50000,1800000,TN,TNDh8
+"M.A.M. College of Engineering and Technology - [MAMCET], Tiruchirappalli",8.6,50000,1510000,TN,TNM.8
+"St.Joseph's Institute of Technology - [SJIT], Chennai",8.6,200000,1350000,TN,TNSt8
+"SRM Institute of Science and Technology Ramapuram Campus, Chennai",8.6,210000,300000,TN,TNSR8
+"Thamirabharani Engineering College,, Tirunelveli",8.7,40000,350000,TN,TNTh8
+"Knowledge Institute of Technology - [KIOT], Salem",8.7,50000,743000,TN,TNKn8
+"Pandian Saraswathi Yadav Engineering College, Sivaganga",8.7,60000,600000,TN,TNPa8
+"PSG Institute of Technology and Applied Research - [PSG iTech], Coimbatore",8.7,89800,2100000,TN,TNPS8
+"IIT Madras - Indian Institute of Technology - [IITM], Chennai",8.7,209550,2148000,TN,TNII8
+"P.S.G College of Technology - [PSGCT], Coimbatore",8.8,55000,8205000,TN,TNP.8
+"Karpagam Institute of Technology, Coimbatore",9.0,50000,700000,TN,TNKa9

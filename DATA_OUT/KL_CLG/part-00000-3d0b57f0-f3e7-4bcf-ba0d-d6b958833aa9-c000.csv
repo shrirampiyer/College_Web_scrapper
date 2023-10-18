@@ -1,0 +1,80 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Ahalia School of Engineering and Technology - [ASET], Palakkad",4.7,78000,400000,KL,KLAh4
+"Sarabhai Institute of Science & Technology - [SIST] Vellanad, Thiruvananthapuram",4.8,50000,440000,KL,KLSa4
+"College of Engineering Muttathara, Thiruvananthapuram",5.4,56705,1140000,KL,KLCo5
+"University of Kerala, University College Of Engineering Kariavattom, Thiruvananthapuram",5.5,36750,436000,KL,KLUn5
+"ILM College of Engineering and Technology - [ILMCET], Ernakulam",5.6,274000,235000,KL,KLIL5
+"College of Engineering - [CEAL] Attingal, Thiruvananthapuram",6.1,42952,450000,KL,KLCo6
+"Trinity College of Engineering, Thiruvananthapuram",6.4,40000,4600000,KL,KLTr6
+"Lourdes Matha College of Science and Technology, Thiruvananthapuram",6.4,100400,300000,KL,KLLo6
+"College of Engineering and Management - [CEM] Punnapara, Alappuzha",6.5,35000,240000,KL,KLCo6
+"Calicut University Institute of Engineering Technology - [CUIET], Malappuram",6.7,42600,250000,KL,KLCa6
+"Sree Narayana Guru Institute of Science and Technology - [SNGIST], Ernakulam",6.7,50000,1350000,KL,KLSr6
+"Mangalam College of Engineering Ettumanoor - [MLM], Kottayam",6.7,75000,939795,KL,KLMa6
+"Thangal Kunju Musaliar Institute of Technology - [TKM], Kollam",6.7,91350,450000,KL,KLTh6
+"Government Engineering College - [GECI], Idukki",6.8,19800,2500000,KL,KLGo6
+"Sri Vellappally Natesan College of Engineering - [SVNCE] Mavelikara, Alappuzha",6.8,50000,300000,KL,KLSr6
+"Royal College of Engineering and Technology - [RCET], Thrissur",6.9,50000,320000,KL,KLRo6
+"Muslim Association College of Engineering - [MACE], Thiruvananthapuram",6.9,65000,210000,KL,KLMu6
+"ACE College of Engineering, Thiruvananthapuram",6.9,75000,360000,KL,KLAC6
+"NSS College of Engineering - [NSSCE], Palakkad",7.1,8739,9700000,KL,KLNS7
+"Travancore Engineering College - [TEC] Oyoor, Kollam",7.1,50000,1000000,KL,KLTr7
+"Vimal Jyothi Engineering College - [VJEC], Kannur",7.1,75000,1000000,KL,KLVi7
+"Rajiv Gandhi Institute of Technology - [RIT], Kottayam",7.2,22000,460000,KL,KLRa7
+"John Cox Memorial CSI Institute of Technology Kannammoola, Thiruvananthapuram",7.2,65000,4200000,KL,KLJo7
+"College of Engineering - [CEK] Kidangoor, Kottayam",7.3,35000,500000,KL,KLCo7
+"College of Engineering - [CEM] Munnar, Idukki",7.3,85650,424448,KL,KLCo7
+"Thejus Engineering College, Thrissur",7.3,88400,1000000,KL,KLTh7
+"College of Engineering Perumon, Kollam",7.4,35000,800000,KL,KLCo7
+"Malabar College of Engineering and Technology - [MCET], Thrissur",7.4,50000,300000,KL,KLMa7
+"Nehru College of Engineering and Research Centre - [NCERC], Thrissur",7.4,50000,720000,KL,KLNe7
+"L.B.S. College of Engineering - [LBSCEK], Kasaragod",7.4,57620,620000,KL,KLL.7
+"Sree Narayana Gurukulam College of Engineering - [SNGCE], Ernakulam",7.4,72020,1208000,KL,KLSr7
+"APJ Abdul Kalam Technological University - [KTU], Thiruvananthapuram",7.5,,520000,KL,KLAP7
+"Government Engineering College - [GECK], Kozhikode",7.5,13710,4100000,KL,KLGo7
+"Heera College of Engineering and Technology - [HCET] Nedumangad, Thiruvananthapuram",7.5,45000,220000,KL,KLHe7
+"Mohandas College of Engineering and Technology - [MCET], Thiruvananthapuram",7.5,50000,216316,KL,KLMo7
+"Vidya Academy of Science and Technology - [VAST], Thrissur",7.5,108611,300000,KL,KLVi7
+"Government Engineering College - [GECSKP] Sreekrishnapuram , Palakkad",7.6,8225,420000,KL,KLGo7
+"College of Engineering - [COE] Kallooppara, Pathanamthitta",7.6,35000,1200000,KL,KLCo7
+"College of Engineering Trikaripur, Kasaragod",7.6,43805,400000,KL,KLCo7
+"Vedavyasa Institute of Technology, Malappuram",7.6,124000,576000,KL,KLVe7
+"Sree Buddha College of Engineering Pattoor - [SBCE], Alappuzha",7.7,75000,5600000,KL,KLSr7
+"Sreepathy Institute of Management and Technology - [SIMAT] Vavannor, Palakkad",7.7,75000,240000,KL,KLSr7
+"Viswajyothi College of Engineering and Technology - [VJCET], Ernakulam",7.7,96500,400000,KL,KLVi7
+"Rajadhani Institute of Engineering and Technology - [RIET] Attinga, Thiruvananthapuram",7.7,120000,340000,KL,KLRa7
+"Jawaharlal College of Engineering and Technology - [JCET] Ottapalam, Palakkad",7.7,300000,280000,KL,KLJa7
+"College of Engineering Kottarakkara, Kollam",7.8,36932,1200000,KL,KLCo7
+"College of Engineering Thalassery, Kannur",7.8,38250,3200000,KL,KLCo7
+"Holy Grace Academy of Engineering - [HGAE], Thrissur",7.8,60000,230000,KL,KLHo7
+"Marian Engineering College - [MEC], Thiruvananthapuram",7.8,97750,2200000,KL,KLMa7
+"Sahrdaya College of Engineering - [SCE] Kodakara, Thrissur",7.9,35000,350000,KL,KLSa7
+"College of Engineering Adoor - [CEA], Pathanamthitta",7.9,53328,550000,KL,KLCo7
+"Sree Chitra Thirunal College of Engineering - [SCTCE], Thiruvananthapuram",7.9,62668,860000,KL,KLSr7
+"SCMS School of Engineering and Technology [SSET], Ernakulam",7.9,72225,1300000,KL,KLSC7
+"St. Joseph's College of Engineering and Technology - [SJCET] Palai, Kottayam",7.9,100400,550000,KL,KLSt7
+"Hindustan College of Engineering - [HCE], Kollam",8.0,50000,1400000,KL,KLHi8
+"Toc H Institute of Science and Technology - [TIST], Ernakulam",8.0,60000,4333000,KL,KLTo8
+"Christ College of Engineering - [CCEIJK] Irinjalakuda, Thrissur",8.0,96000,180000,KL,KLCh8
+"MEA Engineering College- [MEAEC], Malappuram",8.1,75000,300000,KL,KLME8
+"Government College of Engineering - [GCE], Kannur",8.2,7600,400000,KL,KLGo8
+"College of Engineering- [CEC] Cherthala, Alappuzha",8.2,35000,1200000,KL,KLCo8
+"College of Engineering Pathanapuram, Pathanamthitta",8.2,53450,1000000,KL,KLCo8
+"College of Engineering Aranmula, Pathanamthitta",8.2,56355,1500000,KL,KLCo8
+"Federal Institute of Science and Technology - [FISAT], Ernakulam",8.2,75100,851000,KL,KLFe8
+"Cochin University of Science and Technology, School of Engineering -[SOE] Thrikkakara, Ernakulam",8.2,86040,1041000,KL,KLCo8
+"Amrita Vishwa Vidyapeetham Amritapuri Campus, Kollam",8.2,100000,1719000,KL,KLAm8
+"TKM College of Engineering - [TKMCE], Kollam",8.3,8410,550000,KL,KLTK8
+"Rajadhani Institute of Science and Technology - [RIST], Palakkad",8.3,35000,454000,KL,KLRa8
+"College of Engineering Poonjar, Kottayam",8.3,35000,800000,KL,KLCo8
+"Saintgits College of Engineering, Kottayam",8.3,75000,350000,KL,KLSa8
+"Cochin University College of Engineering Kuttanad - [CUCEK], Alappuzha",8.3,88890,450000,KL,KLCo8
+"Indian Institute of Information Technology [IIIT], Kottayam",8.3,230450,700000,KL,KLIn8
+"KVASU, College of Dairy Science and Technology Mannuthy - [CDST], Thrissur",8.4,,1200000,KL,KLKV8
+"College of Engineering, Thiruvananthapuram",8.4,50000,6400000,KL,KLCo8
+"Indian Institute of Space Science and Technology - [IIST], Thiruvananthapuram",8.4,144900,2088000,KL,KLIn8
+"Government Engineering College - [GEC] Barton Hill, Thiruvananthapuram",8.5,18425,320000,KL,KLGo8
+"Government Engineering College - [GECT], Thrissur",8.5,22150,7200000,KL,KLGo8
+"College of Engineering Vadakara - [CEV], Kozhikode",8.5,55105,350000,KL,KLCo8
+"IIT Palakkad - Indian Institute of Technology - [IITPKD], Palakkad",8.7,223900,550000,KL,KLII8
+"KMCT College of Engineering, Kozhikode",8.8,75000,720000,KL,KLKM8

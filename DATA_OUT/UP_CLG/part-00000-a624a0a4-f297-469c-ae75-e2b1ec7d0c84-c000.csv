@@ -1,0 +1,107 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Delhi Institute of Engineering and Technology - [DIET], Meerut",5.4,55000,300000,UP,UPDe5
+"HI-Tech Institute of Engineering and Technology - [HIET], Ghaziabad",5.6,103000,1200000,UP,UPHI5
+"Azad Institute of Engineering and Technology - [AIET], Lucknow",6.2,56000,1150000,UP,UPAz6
+"IIMT University - [IIMTU], Meerut",6.2,73000,3726000,UP,UPII6
+"Shambhunath Institute of Engineering and Technology - [SIET], Allahabad",6.2,79400,1000000,UP,UPSh6
+"Institute of Technology & Management - [ITM], Aligarh",6.6,55000,320000,UP,UPIn6
+"Nitra Technical Campus - [NTC], Ghaziabad",6.6,83500,400000,UP,UPNi6
+"RV Institute of Technology - [RVIT], Bijnor",6.7,230800,250000,UP,UPRV6
+"Surya Group of Institutions - [SGI], Lucknow",6.8,62500,750000,UP,UPSu6
+"Career Point University - [CPU], Hamirpur",6.8,105000,350000,UP,UPCa6
+"Meerut International Institute of Technology - [MIIT], Meerut",6.9,65500,420000,UP,UPMe6
+"United Group of Institutions - [UGI], Allahabad",6.9,118025,1665000,UP,UPUn6
+"Raj Kumar Goel Institute of Technology - [RKGIT], Ghaziabad",7.0,135000,452500,UP,UPRa7
+"Inderprastha Engineering College - [IPEC], Ghaziabad",7.0,136056,960000,UP,UPIn7
+"Saroj Institute of Technology and Management - [SITM], Lucknow",7.0,240000,5800000,UP,UPSa7
+"Buddha Institute of Technology- [BIT], Gorakhpur",7.1,68057,504000,UP,UPBu7
+"Babu Banarasi Das Institute of Technology - [BBDIT], Ghaziabad",7.1,80000,450000,UP,UPBa7
+"Raja Balwant Singh Engineering Technical Campus - [FETRBS], Agra",7.1,81865,2300000,UP,UPRa7
+"Bansal Institute of Engineering and Technology - [BIET], Lucknow",7.1,94904,300000,UP,UPBa7
+"Bharat Institute of Technology - [BIT], Meerut",7.1,95000,250000,UP,UPBh7
+"Shri Ram Group of Colleges - [SRGC], Muzaffarnagar",7.1,104900,1100000,UP,UPSh7
+"CIPET- Institute Of Plastics Technology - [IPT], Lucknow",7.1,200000,1000000,UP,UPCI7
+"SP Memorial Institute of Technology - [SPMIT], Allahabad",7.1,220000,90000,UP,UPSP7
+"Jahangirabad Institute of Technology, Barabanki",7.2,50000,350000,UP,UPJa7
+"Rajkiya Engineering College - [REC], Ambedkar Nagar",7.2,57300,280000,UP,UPRa7
+"Rajkiya Engineering College - [REC], Sonbhadra",7.2,57300,600000,UP,UPRa7
+"Bundelkhand Institute of Engineering & Technology - [BIET], Jhansi",7.2,61800,309000,UP,UPBu7
+"Institute of Engineering & Technology, Agra",7.3,78000,1750000,UP,UPIn7
+"SRM, Institute of Technology, Lucknow",7.3,117500,5400000,UP,UPSR7
+"ABES Institute of Technology - [ABESIT], Ghaziabad",7.3,128100,300000,UP,UPAB7
+"Sri Rammurty Smarak College of Engineering & Technology, Bareilly",7.3,139282,300000,UP,UPSr7
+"ANA Group of Institutions, Bareilly",7.3,252000,220000,UP,UPAN7
+"Institute of Engineering and Rural Technology - [IERT], Allahabad",7.4,71200,320000,UP,UPIn7
+"Meerut Institute of Technology - [MIT], Meerut",7.4,87500,240000,UP,UPMe7
+"SRMIST Delhi NCR Campus, Ghaziabad",7.4,221000,650000,UP,UPSR7
+"Mahaveer Institute of Engineering & Technology - [MIET], Meerut",7.5,,813000,UP,UPMa7
+"Institute of Engineering and Technology - [IET], Lucknow",7.5,89775,2500000,UP,UPIn7
+"IFTM University, Moradabad",7.5,107000,830000,UP,UPIF7
+"Vidya College of Engineering - [VCE], Meerut",7.5,108000,520000,UP,UPVi7
+"Babu Banarasi Das Institute of Technology & Management - [BBDITM], Lucknow",7.5,116803,737217,UP,UPBa7
+"Mangalayatan University - [MU], Aligarh",7.5,130000,1709000,UP,UPMa7
+"Maharaja Agrasen Institute of Technology - [MAIT], New Delhi",7.5,143200,3500000,UP,UPMa7
+"RD Engineering College, Ghaziabad",7.5,182500,380000,UP,UPRD7
+"Aligarh College of Engineering and Technology - [ACET], Aligarh",7.5,380000,518000,UP,UPAl7
+"Bhartiya Shiksha Parishad - [BSP], Lucknow",7.6,17250,700000,UP,UPBh7
+"Rajkiya Engineering College - [RECK], Kannauj",7.6,60500,750000,UP,UPRa7
+"Glocal University, Saharanpur",7.6,95000,4600000,UP,UPGl7
+"Ambalika Institute of Management and Technology - [AIMT], Lucknow",7.6,105709,1250000,UP,UPAm7
+"Anand Engineering College - [AEC], Agra",7.6,117625,3600000,UP,UPAn7
+"Sanskriti University - [SU], Mathura",7.6,130000,360000,UP,UPSa7
+"IMS Engineering College - [IMSEC], Ghaziabad",7.6,135169,603000,UP,UPIM7
+"Lucknow Institute of Technology - [LIT], Lucknow",7.6,220000,1080000,UP,UPLu7
+"Kamla Nehru Institute of Technology - [KNIT], Sultanpur",7.6,337000,395777,UP,UPKa7
+"Maulana Azad University, Jodhpur",7.7,60500,1200000,UP,UPMa7
+"Rajkiya Engineering College -[RECM], Mainpuri",7.7,60500,250000,UP,UPRa7
+"Maulana Abul Kalam Azad University of Technology - [MAKAUT], Kolkata",7.7,70300,450000,UP,UPMa7
+"Maharishi University of Information Technology - [MUIT], Lucknow",7.7,80000,450000,UP,UPMa7
+"Ajay Kumar Garg Engineering College - [AKGEC], Ghaziabad",7.7,141856,700000,UP,UPAj7
+"Zakir Hussain College of Engineering and Technology - [ZHCET], Aligarh",7.8,18040,300000,UP,UPZa7
+"Venkateshwara Group of Institutions, Meerut",7.8,75000,1200000,UP,UPVe7
+"College of Engineering and Rural Technology - [CERT], Meerut",7.8,85565,240000,UP,UPCo7
+"Krishna Engineering College - [KEC], Ghaziabad",7.8,99677,86000000,UP,UPKr7
+"Babu Banarasi Das Northern India Institute of Technology - [BBDNIIT], Lucknow",7.8,105503,250000,UP,UPBa7
+"Babu Banarasi Das University - [BBDU], Lucknow",7.8,125000,2586000,UP,UPBa7
+"J.K. Institute of Applied Physics and Technology, Allahabad",7.9,35910,3200000,UP,UPJ.7
+"Rajshree Institute of Management and Technology - [RIMT], Bareilly",7.9,51400,1200000,UP,UPRa7
+"Institute of Technology and Management - [ITM], Gorakhpur",7.9,55000,480000,UP,UPIn7
+"Bundelkhand University, Institute of Engineering and Technology, Jhansi",7.9,67200,543000,UP,UPBu7
+"Goel Institute of Technology & Management - [GITM], Lucknow",7.9,78589,314000,UP,UPGo7
+"Mohammad Ali Jauhar University, Rampur",7.9,85700,1176000,UP,UPMo7
+"Bhagwati Institute of Technology and Science, Ghaziabad",7.9,95865,3400000,UP,UPBh7
+"ABSS Institute of Technology, Meerut",7.9,113460,1270000,UP,UPAB7
+"KIET Group of Institutions - [KIET], Ghaziabad",7.9,138499,2400000,UP,UPKI7
+"Meerut Institute of Engineering and Technology - [MIET], Meerut",7.9,408000,458000,UP,UPMe7
+"Eshan Group of Institution, Agra",8.0,72000,450000,UP,UPEs8
+"SR Group of Institutions - [SRGI], Jhansi",8.0,73100,900000,UP,UPSR8
+"Rakshpal Bahadur College of Engineering & Technology - [RBCET], Bareilly",8.0,75000,314000,UP,UPRa8
+"Sanskar Educational Group - [SEG], Ghaziabad",8.0,90000,480000,UP,UPSa8
+"ABES Engineering College, Ghaziabad",8.0,136600,14000000,UP,UPAB8
+"Integral University, Lucknow",8.0,140000,3700000,UP,UPIn8
+"Maulana Azad National Institute of Technology - [MANIT], Bhopal",8.0,154000,750000,UP,UPMa8
+"JNTUH College of Engineering Sultanpur - [JNTUHCES], Sangareddy",8.1,40500,920000,UP,UPJN8
+"Institute of Technology & Management - [ITM], Lucknow",8.1,67400,550000,UP,UPIn8
+"Moradabad Institute of Technology - [MIT], Moradabad",8.1,114575,5100000,UP,UPMo8
+"Jaypee University Anoopshahr, Bulandshahr",8.1,155000,1000000,UP,UPJa8
+"IAMR Group of Institutions - [IAMR], Ghaziabad",8.1,280000,425000,UP,UPIA8
+"Dayalbagh Educational Institute Faculty of Engineering, Agra",8.2,51300,1146000,UP,UPDa8
+"Sunder Deep Group of Institutions - [SDGI], Ghaziabad",8.2,60000,700000,UP,UPSu8
+"Shobhit University, Meerut",8.2,110000,2700000,UP,UPSh8
+"Shri Ramswaroop Memorial University - [SRMU], Lucknow",8.2,137000,900000,UP,UPSh8
+"National Institute of Technology - [NIT], Hamirpur",8.2,180200,1036000,UP,UPNa8
+"Aligarh Muslim University - [AMU], Aligarh",8.2,269445,6000000,UP,UPAl8
+"R.R. Group of Institutions - [RRGI], Lucknow",8.3,79700,850000,UP,UPR.8
+"Invertis University, Bareilly",8.3,100000,450000,UP,UPIn8
+"Shri Venkateshwara University - [SVU], Amroha",8.3,125000,180000,UP,UPSh8
+"Devprayag Institute of Technical Studies - [DITS], Allahabad",8.4,80500,450000,UP,UPDe8
+"Raj Kumar Goel Engineering College - [RKGEC], Ghaziabad",8.4,110000,840000,UP,UPRa8
+"United Institute of Technology - [UIT], Allahabad",8.4,112025,260000,UP,UPUn8
+"GLA University, Mathura",8.4,171000,4650000,UP,UPGL8
+"MNNIT Allahabad - Motilal Nehru National Institute of Technology - [MNNIT], Allahabad",8.5,84666,4500000,UP,UPMN8
+"Feroze Gandhi Institute of Engineering and Technology - [FGIET], Rae Bareli",8.5,87709,700000,UP,UPFe8
+"Maharaja Agrasen University - [MAU], Solan",8.5,120000,430000,UP,UPMa8
+"Indian Institute of Information Technology - [IIITL], Lucknow",8.5,269700,782000,UP,UPIn8
+"Rajiv Gandhi Institute of Petroleum Technology - [RGIPT], Amethi",8.5,271600,823000,UP,UPRa8
+"Vidya Knowledge Park - [VKP], Meerut",8.7,102850,500000,UP,UPVi8
+"Indian Institute of Information Technology - [IIIT], Allahabad",8.7,104000,5475000,UP,UPIn8

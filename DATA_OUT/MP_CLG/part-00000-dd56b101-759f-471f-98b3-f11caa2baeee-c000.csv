@@ -1,0 +1,90 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Sushila Devi Bansal College, Indore",5.0,30000,280000,MP,MPSu5
+"Mittal Institute of Technology - [MIT], Bhopal",5.3,50000,500000,MP,MPMi5
+"Dharmsinh Desai University - [DDU], Nadiad",5.9,152000,300000,MP,MPDh5
+"Sam College of Engineering and Technology - [SAMCET], Bhopal",6.1,55000,1000000,MP,MPSa6
+"Dayananda Sagar Institutions - [DSI], Bangalore",6.2,246180,474000,MP,MPDa6
+"Swami Vivekanand University, Sagar",6.4,44000,6000000,MP,MPSw6
+"Ujjain Engineering College - [UEC], Ujjain",6.8,25151,2600000,MP,MPUj6
+"Rustamji Institute of Technology - [RJIT], Gwalior",6.8,81136,1200000,MP,MPRu6
+"Vindhya Institute of Technology and Science - [VITS], Satna",6.9,53000,1000000,MP,MPVi6
+"University Institute of Technology, Rajiv Gandhi Proudyogiki Vishwavidyalaya - [UIT- RGPV], Bhopal",7.0,23920,12500000,MP,MPUn7
+"Vikrant Group of Institutions - [VGI], Indore",7.0,45000,775000,MP,MPVi7
+"Patel College of Science and Technology - [PCST], Bhopal",7.0,56000,450000,MP,MPPa7
+"Mahakal Institute of Technology - [MIT], Ujjain",7.0,57000,1900000,MP,MPMa7
+"Bhopal Institute of Technology & Science - [BITS], Bhopal",7.1,55000,500000,MP,MPBh7
+"Technocrats Institute of Technology - [TIT] (Excellence), Bhopal",7.1,74400,1600000,MP,MPTe7
+"Jayam College of Engineering and Technology - [JCET], Dharmapuri",7.1,200000,2000000,MP,MPJa7
+"Jabalpur Engineering College - [JEC], Jabalpur",7.2,22300,1200000,MP,MPJa7
+"Jawaharlal Nehru College of Technology - [JNCT], Rewa",7.2,48000,1800000,MP,MPJa7
+"Malwa Institute of Science and Technology - [MIST], Indore",7.2,53500,1200000,MP,MPMa7
+"Jai Narain College of Technology & Science - [JNCTS], Bhopal",7.2,55000,1814000,MP,MPJa7
+"Gyan Ganga Institute of Technology and Sciences - [GGITS], Jabalpur",7.2,70000,360000,MP,MPGy7
+"Samrat Ashok Technological Institute - [S.A.T.I], Vidisha",7.2,71300,1200000,MP,MPSa7
+"Oriental University - [OU], Indore",7.3,35000,240000,MP,MPOr7
+"Bhabha Engineering Research Institute - [BERI], Bhopal",7.3,44000,2900000,MP,MPBh7
+"AKS University - [AKSU], Satna",7.3,60000,508000,MP,MPAK7
+"Truba College of Science and Technology - [TCST], Bhopal",7.3,60000,480000,MP,MPTr7
+"Mandsaur Institute of Technology- [MIT], Indore",7.3,68400,425000,MP,MPMa7
+"Indian Institute of Information Technology -[IIIT], Bhopal",7.3,224500,650000,MP,MPIn7
+"Gyan Ganga College of Technology - [GGCT], Jabalpur",7.4,70000,350000,MP,MPGy7
+"Shri Govindram Seksaria Institute of Technology and Science- [SGSITS], Indore",7.4,75550,800000,MP,MPSh7
+"Madhav Institute of Technology and Science - [MITS], Gwalior",7.4,104070,3200000,MP,MPMa7
+"Nowgong Engineering College, Chhatarpur",7.5,25080,166000,MP,MPNo7
+"Oriental Institute of Science and Technology - [OIST], Bhopal",7.5,96000,2200000,MP,MPOr7
+"Medi-Caps University, Indore",7.5,110000,340000,MP,MPMe7
+"Sanghvi Institute of Management and Science - [SIMS], Indore",7.6,40000,350000,MP,MPSa7
+"Gwalior Engineering College - [GEC], Gwalior",7.6,45600,576000,MP,MPGw7
+"RKDF University, Bhopal",7.6,55000,5387000,MP,MPRK7
+"Indore Institute of Science and Technology - [IIST], Indore",7.6,60000,250000,MP,MPIn7
+"Bhopal Institute of Technology - [BIT], Bhopal",7.7,55000,450000,MP,MPBh7
+"IES College of Technology - [ICOT], Bhopal",7.7,55000,500000,MP,MPIE7
+"Bansal Institute of Science and Technology - [BIST], Bhopal",7.7,55000,240000,MP,MPBa7
+"Institute of Engineering and Technology, Devi Ahilya University - [IET -DAVV], Indore",7.7,82961,675000,MP,MPIn7
+"Dayananda Sagar University - [DSU], Bangalore",7.7,119793,2500000,MP,MPDa7
+"Rabindranath Tagore University - [RNTU], Bhopal",7.8,45000,4400000,MP,MPRa7
+"Trinity Institute of Technology and Research, Bhopal",7.8,53000,480000,MP,MPTr7
+"Patel College of Science and Technology - [PCST], Indore",7.8,54000,1200000,MP,MPPa7
+"Takshshila Institute of Engineering and Technology - [TIET], Jabalpur",7.8,58000,450000,MP,MPTa7
+"Acropolis Institute of Technology & Research - [AITR], Indore",7.8,73600,800000,MP,MPAc7
+"People's University, Bhopal",7.8,80000,250000,MP,MPPe7
+"Jaypee University of Engineering and Technology - [JUET], Guna",7.8,189450,340000,MP,MPJa7
+"Indian Institute of Information Technology - [IIITD], Dharwad",7.8,355000,5300000,MP,MPIn7
+"Government College of Engineering - [GCE], Dharmapuri",7.9,7555,741000,MP,MPGo7
+"Lakshmi Narain College of Technology - [LNCT], Jabalpur",7.9,48600,2100000,MP,MPLa7
+"Sarvepalli Radhakrishnan University - [SRK], Bhopal",7.9,50000,450000,MP,MPSa7
+"SAGE University, Indore",7.9,60000,3600000,MP,MPSA7
+"Oriental Institute of Science and Technology - [OIST], Jabalpur",7.9,60000,1000000,MP,MPOr7
+"Atal Bihari Vajpayee Indian Institute of Information Technology and Management - [ABVIIITM], Gwalior",7.9,187250,5175000,MP,MPAt7
+"Symbiosis University of Applied Sciences- [SUAS], Indore",7.9,260000,163728,MP,MPSy7
+"Bhabha University - [BU], Bhopal",8.0,44000,200000,MP,MPBh8
+"Dayananda Sagar Academy of Technology and Management - [DSATM], Bangalore",8.0,97306,2500000,MP,MPDa8
+"Jagran Lakecity University - [JLU], Bhopal",8.0,105000,2700000,MP,MPJa8
+"Lakshmi Narain College of Technology - [LNCT], Bhopal",8.0,119400,4500000,MP,MPLa8
+"Maulana Azad National Institute of Technology - [MANIT], Bhopal",8.0,154000,750000,MP,MPMa8
+"Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Jabalpur",8.0,158940,450000,MP,MPIn8
+"VIT Bhopal University, Bhopal",8.0,201000,2100000,MP,MPVI8
+"ITM University, Gwalior",8.0,207000,5500000,MP,MPIT8
+"Institute Technology & Management - [ITM], Gwalior",8.1,77000,646000,MP,MPIn8
+"Dayananda Sagar College of Engineering - [DSCE], Bangalore",8.1,91796,4500000,MP,MPDa8
+"Shivajirao Kadam Group of Colleges, Indore",8.2,70000,250000,MP,MPSh8
+"Technocrats Institute of Technology - [TIT], Bhopal",8.2,100000,600000,MP,MPTe8
+"Amity University, Gwalior",8.2,208000,2400000,MP,MPAm8
+"Swami Vivekanand College of Engineering - [SVCE], Indore",8.3,58500,1000000,MP,MPSw8
+"Malwa Institute of Technology - [MIT], Indore",8.3,64200,480000,MP,MPMa8
+"LNCT University - [LNCTU], Bhopal",8.3,80000,1410000,MP,MPLN8
+"SDM College of Engineering and Technology - [SDMCET], Dharwad",8.3,350000,200000,MP,MPSD8
+"Shri Krishna University - [SKU], Chhatarpur",8.4,46000,600000,MP,MPSh8
+"Sardar Patel University - [SPUBGT], Balaghat",8.4,51500,350000,MP,MPSa8
+"Acropolis Group of Institutions, Indore",8.4,73600,860000,MP,MPAc8
+"SAGE University, Bhopal",8.4,90000,2000000,MP,MPSA8
+"Sagar Institute of Science and Technology - [SISTec] - Sagar Group of Institutions, Bhopal",8.4,340000,500000,MP,MPSa8
+"Madhyanchal Professional University - [MPU], Bhopal",8.5,40000,1800000,MP,MPMa8
+"IIT Indore - Indian Institute of Technology - [IITI], Indore",8.5,233900,430000,MP,MPII8
+"Renaissance University - [RU], Indore",8.6,80000,1200000,MP,MPRe8
+"Rewa Engineering College - [REC], Rewa",8.7,49800,538000,MP,MPRe8
+"Chameli Devi Group of Institution, Indore",8.8,35000,220000,MP,MPCh8
+"IES University, Bhopal",8.8,55000,360000,MP,MPIE8
+"IIT Dharwad - Indian Institute of Technology - [IITD], Dharwad",8.8,241500,2038000,MP,MPII8
+"Avantika University, Ujjain",9.1,228000,1914000,MP,MPAv9
+"Sagar Institute of Research & Technology Excellence -[SIRTE], Bhopal",9.2,60000,350000,MP,MPSa9

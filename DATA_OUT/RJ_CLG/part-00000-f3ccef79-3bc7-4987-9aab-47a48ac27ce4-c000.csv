@@ -1,0 +1,70 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Poornima Institute of Engineering and Technology - [PIET], Jaipur",5.5,89250,360000,RJ,RJPo5
+"Aravali Institute of Technical Studies - [AITS], Udaipur",5.8,70000,750000,RJ,RJAr5
+"Geetanjali Institute of Technical Studies - [GITS], Udaipur",5.9,70500,400000,RJ,RJGe5
+"Maharishi Arvind Institute of Engineering & Technology - [MAIET], Jaipur",6.0,70000,500000,RJ,RJMa6
+"Anand International College of Engineering, Jaipur",6.6,85000,1000000,RJ,RJAn6
+"Laxmi Devi Institute of Engineering and Technology - [LIET], Alwar",6.7,77000,570000,RJ,RJLa6
+"Singhania University, Jhunjhunu",7.0,42000,626000,RJ,RJSi7
+"SS College of Engineering, Udaipur",7.0,77000,500000,RJ,RJSS7
+"Modern Institute of Technology and Research Centre -[MITRC], Alwar",7.1,77750,1200000,RJ,RJMo7
+"Jaipur Institute of Technology Group of Institution, Jaipur",7.1,84500,900000,RJ,RJJa7
+"Vivekananda Institute of Technology - [VIT], Jaipur",7.1,88000,711000,RJ,RJVi7
+"Suresh Gyan Vihar University - [SGVU], Jaipur",7.1,120000,1395000,RJ,RJSu7
+"Global Institute of Technology - [GIT], Jaipur",7.2,96043,3600000,RJ,RJGl7
+"Raj Engineering College- [REC], Jodhpur",7.3,40000,1500000,RJ,RJRa7
+"Government Engineering College, Ajmer",7.3,70500,325000,RJ,RJGo7
+"Northern Institute of Engineering Technical Campus - [NIET], Alwar",7.3,77000,365000,RJ,RJNo7
+"College of Technology and Engineering, Maharana Pratap University of Agriculture and Technology - [CTAE], Udaipur",7.3,315000,500000,RJ,RJCo7
+"Pratap University - [PU], Jaipur",7.3,387000,1400000,RJ,RJPr7
+"Shyam University, Dausa",7.4,80000,700000,RJ,RJSh7
+"Government Engineering College - [ECB], Bikaner",7.5,60000,250000,RJ,RJGo7
+"Compucom Institute of Information Technology and Management - [CIITM], Jaipur",7.5,77400,360000,RJ,RJCo7
+"Apex University - [AU], Jaipur",7.5,120000,1200000,RJ,RJAp7
+"Sir Padampat Singhania University - [SPSU], Udaipur",7.5,170000,2950000,RJ,RJSi7
+"Government Engineering College, Jhalawar",7.6,60100,1363000,RJ,RJGo7
+"SunRise University - [SRU], Alwar",7.6,62200,2000000,RJ,RJSu7
+"OPJS University, Churu",7.6,64200,3000000,RJ,RJOP7
+"Yagyavalkya Institute of Technology - [YIT], Jaipur",7.6,92515,516000,RJ,RJYa7
+"Arya College of Engineering and IT - [ACEIT], Jaipur",7.6,96104,360000,RJ,RJAr7
+"Maulana Azad University, Jodhpur",7.7,60500,1200000,RJ,RJMa7
+"Pacific University, Udaipur",7.7,80000,530000,RJ,RJPa7
+"Rajasthan Institute of Engineering and Technology - [RIET], Jaipur",7.7,85000,460000,RJ,RJRa7
+"Career Point University - [CPU], Kota",7.7,140000,400000,RJ,RJCa7
+"Poornima College of Engineering, Jaipur",7.7,170000,1500000,RJ,RJPo7
+"Madhav University - [MU], Sirohi",7.8,35000,360000,RJ,RJMa7
+"Maharana Pratap University of Agriculture and Technology - [MPUAT], Udaipur",7.8,86000,4500000,RJ,RJMa7
+"Arya College of Engineering, Jaipur",7.8,96104,1000000,RJ,RJAr7
+"Swami Keshvanand Institute of Technology, Management and Gramothan - [SKIT], Jaipur",7.8,108300,1200000,RJ,RJSw7
+"Indian Institute of Information Technology - [IIIT-K], Kota",7.8,230925,1200000,RJ,RJIn7
+"Marudhar Engineering College - [MEC], Bikaner",7.9,87500,500000,RJ,RJMa7
+"Jaipur Engineering College and Research Centre, Jaipur",7.9,92000,5893000,RJ,RJJa7
+"Sangam University - [SU], Bhilwara",7.9,100000,2700000,RJ,RJSa7
+"Jagdishprasad Jhabarmal Tibrewala University - [JJTU], Jhunjhunu",8.0,56000,380000,RJ,RJJa8
+"Institute of Engineering and Technology - [IETR], Alwar",8.0,84500,900000,RJ,RJIn8
+"RNB Global University - [RNBGU], Bikaner",8.0,115000,6378000,RJ,RJRN8
+"Poornima University - [PU], Jaipur",8.0,127500,2100000,RJ,RJPo8
+"The LNM Institute of Information Technology - [LNMIIT], Jaipur",8.0,374800,480000,RJ,RJTh8
+"Jagannath University, Jaipur",8.1,100000,4550000,RJ,RJJa8
+"Jaipur National University - [JNU], Jaipur",8.1,122000,507000,RJ,RJJa8
+"Amity University, Jaipur",8.1,152000,3200000,RJ,RJAm8
+"JECRC University - [JU], Jaipur",8.1,220000,1400000,RJ,RJJE8
+"JK Lakshmipat University - [JKLU], Jaipur",8.1,275000,5600000,RJ,RJJK8
+"Bhagwant University, Ajmer",8.2,84500,1300000,RJ,RJBh8
+"Jaipur Engineering College - [JEC], Jaipur",8.2,85000,1950000,RJ,RJJa8
+"Rajasthan College of Engineering for Women - [RCEW], Jaipur",8.2,87498,360000,RJ,RJRa8
+"University of Engineering and Management - [UEM], Jaipur",8.2,100000,1500000,RJ,RJUn8
+"ICFAI University, Jaipur",8.3,120000,300000,RJ,RJIC8
+"Manipal University - [MUJ], Jaipur",8.3,334000,2900000,RJ,RJMa8
+"Malaviya National Institute of Technology - [MNIT], Jaipur",8.4,177665,2300000,RJ,RJMa8
+"Birla Institute of Technology - [BIT], Jaipur",8.4,292000,450000,RJ,RJBi8
+"MBM Engineering College - [MBM], Jodhpur",8.4,315000,370000,RJ,RJMB8
+"Bikaner Technical University - [BTU], Bikaner",8.4,398000,400000,RJ,RJBi8
+"Banasthali Vidyapith, Jaipur",8.5,139000,609000,RJ,RJBa8
+"Asians Institute of Technology, Jaipur",8.5,146800,2700000,RJ,RJAs8
+"Mody University, Sikar",8.5,266000,24000000,RJ,RJMo8
+"Jayoti Vidyapeeth Women's University - [JVWU], Jaipur",8.6,80000,450000,RJ,RJJa8
+"University of Technology - [UOT], Jaipur",8.6,90000,1350000,RJ,RJUn8
+"Vivekananda Global University - [VGU], Jaipur",8.6,125000,3500000,RJ,RJVi8
+"NIMS University, Jaipur",8.6,150000,505406,RJ,RJNI8
+"IIT Jodhpur - Indian Institute of Technology - [IITJ], Jodhpur",9.1,251800,8800000,RJ,RJII9

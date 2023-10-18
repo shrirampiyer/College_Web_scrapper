@@ -1,0 +1,83 @@
+clg_name,rating,fees,pkg,STATE,CLG_ID
+"Krishnasamy College of Engineering and Technology - [KCET], Cuddalore",5.7,50000,500000,AP,APKr5
+"Anil Neerukonda Institute of Technology & Sciences - [ANITS], Visakhapatnam",5.8,76300,890000,AP,APAn5
+"G. Pullaiah College of Engineering and Technology - [GPCET], Kurnool",6.3,48000,1175000,AP,APG.6
+"Kalasalingam Institute of Technology - [KIT], Krishnankovil",6.4,200000,300000,AP,APKa6
+"Lenora College of Engineering, East Godavari",6.5,35000,400000,AP,APLe6
+"Godavari Institute of Engineering and Technology - [GIET] Rajahmundry, East Godavari",6.5,58700,303000,AP,APGo6
+"Lendi Institute of Engineering and Technology, Vizianagaram",6.5,59900,5023000,AP,APLe6
+"Vignan's Nirula Institute of Technology and Science for Women -[VNIW], Guntur",6.6,35000,180000,AP,APVi6
+"Usha Rama College of Engineering and Technology - [URCE], Krishna",6.8,55200,737000,AP,APUs6
+"Raghu Institute of Technology - [RIT], Visakhapatnam",6.8,61000,1200000,AP,APRa6
+"Sri Vasavi Institute of Engineering and Technology - [SVIET], Krishna",6.9,30200,1200000,AP,APSr6
+"Chalapathi Institute of Technology - [CIT], Guntur",7.0,35000,360000,AP,APCh7
+"Anantha Lakshmi Institute of Technology and Sciences - [ALITS], Anantapur",7.0,50200,400000,AP,APAn7
+"Kalasalingam Academy of Research and Education, Krishnankovil",7.0,120600,300000,AP,APKa7
+"GITAM School of Technology, Visakhapatnam",7.0,346000,1300000,AP,APGI7
+"Amrita Sai Institute of Science and Technology - [ASIST], Krishna",7.1,35000,1500000,AP,APAm7
+"Sri Mittapalli College of Engineering, Guntur",7.1,41600,550000,AP,APSr7
+"Sri Krishna Institute of Technology - [SKIT], Bangalore",7.1,45000,1000000,AP,APSr7
+"MVR College of Engineering and Technology - [MVRCET], Krishna",7.1,64800,170000,AP,APMV7
+"GIET Engineering College, Rajahmundhry, East Godavari",7.2,65000,610000,AP,APGI7
+"Government College of Engineering, Bargur - [GCE], Krishnagiri",7.3,50000,1260000,AP,APGo7
+"Sri Mittapalli Institute of Technology for Women - [SMITW], Guntur",7.3,52400,360000,AP,APSr7
+"Krishna Group of Institutions, Kanpur",7.3,65000,480000,AP,APKr7
+"Annamacharya Institute of Technology and Sciences, Kadapa",7.3,68700,3175000,AP,APAn7
+"Teegala Krishna Reddy Engineering College, Hyderabad",7.3,80000,1600000,AP,APTe7
+"GITAM, Visakhapatnam",7.3,245000,5263000,AP,APGI7
+"Srinivasa Ramanujan Institute of Technology - [SRIT], Anantapur",7.4,50200,720000,AP,APSr7
+"Prakasam Engineering College - [PEC], Prakasam",7.4,53850,360000,AP,APPr7
+"GIET College of Engineering, Rajahmundhry, East Godavari",7.4,58700,3300000,AP,APGI7
+"Maharaj Vijayaram Gajapathi Raj College of Engineering - [MVGRCE], Vizianagaram",7.4,67700,2035000,AP,APMa7
+"Jawaharlal Nehru Technological University - [JNTU], Anantapur",7.5,,470000,AP,APJa7
+"JNTUA College of Engineering, Anantapur",7.5,25000,1472000,AP,APJN7
+"BABA Institute of Technology and Sciences - [BITS-VIZAG], Visakhapatnam",7.5,30000,700000,AP,APBA7
+"Aditya Institute of Technology and Management -[AITAM] Tekkali, Srikakulam",7.5,72000,400000,AP,APAd7
+"Vemu Institute of Technology - [VEMU], Chittoor",7.6,35000,450000,AP,APVe7
+"Visakha Institute of Engineering & Technology - [VIET], Visakhapatnam",7.6,35000,350000,AP,APVi7
+"Vizag Institute of Technology - [VIZB], Visakhapatnam",7.6,50100,1500000,AP,APVi7
+"Vasireddy Venkatadri Institute of Technology - [VVIT], Guntur",7.6,55000,2216000,AP,APVa7
+"Bapatla Engineering College - [BEC], Guntur",7.6,61000,800000,AP,APBa7
+"Rajeev Gandhi Memorial College of Engineering and Technology Nandyal - [RGMCET], Kurnool",7.6,69100,645000,AP,APRa7
+"Indian Institute of Information Technology Design and Manufacturing - [IIITDM], Kurnool",7.6,153380,576000,AP,APIn7
+"Andhra University, College of Engineering - [AUCE], Visakhapatnam",7.7,10000,1150000,AP,APAn7
+"MIC College of Technology, Krishna",7.7,36100,180000,AP,APMI7
+"KKR & KSR Institute of Technology and Sciences - [KITS], Guntur",7.7,37000,605000,AP,APKK7
+"Kandula Sreenivasa Reddy Memorial College of Engineering - [KSRMCE], Kadapa",7.7,56700,220000,AP,APKa7
+"Gayatri Vidya Parishad College of Engineering For Women - [GVPW], Visakhapatnam",7.7,97600,500000,AP,APGa7
+"Bonam Venkata Chalamayya Engineering College - [BVCEC], East Godavari",7.8,35000,350000,AP,APBo7
+"Malineni Lakshmaiah Womens Engineering College, Guntur",7.8,35000,465000,AP,APMa7
+"Chalapathi Institute of Engineering and Technology - [CIET], Guntur",7.8,52500,1200000,AP,APCh7
+"QIS Institute of Technology - [QISIT], Prakasam",7.8,53000,3000000,AP,APQI7
+"Krishna Engineering College - [KEC], Ghaziabad",7.8,99677,86000000,AP,APKr7
+"JNTUK University College of Engineering, Kakinada, East Godavari",7.9,10000,1030000,AP,APJN7
+"Sai Tirumala NVR Engineering College - [STNVR], Guntur",7.9,38900,700000,AP,APSa7
+"BIT Institute of Technology, Anantapur",7.9,50200,2000000,AP,APBI7
+"Sri Venkateswara College of Engineering and Technology - [SVCET], Chittoor",7.9,65000,2500000,AP,APSr7
+"Santhiram Engineering College Nandyal - [SREC], Kurnool",8.0,59500,370000,AP,APSa8
+"Pragati Engineering College, East Godavari",8.0,63000,4732000,AP,APPr8
+"Gayatri Vidya Parishad College of Engineering, Visakhapatnam",8.0,69000,900000,AP,APGa8
+"Aditya Engineering College - [AEC], East Godavari",8.0,72000,1300000,AP,APAd8
+"Sri Krishna College of Engineering and Technology - [SKCET], Coimbatore",8.1,50000,1018000,AP,APSr8
+"Raghu Engineering College - [REC], Visakhapatnam",8.1,69700,2400000,AP,APRa8
+"Lakireddy Bali Reddy College of Engineering - [LBRCE], Krishna",8.1,69700,4160000,AP,APLa8
+"Centurion University of Technology and Management - [CUTM], Vizianagaram",8.1,125000,1900000,AP,APCe8
+"RV Institute of Technology, Guntur",8.2,35000,400000,AP,APRV8
+"Sai Ganapathi Engineering College, Visakhapatnam",8.2,35000,1000000,AP,APSa8
+"RVR and JC College of Engineering, Guntur",8.2,73400,733000,AP,APRV8
+"VIT University - [VIT- AP], Guntur",8.2,198000,4600000,AP,APVI8
+"Sanketika Vidya Parishad Engineering College, Visakhapatnam",8.3,41000,240000,AP,APSa8
+"Kallam Haranadhareddy Institute of Technology - [KHIT], Guntur",8.3,50200,2500000,AP,APKa8
+"Narasaraopeta Engineering College - [NEC], Guntur",8.3,60400,1000000,AP,APNa8
+"Gudlavalleru Engineering College - [GEC], Krishna",8.3,65000,1200000,AP,APGu8
+"Vignan's Foundation for Science, Technology, and Research, Guntur",8.3,120000,1243000,AP,APVi8
+"Guntur Engineering College - [GEC], Guntur",8.4,35000,300000,AP,APGu8
+"Shri Krishna University - [SKU], Chhatarpur",8.4,46000,600000,AP,APSh8
+"G. Pulla Reddy Engineering College - [GPREC], Kurnool",8.4,80000,4200000,AP,APG.8
+"Sri Krishna College of Technology - [SKCT], Coimbatore",8.4,200000,1470000,AP,APSr8
+"K L University - [KLU], Guntur",8.4,240000,2500000,AP,APK 8
+"Sri Sivani College of Engineering - [SSCE], Srikakulam",8.6,35000,1000000,AP,APSr8
+"University College of Engineering, JNTUK, Vizianagaram",8.7,15300,360000,AP,APUn8
+"Vignan's Institute of Information Technology - [VIIT], Visakhapatnam",8.7,52000,500000,AP,APVi8
+"Pydah College of Engineering, Kakinada, East Godavari",8.7,106850,520000,AP,APPy8
+"Gates Institute of Technology-[GIT], Anantapur",8.9,41000,1000000,AP,APGa8
